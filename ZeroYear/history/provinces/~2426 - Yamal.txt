@@ -1,9 +1,0 @@
-#2426 - Yamal
-
-owner = SOV
-controller = SOV
-add_core = SOV
-add_core = RUS
-
-discovered_by = global
-

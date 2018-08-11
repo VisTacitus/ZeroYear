@@ -1,7 +1,0 @@
-#1793 - El Djouf
-
-owner = FRA
-controller = FRA
-add_core = Y06
-
-discovered_by = global

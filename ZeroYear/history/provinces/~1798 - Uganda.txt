@@ -1,8 +1,0 @@
-#1798 - Imatong
-
-owner = GBR
-controller = GBR
-add_core = X83
-
-discovered_by = global
-

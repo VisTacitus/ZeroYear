@@ -1,6 +1,0 @@
-
-owner = GBR
-controller = GBR
-add_core = Y21
-
-discovered_by = global

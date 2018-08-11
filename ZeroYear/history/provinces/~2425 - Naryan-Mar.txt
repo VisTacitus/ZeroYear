@@ -1,8 +1,0 @@
-#2425 - Nenets
-
-owner = SOV
-controller = SOV
-add_core = SOV
-add_core = RUS
-
-discovered_by = global

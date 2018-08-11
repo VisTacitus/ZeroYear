@@ -1,7 +1,0 @@
-#High Atlas
-
-owner = FRA
-controller = FRA
-add_core = MOR
-
-discovered_by = global

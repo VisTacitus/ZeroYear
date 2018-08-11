@@ -1,8 +1,0 @@
-#1784 - Tian Shan
-
-owner = X75
-controller = X75
-add_core = X74
-add_core = X75
-
-discovered_by = global

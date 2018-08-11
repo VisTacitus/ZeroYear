@@ -1,9 +1,0 @@
-#4328 - Chagai
-
-owner = GBR
-controller = GBR
-add_core = GBR
-add_core = X24
-
-discovered_by = global
-

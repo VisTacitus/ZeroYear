@@ -1,8 +1,0 @@
-#1173 - Namib Desert / Skeleton Coast
-
-owner = SAF
-controller = SAF
-add_core = SAF
-add_core = Y25
-
-discovered_by = global
