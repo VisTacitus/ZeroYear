@@ -1,0 +1,16 @@
+# No previous file for Kotoko
+
+owner = FRA
+controller = FRA
+add_core = X89
+culture = kanuri 
+religion = sunni
+capital = "Kotoko"
+trade_goods = grain
+hre = no
+base_tax = 3 
+base_production = 3
+is_city = yes
+base_manpower = 1
+
+discovered_by = global

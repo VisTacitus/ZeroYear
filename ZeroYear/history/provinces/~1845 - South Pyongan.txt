@@ -1,0 +1,17 @@
+#1845 - Pyeongyang
+
+owner = SOV
+controller = SOV
+add_core = SOV
+add_core = X41
+culture = korean
+religion = confucianism
+capital = "Pyongyang"
+trade_goods = grain
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 3
+is_city = yes
+
+discovered_by = global

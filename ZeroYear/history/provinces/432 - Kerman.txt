@@ -1,0 +1,16 @@
+#432 - Kerman
+
+owner = PER
+controller = PER
+add_core = PER
+culture = persian
+religion = shiite
+capital = "Kerman"
+trade_goods = paper
+hre = no
+base_tax = 2
+base_production = 3
+base_manpower = 2
+is_city = yes
+
+discovered_by = global

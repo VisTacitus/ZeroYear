@@ -1,0 +1,35 @@
+# 84 - Berg
+
+owner = GBR
+controller = GBR
+add_core = GER
+add_core = IAR
+add_core = X25
+culture = hessian
+religion = catholic
+trade_goods = cloth
+capital = "Düsseldorf"
+base_tax = 4
+base_production = 4
+base_manpower = 1
+is_city = yes
+hre = no
+
+discovered_by = global
+
+1945.9.1 = { add_core = GBR } #Paritioning of Germany. Germany is too worn out.
+1949.4.28 = {
+	remove_core = GBR
+	owner = IAR
+	controller = IAR
+} #Formation of the International Authority for the Ruhr.
+1952.5.27 = {
+	remove_core = IAR
+	owner = X25
+	controller = X25
+} #Treaty of Paris, integration of the IAR into West Germany.
+1990.10.3 = {
+	remove_core = X25
+	owner = GER
+	controller = GER
+} #Formation of the Federal Republic of Germany.

@@ -1,0 +1,22 @@
+#2958 - Osterode
+
+owner = POL
+controller = POL
+add_core = POL
+capital = "Osterode"
+culture = prussian
+religion = catholic
+trade_goods = naval_supplies
+hre = no
+base_tax = 2
+base_production = 2
+base_manpower = 1
+is_city = yes
+fort_15th = yes
+
+discovered_by = global
+
+add_claim = GER #Rejection of the Oder-Neisse line
+1992.1.16 = {
+	remove_claim = GER
+} #The German-Polish Border Treaty is signed, finalizing the Oder-Neisse line.

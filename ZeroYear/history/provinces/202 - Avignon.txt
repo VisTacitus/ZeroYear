@@ -1,0 +1,17 @@
+# 202 Avignon - Principal cities: Avignon
+
+owner = FRA
+controller = FRA
+add_core = FRA
+capital = "Avignon"
+is_city = yes
+culture = occitain
+religion = catholic
+hre = no
+base_tax = 3 
+base_production = 3
+trade_goods = cloth
+base_manpower = 4
+fort_15th = yes
+
+discovered_by = global

@@ -1,0 +1,15 @@
+#784 - Huillimapu
+
+owner = CHL
+controller = CHL
+add_core = CHL
+religion = animism
+capital = "Huillimapu"
+is_city = yes
+trade_goods = fish
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+
+discovered_by = global

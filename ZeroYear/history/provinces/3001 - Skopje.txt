@@ -1,0 +1,23 @@
+# - Skopje
+
+owner = X02
+controller = X02
+add_core = X02
+add_core = Y60
+culture = serbian
+religion = orthodox
+capital = "Skopje"
+trade_goods = iron
+hre = no
+base_tax = 3
+base_production = 4 #Many productive Mines. Main Source of Ottoman Silver in 1444.
+base_manpower = 3
+is_city = yes
+
+discovered_by = global
+
+1991.9.8 = {
+	remove_core = X02
+	owner = Y60
+	controller = Y60
+} #Macedonian Independence

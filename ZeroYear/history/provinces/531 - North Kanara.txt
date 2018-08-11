@@ -1,0 +1,23 @@
+#531 - North Kanara
+
+owner = GBR
+controller = GBR
+add_core = GBR
+add_core = X23
+culture = kannada
+religion = hinduism
+capital = "Bhatkal"
+trade_goods = spices
+hre = no
+base_tax = 4 
+base_production = 4
+base_manpower = 2
+is_city = yes
+
+discovered_by = global
+
+1947.7.18 = {
+	remove_core = GBR
+	owner = X23
+	controller = X23
+} #The British Raj is partitioned between India and Pakistan.

@@ -1,0 +1,18 @@
+# 203 Lyonnais - Principal cities: Lyon
+
+owner = FRA
+controller = FRA
+add_core = FRA
+capital = "Lyon"
+is_city = yes
+culture = occitain
+religion = catholic
+hre = no
+base_tax = 7
+base_production = 7
+trade_goods = paper
+base_manpower = 6
+add_core = FRA
+fort_15th = yes
+
+discovered_by = global

@@ -1,0 +1,17 @@
+#1758 - Hannover
+
+owner = GBR
+controller = GBR
+add_core = GER
+add_core = X25
+culture = hannoverian
+religion = catholic
+capital = "Hannover"
+trade_goods = cloth
+hre = no
+base_tax = 4
+base_production = 4
+base_manpower = 4
+is_city = yes
+
+discovered_by = global

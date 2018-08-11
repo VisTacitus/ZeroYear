@@ -1,0 +1,23 @@
+#1122 - Konian
+
+owner = FRA
+controller = FRA
+add_core = FRA
+add_core = X97
+is_city = yes
+culture = dyola 
+religion = shamanism #Fetishism
+capital = "Tingrela"
+trade_goods = dyes
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+
+discovered_by = global
+
+1960.8.7 = {
+	remove_core = FRA
+	owner = X97
+	controller = X97
+} #The Ivory Coast gains its' independence from France.

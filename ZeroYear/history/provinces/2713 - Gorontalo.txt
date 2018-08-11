@@ -1,0 +1,26 @@
+#2713 - Gorontalo
+
+owner = NED
+controller = NED
+add_core = X78
+culture = sulawesi
+religion = animism
+capital = "Gorontalo"
+trade_goods = unknown
+hre = no
+base_tax = 2 
+base_production = 2
+base_manpower = 1
+
+discovered_by = global
+
+1945.12.23 = {
+	controller = X78
+} #Sulawesi defects to the Indonesians.
+1945.12.23 = {
+	controller = NED
+} #Areas of Sulawesi immediately retaken by the Dutch.
+1949.11.2 = {
+	owner = X78
+	controller = X78
+} #Round Table Talks are concluded.

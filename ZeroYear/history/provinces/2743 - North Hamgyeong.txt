@@ -1,0 +1,29 @@
+#2742 - Gyeongseong
+
+owner = SOV
+controller = SOV
+add_core = SOV
+add_core = X41
+culture = korean
+religion = confucianism
+capital = "Gyeongseong"
+trade_goods = fur
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+is_city = yes
+
+discovered_by = global
+
+1948.9.9 = {
+	remove_core = SOV
+	owner = X41
+	controller = X41
+} #North Korea (DPRK) nominally granted independence.
+1950.11.7 = {
+	controller = USA
+} #An American Offensive into the North-east of the country.
+1950.12.3 = {
+	controller = X41
+} #Chinese Offensive sweeps through Korea.

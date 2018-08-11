@@ -1,0 +1,17 @@
+#546 - East Berar / Nagpur
+
+owner = GBR
+controller = GBR
+add_core = GBR
+add_core = X23
+culture = gondi
+religion = hinduism
+capital = "Wairagarh"
+trade_goods = cotton
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 3
+is_city = yes
+
+discovered_by = global

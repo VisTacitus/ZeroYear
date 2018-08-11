@@ -1,0 +1,15 @@
+#958 - Seneca (Area was Wenro until 1638)
+
+owner = USA
+controller = USA
+add_core = USA
+culture = huron
+religion = totemism
+capital = "Seneca"
+trade_goods = fur
+hre = no
+base_tax = 1
+base_production = 2
+base_manpower = 1
+
+discovered_by = global

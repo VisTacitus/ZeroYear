@@ -1,0 +1,15 @@
+# No previous file for Baracoa
+
+owner = X60
+controller = X60
+add_core = X60
+culture = arawak
+religion = animism
+capital = "Baracoa"
+trade_goods = unknown
+hre = no
+base_tax = 2 
+base_production = 2
+base_manpower = 1
+
+discovered_by = global

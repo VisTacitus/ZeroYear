@@ -1,0 +1,15 @@
+#950 - Chesapeake
+
+owner = USA
+controller = USA
+add_core = USA
+culture = powhatan
+religion = totemism
+capital = "Chesapeake"
+trade_goods = unknown
+hre = no
+base_tax = 5
+base_production = 3
+base_manpower = 2
+
+discovered_by = global

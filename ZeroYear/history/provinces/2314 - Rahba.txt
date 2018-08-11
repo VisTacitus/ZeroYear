@@ -1,0 +1,16 @@
+#2314 - Rahba
+
+owner = IRQ
+controller = IRQ
+add_core = IRQ
+culture = al_iraqiya_arabic
+religion = sunni
+capital = "Deir ez-Zor"
+trade_goods = grain
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+is_city = yes
+
+discovered_by = global

@@ -1,0 +1,15 @@
+#1240 - Hawaii
+
+owner = USA
+controller = USA
+add_core = USA
+culture = polynesian
+religion = animism
+capital = "Honolulu"
+trade_goods = unknown
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 1
+
+discovered_by = global

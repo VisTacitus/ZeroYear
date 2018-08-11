@@ -1,0 +1,17 @@
+#517 - Surat (Surat, Rander, Daman)
+
+owner = GBR
+controller = GBR
+add_core = GBR
+add_core = X23
+culture = gujarati
+religion = hinduism
+capital = "Surat"
+trade_goods = silk
+hre = no
+base_tax = 8 
+base_production = 8
+base_manpower = 3
+is_city = yes
+
+discovered_by = global

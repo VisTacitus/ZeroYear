@@ -1,0 +1,17 @@
+#Cherkasy
+
+owner = SOV
+controller = SOV
+add_core = SOV
+add_core = UKR
+culture = ruthenian
+religion = orthodox
+hre = no
+base_tax = 1
+base_production = 1
+trade_goods = livestock
+base_manpower = 1
+capital = "Cherkasy"
+is_city = yes
+
+discovered_by = global

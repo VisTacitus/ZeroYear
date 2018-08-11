@@ -1,0 +1,14 @@
+owner = X03
+controller = X03
+add_core = Y12
+culture = luba
+religion = shamanism #Fetishism
+capital = "Songye"
+trade_goods = grain
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+is_city = yes
+
+discovered_by = global

@@ -1,0 +1,17 @@
+#2230 - Chakansur
+
+owner = X02
+controller = X02
+add_core = X02
+add_core = X01
+culture = austrian
+religion = catholic
+capital = "Maribor"
+trade_goods = livestock
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+is_city = yes
+
+discovered_by = global

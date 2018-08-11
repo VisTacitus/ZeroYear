@@ -1,0 +1,29 @@
+#4141 - Ditmarschen
+
+owner = GBR
+controller = GBR
+add_core = GER
+add_core = X25
+culture = hannoverian
+religion = catholic
+hre = no
+base_tax = 2
+base_production = 3
+trade_goods = grain
+base_manpower = 3
+capital = "Heide" #Or Meldorf
+is_city = yes
+
+discovered_by = global
+
+1945.9.1 = { add_core = GBR } #Paritioning of Germany. Germany is too worn out.
+1949.5.23 = {
+	remove_core = GBR
+	owner = X25
+	controller = X25
+} #Formation of West Germany.
+1990.10.3 = {
+	remove_core = X25
+	owner = GER
+	controller = GER
+} #Formation of the Federal Republic of Germany.

@@ -1,0 +1,22 @@
+#1238 - Solomon Islands
+
+owner = GBR
+controller = GBR
+add_core = GBR
+culture = polynesian
+religion = animism
+capital = "Solomon"
+trade_goods = unknown
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+
+discovered_by = global
+
+1978.7.7 = {
+	remove_core = GBR
+	add_core = Y36
+	owner = Y36
+	controller = Y36
+} #The Solomon Islands become independent.

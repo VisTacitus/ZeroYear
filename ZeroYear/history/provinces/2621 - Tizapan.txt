@@ -1,0 +1,16 @@
+# No previous file for Tizapan
+
+owner = MEX
+controller = MEX
+add_core = MEX
+culture = tecos
+is_city = yes
+religion = nahuatl
+capital = "Tizapan"
+trade_goods = grain
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 1
+
+discovered_by = global

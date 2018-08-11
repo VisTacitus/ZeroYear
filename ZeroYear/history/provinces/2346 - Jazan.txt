@@ -1,0 +1,16 @@
+#2346 - Jazan
+
+owner = NAJ
+controller = NAJ
+add_core = NAJ
+culture = hejazi_culture
+religion = shiite
+capital = "Jazan"
+trade_goods = fish
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 1
+is_city = yes
+
+discovered_by = global

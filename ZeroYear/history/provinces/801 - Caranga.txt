@@ -1,0 +1,19 @@
+#801 - Caranga
+
+owner = X51
+controller = X51
+add_core = X51
+culture = guarani
+
+discovered_by = global
+
+religion = animism
+capital = "Caranga"
+trade_goods = unknown
+hre = no
+base_tax = 2 
+base_production = 1
+base_manpower = 1
+native_size = 15
+native_ferocity = 1 
+native_hostileness = 1

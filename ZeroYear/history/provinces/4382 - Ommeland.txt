@@ -1,0 +1,16 @@
+# 4383 Ommeland - Groningen, Ommeland & Drenthe
+
+owner = NED
+controller = NED
+add_core = NED
+capital = "Groningen"
+is_city = yes
+culture = dutch
+religion = catholic
+hre = yes
+base_tax = 4
+base_production = 4
+base_manpower = 2
+trade_goods = cloth
+
+discovered_by = global

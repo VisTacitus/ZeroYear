@@ -1,0 +1,23 @@
+#2392 - Selangor
+
+owner = GBR
+controller = GBR
+add_core = GBR
+add_core = Y31
+culture = malayan
+religion = sunni
+capital = "Kelang"
+trade_goods = grain
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 2
+is_city = yes
+
+discovered_by = global
+
+1957.8.31 = {
+	remove_core = GBR
+	owner = Y31
+	controller = Y31
+} #Malaysia becomes independent as the "Federation of Malaysia".

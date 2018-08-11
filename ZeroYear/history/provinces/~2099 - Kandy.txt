@@ -1,0 +1,16 @@
+#2099 - Kandy
+
+owner = GBR
+controller = GBR
+add_core = CEY
+culture = sinhala
+religion = buddhism
+capital = "Gampala"
+trade_goods = gems #and spices
+hre = no
+base_tax = 2 
+base_production = 3
+base_manpower = 2
+is_city = yes
+
+discovered_by = global

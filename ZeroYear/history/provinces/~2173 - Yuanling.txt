@@ -1,0 +1,17 @@
+# 2173 - Yuanling
+
+owner = X75
+controller = X75
+add_core = X74
+add_core = X75
+culture = miao
+religion = animism
+capital = "Yuanling"
+trade_goods = tea
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 2
+is_city = yes
+
+discovered_by = global

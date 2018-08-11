@@ -1,0 +1,16 @@
+#849 - Tlapanec
+
+owner = MEX
+controller = MEX
+add_core = MEX
+culture = tlapanec
+religion = nahuatl
+capital = "Acapulco"
+trade_goods = gold
+hre = no
+base_tax = 4 
+base_production = 4
+base_manpower = 1
+is_city = yes
+
+discovered_by = global

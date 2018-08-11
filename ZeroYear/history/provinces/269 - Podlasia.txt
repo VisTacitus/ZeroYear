@@ -1,0 +1,16 @@
+#269 - Podlasia
+
+owner = POL
+controller = POL
+add_core = POL
+culture = byelorussian
+religion = catholic
+hre = no
+trade_goods = livestock
+base_tax = 5
+base_production = 5
+base_manpower = 3
+capital = "Bialystok"
+is_city = yes
+
+discovered_by = global

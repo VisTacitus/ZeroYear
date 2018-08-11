@@ -1,0 +1,19 @@
+#113 - Ferrara
+
+owner = ITA
+controller = ITA
+add_core = ITA
+culture = romagnan 
+religion = catholic 
+hre = no 
+base_tax = 6 
+base_production = 6 
+trade_goods = salt
+base_manpower = 2 
+capital = "Ferrara" 
+is_city = yes
+fort_15th = yes
+
+
+
+discovered_by = global

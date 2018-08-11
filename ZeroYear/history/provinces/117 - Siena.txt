@@ -1,0 +1,16 @@
+#117 - Siena
+
+owner = ITA
+controller = ITA
+add_core = ITA
+culture = tuscan 
+religion = catholic 
+hre = no
+base_tax = 8 
+base_production = 8    
+trade_goods = glass
+base_manpower = 4    
+capital = "Siena" 
+is_city = yes
+
+discovered_by = global

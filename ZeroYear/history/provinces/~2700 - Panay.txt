@@ -1,0 +1,17 @@
+#2700 - Panay
+
+owner = USA
+controller = USA
+add_core = USA
+add_core = X76
+culture = filipino
+religion = animism
+capital = "Panay"
+trade_goods = grain
+hre = no
+base_tax = 3 
+base_production = 4
+base_manpower = 2
+is_city = yes
+
+discovered_by = global

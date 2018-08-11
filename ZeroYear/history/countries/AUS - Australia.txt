@@ -1,0 +1,5 @@
+government = constitutional_republic
+technology_group = global
+religion = protestant
+primary_culture = english
+capital = 1090	# Sidney

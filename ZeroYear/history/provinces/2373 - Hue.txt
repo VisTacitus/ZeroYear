@@ -1,0 +1,39 @@
+#2373 - Hue
+
+owner = FRA
+controller = FRA
+add_core = FRA
+add_core = X38
+culture = vietnamese
+religion = mahayana
+capital = "Hue"
+trade_goods = incense
+hre = no
+base_tax = 5 
+base_production = 5
+base_manpower = 3
+is_city = yes
+
+discovered_by = global
+
+1954.7.21 = {
+	remove_core = FRA
+	owner = X38
+	controller = X38
+} #The Geneva Conference partitions Vietnam into both North and South.
+1972.6.27 = {
+	controller = X40
+} #1972 General Offensive.
+1973.1.27 = {
+	owner = X38
+	controller = X38
+} #The Paris Peace Accords are signed.
+1974.12.13 = {
+	controller = X40
+} #The Final push to Saigon. The US is too busy with Watergate.
+1976.7.2 = {
+	remove_core = X38
+	add_core = X39
+	owner = X39
+	controller = X39
+} #Vietnam officially unites.

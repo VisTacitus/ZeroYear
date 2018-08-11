@@ -1,0 +1,23 @@
+# No previous file for Dagbon
+
+owner = GBR
+controller = GBR
+add_core = GBR
+add_core = X98
+is_city = yes
+culture = dagomba
+religion = shamanism #Fetishism
+capital = "Yendi"
+trade_goods = dyes
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+
+discovered_by = global
+
+1957.3.6 = {
+	remove_core = GBR
+	owner = X98
+	controller = X98
+} #Ghana declares independence from the UK.

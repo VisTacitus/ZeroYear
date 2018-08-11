@@ -1,0 +1,17 @@
+# - Macaya
+
+owner = PEU
+controller = PEU
+add_core = PEU
+is_city = yes
+
+discovered_by = global
+
+culture = aimara
+religion = inti
+capital = "Macaya"
+trade_goods = grain
+hre = no
+base_tax = 2 
+base_production = 2
+base_manpower = 1

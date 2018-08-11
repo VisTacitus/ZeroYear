@@ -1,0 +1,24 @@
+#266 - Bohemia
+
+owner = BOH
+controller = BOH
+add_core = BOH
+capital = "Prague"
+culture = czech
+religion = catholic
+trade_goods = cloth 
+hre = no
+base_tax = 7
+base_production = 7
+base_manpower = 5
+is_city = yes
+fort_15th = yes
+
+discovered_by = global
+
+1993.1.1 = {
+	remove_core = BOH
+	add_core = X28
+	owner = X28
+	controller = X28
+} #Breakup of Czechoslovakia.

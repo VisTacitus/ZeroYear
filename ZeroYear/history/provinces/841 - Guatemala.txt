@@ -1,0 +1,16 @@
+#841 - Guatemala
+
+owner = X43
+controller = X43
+add_core = X43
+culture = highland_mayan 
+religion = mesoamerican_religion
+capital = "Guatemala" 
+trade_goods = cocoa 
+hre = no 
+base_tax = 3 
+base_production = 3
+base_manpower = 1 
+is_city = yes
+
+discovered_by = global

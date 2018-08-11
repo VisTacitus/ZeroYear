@@ -1,0 +1,16 @@
+#414 - Hamadan
+
+owner = PER
+controller = PER
+add_core = PER
+culture = luri
+religion = shiite
+capital = "Hamedan"
+trade_goods = cloth
+hre = no
+base_tax = 2
+base_production = 2
+base_manpower = 2
+is_city = yes
+
+discovered_by = global

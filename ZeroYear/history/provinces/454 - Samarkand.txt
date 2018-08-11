@@ -1,0 +1,23 @@
+#454 - Samarkand
+
+owner = SOV
+controller = SOV
+add_core = SOV
+add_core = X13
+culture = uzbehk
+religion = sunni
+capital = "Samarkand"
+trade_goods = paper
+hre = no
+base_tax = 7 
+base_production = 7
+base_manpower = 7
+is_city = yes
+
+discovered_by = global
+
+1991.8.31 = {
+	remove_core = SOV
+	owner = X13
+	controller = X13
+} #Uzbekistan declares independence from the Soviet Union.

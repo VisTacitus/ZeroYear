@@ -1,0 +1,17 @@
+#Nkoma
+
+owner = GBR
+controller = GBR
+add_core = GBR
+add_core = Y17
+culture = rwandan
+religion = shamanism #Fetishism
+capital = "Nkoma"
+trade_goods = iron
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 3
+is_city = yes
+
+discovered_by = global

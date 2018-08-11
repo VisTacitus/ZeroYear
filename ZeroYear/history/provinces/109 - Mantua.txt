@@ -1,0 +1,16 @@
+#109 - Mantua
+ 
+owner = ITA
+controller = ITA
+add_core = ITA
+culture = romagnan 
+religion = catholic 
+hre = no 
+base_tax = 9 
+base_production = 9    
+trade_goods = livestock
+base_manpower = 4    
+fort_15th = yes
+capital = "Mantova" 
+is_city = yes
+discovered_by = global

@@ -1,0 +1,16 @@
+# 92 Brabant - Principal cities: Brussel & Mechelen
+
+owner = X03
+controller = X03
+add_core = X03
+is_city = yes
+capital = "Bruxelles"
+culture = flemish
+religion = catholic
+hre = no
+base_tax = 7
+base_production = 7
+trade_goods = cloth
+base_manpower = 4
+
+discovered_by = global

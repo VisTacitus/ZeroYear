@@ -1,0 +1,15 @@
+#778 - Rio de la Plata
+
+owner = LAP
+controller = LAP
+add_core = LAP
+culture = charruan
+discovered_by = global
+religion = animism
+capital = "Rio de la Plata"
+is_city = yes
+trade_goods = grain
+hre = no
+base_tax = 4 
+base_production = 1
+base_manpower = 2

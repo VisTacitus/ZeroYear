@@ -1,0 +1,16 @@
+# - Meknes
+
+owner = FRA
+controller = FRA
+add_core = MOR
+culture = moroccan
+religion = sunni
+capital = "Meknes"
+trade_goods = cloth
+hre = no
+base_tax = 4 
+base_production = 4
+base_manpower = 2
+is_city = yes
+
+discovered_by = global

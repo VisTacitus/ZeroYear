@@ -1,0 +1,9 @@
+discovered_by = global
+
+
+
+
+1405.1.1 = { discovered_by = MNG }
+1500.1.1 = { discovered_by = POR }
+
+

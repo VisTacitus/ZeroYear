@@ -1,0 +1,16 @@
+#935 - Cherokee
+
+owner = USA
+controller = USA
+add_core = USA
+culture = cherokee
+religion = totemism
+capital = "Cherokee"
+trade_goods = naval_supplies
+hre = no
+base_tax = 2 
+base_production = 2
+base_manpower = 1
+is_city = yes
+
+discovered_by = global

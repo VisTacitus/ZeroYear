@@ -1,0 +1,17 @@
+#1185 - Uteve
+
+owner = GBR
+controller = GBR
+add_core = GBR
+add_core = Y22
+culture = shona
+religion = shamanism
+capital = "Khami"
+is_city = yes
+base_manpower = 1
+trade_goods = gold
+hre = no
+base_tax = 3 
+base_production = 3
+
+discovered_by = global

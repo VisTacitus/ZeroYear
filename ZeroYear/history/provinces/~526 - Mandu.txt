@@ -1,0 +1,17 @@
+#526 - Mandu
+
+owner = GBR
+controller = GBR
+add_core = GBR
+add_core = X23
+culture = malvi
+religion = hinduism
+capital = "Mandu"
+trade_goods = dyes
+hre = no
+base_tax = 6 
+base_production = 7
+base_manpower = 4
+is_city = yes
+
+discovered_by = global

@@ -1,0 +1,17 @@
+#732 - Hamgyeong
+
+owner = SOV
+controller = SOV
+add_core = SOV
+add_core = X41
+culture = korean
+religion = confucianism
+capital = "Hamgyeong"
+trade_goods = fish
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 2
+is_city = yes
+
+discovered_by = global

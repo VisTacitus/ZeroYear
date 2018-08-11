@@ -1,0 +1,16 @@
+# 97 - North Holland - Principal cities: Amsterdam, Haarlem
+
+owner = NED
+controller = NED
+add_core = NED
+capital = "Amsterdam"
+is_city = yes
+culture = dutch
+religion = catholic
+hre = yes
+base_tax = 7
+base_production = 7
+trade_goods = cloth
+base_manpower = 5
+
+discovered_by = global

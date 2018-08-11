@@ -1,0 +1,5 @@
+government = despotic_monarchy
+technology_group = global
+religion = confucianism
+primary_culture = zhongyuan
+capital = 688	#Kaifeng

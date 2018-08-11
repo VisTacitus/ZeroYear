@@ -1,0 +1,17 @@
+#2403 - Martaban
+
+owner = GBR
+controller = GBR
+add_core = GBR
+add_core = TAU
+culture = karen
+religion = buddhism
+capital = "Martaban"
+trade_goods = chinaware
+hre = no
+base_tax = 4
+base_production = 4
+base_manpower = 2
+is_city = yes
+
+discovered_by = global

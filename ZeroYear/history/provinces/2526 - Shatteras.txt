@@ -1,0 +1,15 @@
+# No previous file for Shatteras
+
+owner = USA
+controller = USA
+add_core = USA
+culture = shawnee
+religion = totemism
+capital = "Shatteras"
+trade_goods = unknown
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+
+discovered_by = global

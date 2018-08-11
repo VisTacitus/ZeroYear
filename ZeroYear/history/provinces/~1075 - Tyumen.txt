@@ -1,0 +1,17 @@
+#1075 - Tyumen
+
+owner = SOV
+controller = SOV
+add_core = SOV
+add_core = RUS
+capital = "Chimgi-Tura"
+culture = siberian
+religion = sunni
+trade_goods = fur
+hre = no
+base_tax = 4 
+base_production = 4
+base_manpower = 4
+is_city = yes
+
+discovered_by = global

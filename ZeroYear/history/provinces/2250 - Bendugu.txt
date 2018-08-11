@@ -1,0 +1,23 @@
+# No previous file for Bendugu
+
+owner = FRA
+controller = FRA
+add_core = FRA
+add_core = MAL
+is_city = yes
+culture = bozo 
+religion = shamanism #Fetishism
+capital = "San"
+trade_goods = iron
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 1
+
+discovered_by = global
+
+1960.6.20 = {
+	remove_core = FRA
+	owner = MAL
+	controller = MAL
+} #Mali gains independence from France.

@@ -1,0 +1,16 @@
+#4345 - Saidabad
+
+owner = PER
+controller = PER
+add_core = PER
+culture = persian
+religion = shiite
+capital = "Saidabad"
+trade_goods = livestock
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+is_city = yes
+
+discovered_by = global

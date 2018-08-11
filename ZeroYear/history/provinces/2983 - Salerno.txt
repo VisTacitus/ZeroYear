@@ -1,0 +1,16 @@
+# - Salerno
+
+owner = ITA
+controller = ITA
+add_core = ITA
+culture = neapolitan 
+religion = catholic 
+hre = no 
+base_tax = 5
+base_production = 1
+trade_goods = fish 
+base_manpower = 5
+capital = "Salerno"
+is_city = yes	# Estimated
+
+discovered_by = global

@@ -1,0 +1,16 @@
+#268 - Moldavia
+
+owner = RMN
+controller = RMN
+culture = romanian
+religion = orthodox
+hre = no
+base_tax = 6 
+base_production = 5
+capital = "Suceava"
+is_city = yes
+trade_goods = livestock
+base_manpower = 2
+add_core = RMN
+
+discovered_by = global

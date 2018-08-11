@@ -1,0 +1,17 @@
+# 2141 - Xuzhou
+
+owner = X75
+controller = X75
+add_core = X74
+add_core = X75
+culture = zhongyuan
+religion = confucianism
+capital = "Xuzhou"
+trade_goods = iron
+hre = no
+base_tax = 6 
+base_production = 6
+base_manpower = 3
+is_city = yes
+
+discovered_by = global

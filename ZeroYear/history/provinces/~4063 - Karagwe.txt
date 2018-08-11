@@ -1,0 +1,17 @@
+#Karagwe
+
+owner = GBR
+controller = GBR
+add_core = GBR
+add_core = Y17
+culture = ganda
+religion = shamanism #Fetishism
+capital = "Karagwe"
+trade_goods = iron
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 2
+is_city = yes
+
+discovered_by = global

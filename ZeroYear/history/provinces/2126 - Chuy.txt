@@ -1,0 +1,23 @@
+# 2126 - Chuy
+
+owner = SOV
+controller = SOV
+add_core = SOV
+add_core = X15
+culture = kirgiz
+religion = sunni
+capital = "Chuy"
+trade_goods = wool
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 2
+is_city = yes
+
+discovered_by = global
+
+1991.8.31 = {
+	remove_core = SOV
+	owner = X15
+	controller = X15
+} #Kyrgyzstan declares independence from the Soviet Union.

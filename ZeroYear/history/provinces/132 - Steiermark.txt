@@ -1,0 +1,24 @@
+#132 - Steiermark
+
+owner = GBR
+controller = GBR
+add_core = HAB
+culture = austrian
+religion = catholic
+base_tax = 5
+base_production = 5
+trade_goods = grain
+base_manpower = 3
+capital = "Judenburg" 
+is_city = yes
+estate = estate_burghers
+hre = no
+
+discovered_by = global
+
+1945.9.1 = { add_core = GBR } #Paritioning of Austria. Austria is too worn out.
+1955.5.15 = {
+	remove_core = GBR
+	owner = HAB
+	controller = HAB
+} #Austrian State Treaty is signed. Austria is a sovereign state again.

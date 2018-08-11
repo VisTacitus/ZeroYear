@@ -1,0 +1,16 @@
+#1933 - Bari
+
+owner = ITA
+controller = ITA
+add_core = ITA
+culture = neapolitan 
+religion = catholic 
+hre = no 
+base_tax = 3 
+base_production = 3
+trade_goods = wine
+base_manpower = 2
+capital = "Bari"
+is_city = yes # Estimated
+
+discovered_by = global

@@ -1,0 +1,7 @@
+#4156 - The Caucasus
+
+owner = SOV
+controller = SOV
+add_core = SOV
+add_core = GEO
+discovered_by = global

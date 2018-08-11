@@ -1,0 +1,16 @@
+# No previous file for Mdewakanton
+
+owner = USA
+controller = USA
+add_core = USA
+is_city = yes
+culture = dakota
+religion = totemism
+capital = "Mdewakanton"
+trade_goods = fur
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+
+discovered_by = global

@@ -1,0 +1,27 @@
+#1767 - Veroce
+
+owner = X02
+controller = X02
+add_core = X02
+add_core = CRO
+culture = croatian
+religion = catholic
+capital = "Osijek"
+trade_goods = livestock
+hre = no
+base_tax = 2
+base_production = 2
+base_manpower = 2
+is_city = yes
+
+discovered_by = global
+
+1991.6.25 = {
+	remove_core = X02
+	owner = CRO
+	controller = X02
+} #Secession of Croatia
+1992.1.1 = {
+	owner = CRO
+	controller = CRO
+} #West Slavonia mostly retaken by Croat Army.

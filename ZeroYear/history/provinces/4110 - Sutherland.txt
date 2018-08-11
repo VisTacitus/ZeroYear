@@ -1,0 +1,17 @@
+#4110 - Sutherland
+
+owner = GBR
+controller = GBR
+add_core = GBR
+add_core = SCO
+culture = highland_scottish
+religion = catholic
+hre = no
+base_tax = 2
+base_production = 2
+trade_goods = grain
+base_manpower = 2
+capital = "Dornoch"
+is_city = yes
+
+discovered_by = global

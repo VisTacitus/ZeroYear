@@ -1,0 +1,16 @@
+#212 - Girona
+
+owner = SPA
+controller = SPA
+add_core = SPA
+culture = catalan
+religion = catholic
+hre = no
+base_tax = 3 
+base_production = 3
+trade_goods = fish 
+base_manpower = 3
+capital = "Girona"
+is_city = yes
+
+discovered_by = global

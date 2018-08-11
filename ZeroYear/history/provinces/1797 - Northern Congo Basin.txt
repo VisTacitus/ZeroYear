@@ -1,0 +1,13 @@
+
+owner = X03
+controller = X03
+add_core = X03
+add_core = Y12
+
+discovered_by = global
+
+1960.6.30 = {
+	remove_core = X03
+	owner = Y12
+	controller = Y12
+} #The D.R. Congo gains its' independence.

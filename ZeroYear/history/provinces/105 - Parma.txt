@@ -1,0 +1,16 @@
+#105 - Parma
+
+owner = ITA
+controller = ITA
+add_core = ITA
+culture = romagnan 
+religion = catholic 
+hre = no 
+base_tax = 6 
+base_production = 6 
+trade_goods = livestock
+base_manpower = 4 
+capital = "Parma" 
+estate = estate_nobles
+is_city = yes	# Estimated
+discovered_by = global

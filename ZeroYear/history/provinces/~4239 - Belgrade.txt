@@ -1,0 +1,18 @@
+#4239 - Belgrade
+
+owner = X02
+controller = X02
+add_core = X02
+add_core = SER
+culture = serbian
+religion = orthodox
+capital = "Belgrade"
+trade_goods = cloth
+hre = no
+base_tax = 4
+base_production = 4
+base_manpower = 2
+is_city = yes
+fort_15th = yes
+
+discovered_by = global

@@ -1,0 +1,23 @@
+#1826 - Lika
+
+owner = X02
+controller = X02
+add_core = X02
+add_core = CRO
+culture = croatian
+religion = catholic
+capital = "Rijeka"
+trade_goods = cloth
+hre = no
+base_tax = 5 
+base_production = 5
+base_manpower = 2
+is_city = yes
+
+discovered_by = global
+
+1991.6.25 = {
+	remove_core = X02
+	owner = CRO
+	controller = CRO
+} #Secession of Croatia

@@ -1,0 +1,21 @@
+#1858 - Stettin
+
+owner = POL
+controller = POL
+add_core = POL
+culture = pommeranian
+religion = catholic
+trade_goods = naval_supplies
+hre = no
+base_tax = 4
+base_production = 4
+base_manpower = 2
+capital = "Sczescin"
+is_city = yes
+
+discovered_by = global
+
+add_claim = GER #Rejection of the Oder-Neisse line
+1992.1.16 = {
+	remove_claim = GER
+} #The German-Polish Border Treaty is signed, finalizing the Oder-Neisse line.

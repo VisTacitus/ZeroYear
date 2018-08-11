@@ -1,0 +1,23 @@
+#Bunyoro
+
+owner = GBR
+controller = GBR
+add_core = GBR
+add_core = Y13
+culture = ganda
+religion = shamanism #Fetishism
+capital = "Mugenyi"
+trade_goods = salt
+hre = no
+base_tax = 4
+base_production = 3
+base_manpower = 3
+is_city = yes
+
+discovered_by = global
+
+1962.10.9 = {
+	remove_core = GBR
+	owner = Y13
+	controller = Y13
+} #Uganda gains its' independence from the United Kingdom.

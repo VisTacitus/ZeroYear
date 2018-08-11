@@ -1,0 +1,5 @@
+government = feudal_monarchy
+technology_group = global
+primary_culture = bulgarian
+religion = orthodox
+capital = 150	# Sofia

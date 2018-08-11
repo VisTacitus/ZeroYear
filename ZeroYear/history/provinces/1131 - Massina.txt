@@ -1,0 +1,23 @@
+#1131 - Massina
+
+owner = FRA
+controller = FRA
+add_core = FRA
+add_core = MAL
+culture = bambara
+is_city = yes
+base_manpower = 1
+religion = shamanism #Fetishism
+capital = "Macina"
+trade_goods = grain
+hre = no
+base_tax = 4 
+base_production = 4
+
+discovered_by = global
+
+1960.6.20 = {
+	remove_core = FRA
+	owner = MAL
+	controller = MAL
+} #Mali gains independence from France.

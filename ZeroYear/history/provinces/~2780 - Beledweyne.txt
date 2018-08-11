@@ -1,0 +1,16 @@
+#2780 - Beledweyne
+
+owner = GBR
+controller = GBR
+add_core = X85
+culture = somali
+religion = sunni
+capital = "Qardho"
+trade_goods = livestock
+is_city = yes
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+
+discovered_by = global

@@ -1,0 +1,44 @@
+#734 - Wonju
+
+owner = SOV
+controller = SOV
+add_core = SOV
+add_core = X41
+culture = korean
+religion = confucianism
+capital = "Wonju"
+trade_goods = chinaware
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 2
+is_city = yes
+
+discovered_by = global
+
+1948.9.9 = {
+	remove_core = SOV
+	owner = X41
+	controller = X41
+} #North Korea (DPRK) nominally granted independence.
+1950.10.4 = {
+	controller = USA
+} #Offensive to the Yalu River.
+1950.12.28 = {
+	controller = X41
+} #Chinese Offensive sweeps through Korea.
+1951.4.3 = {
+	controller = USA
+} #American Counter-offensive begins to take place, solidifes stalemate.
+1951.4.25 = {
+	controller = X41
+} #Chinese offensive right back across the border.
+1951.6.2 = {
+	controller = USA
+} #American Counter-offensive yet again.
+1953.7.27 = {
+	remove_core = X41
+	owner = X42
+	controller = X42
+	add_core = X42
+} #Korean Armistice is signed.

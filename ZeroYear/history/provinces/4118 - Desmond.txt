@@ -1,0 +1,15 @@
+#4118 - Earldom of Desmond
+
+owner = IRE
+controller = IRE
+add_core = IRE
+culture = irish
+religion = catholic
+hre = no
+base_tax = 2
+base_production = 3
+trade_goods = copper
+base_manpower = 1
+capital = "Cork"
+is_city = yes
+discovered_by = global

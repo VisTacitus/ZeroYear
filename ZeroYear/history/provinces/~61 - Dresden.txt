@@ -1,0 +1,18 @@
+#61 - Saxony
+
+owner = SOV
+controller = SOV
+add_core = GER
+add_core = X26
+culture = saxon
+religion = catholic
+capital = "Meissen"
+trade_goods = iron
+hre = no
+base_tax = 6
+base_production = 6
+base_manpower = 2
+is_city = yes
+fort_15th = yes
+
+discovered_by = global

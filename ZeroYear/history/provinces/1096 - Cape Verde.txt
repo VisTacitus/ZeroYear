@@ -1,0 +1,15 @@
+#1096 - Cape Verde
+
+owner = POR
+controller = POR
+add_core = POR
+culture = portugese
+religion = catholic
+capital = "Cape Verde"
+trade_goods = fish
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+
+discovered_by = global

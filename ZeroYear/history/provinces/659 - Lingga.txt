@@ -1,0 +1,24 @@
+#659 - Lingga
+
+owner = NED
+controller = NED
+add_core = X78
+culture = sumatran
+religion = sunni
+capital = "Lingga"
+trade_goods = fish
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+is_city = yes
+
+discovered_by = global
+
+1946.11.15 = {
+	owner = X78
+	controller = X78
+} #Linggajati Agreements are signed. Sumatra and Java are handed over to Indonesia.
+1948.12.20 = {
+	controller = NED
+} #Almost all of Indonesia is occupied.

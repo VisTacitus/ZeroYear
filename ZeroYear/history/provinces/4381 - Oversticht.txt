@@ -1,0 +1,16 @@
+# 4381 - Oversticht
+
+owner = NED
+controller = NED
+add_core = NED
+capital = "Zwolle"
+is_city = yes
+culture = dutch
+religion = catholic
+hre = yes
+base_tax = 3
+base_production = 3
+trade_goods = livestock
+base_manpower = 2
+
+discovered_by = global

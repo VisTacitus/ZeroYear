@@ -1,0 +1,17 @@
+#2694 - East Gangwon
+
+owner = SOV
+controller = SOV
+add_core = SOV
+add_core = X41
+culture = korean
+religion = confucianism
+capital = "Gangneung"
+trade_goods = fish
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+is_city = yes
+
+discovered_by = global

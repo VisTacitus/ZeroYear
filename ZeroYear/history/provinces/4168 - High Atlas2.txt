@@ -1,0 +1,14 @@
+#High Atlas
+
+owner = FRA
+controller = FRA
+add_core = FRA
+add_core = MOR
+
+discovered_by = global
+
+1956.4.7 = {
+	remove_core = FRA
+	owner = MOR
+	controller = MOR
+} #France relinquishes control of Morocco.

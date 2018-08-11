@@ -1,0 +1,22 @@
+#2678 - Bangka
+
+owner = X78
+controller = X78
+add_core = X78
+culture = sumatran
+religion = sunni
+capital = "Bangka"
+trade_goods = unknown
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 1
+
+discovered_by = global
+
+1948.12.19 = {
+	controller = NED
+} #Almost all of Indonesia is occupied.
+1949.8.14 = {
+	controller = X78
+} #Ceasefire on Java.

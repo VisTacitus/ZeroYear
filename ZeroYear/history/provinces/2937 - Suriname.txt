@@ -1,0 +1,15 @@
+# - Suriname
+
+owner = NED
+controller = NED
+add_core = X57
+culture = carib
+religion = animism
+capital = "Suriname"
+trade_goods = unknown
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+
+discovered_by = global

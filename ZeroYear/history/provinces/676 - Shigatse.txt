@@ -1,0 +1,25 @@
+#676 - U-Tsang
+
+owner = TIB
+controller = TIB
+add_core = TIB
+culture = tibetan
+religion = vajrayana
+capital = "Shigatse"
+trade_goods = incense
+hre = no
+base_tax = 2 
+base_production = 2
+base_manpower = 2
+is_city = yes
+
+discovered_by = global
+
+1950.10.19 = {
+	controller = X74
+} #Tibet surrenders.
+1951.10.24 = {
+	owner = X74
+	controller = X74
+	add_core = X74
+} #The Seventeen Point Agreement is signed. China annexes Tibet.

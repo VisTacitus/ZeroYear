@@ -1,0 +1,21 @@
+#650 - Tidore
+
+owner = NED
+controller = X78
+add_core = X78
+culture = moluccan
+religion = animism
+capital = "Tidore"
+trade_goods = spices
+hre = no
+base_tax = 5
+base_production = 5
+base_manpower = 3
+is_city = yes
+
+discovered_by = global
+
+1949.11.2 = {
+	owner = X78
+	controller = X78
+} #Round Table Talks are concluded.

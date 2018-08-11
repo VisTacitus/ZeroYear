@@ -1,0 +1,16 @@
+# No previous file for Patzcuaro
+
+owner = MEX
+controller = MEX
+add_core = MEX
+culture = purepecha
+is_city = yes
+religion = nahuatl
+capital = "Tzintzuntzan"
+trade_goods = grain
+hre = no
+base_tax = 4 
+base_production = 4
+base_manpower = 1
+
+discovered_by = global

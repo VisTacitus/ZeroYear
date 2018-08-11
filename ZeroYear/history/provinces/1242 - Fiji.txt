@@ -1,0 +1,22 @@
+#1242 - Fiji
+
+owner = GBR
+controller = GBR
+add_core = GBR
+culture = polynesian
+religion = animism
+capital = "Fiji"
+trade_goods = unknown
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+
+discovered_by = global
+
+1970.10.10 = {
+	remove_core = GBR
+	owner = Y38
+	controller = Y38
+	add_core = Y38
+} #Fiji gains its' independence from the U.K.

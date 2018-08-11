@@ -1,0 +1,30 @@
+#2381 - Luang Namtha
+
+owner = FRA
+controller = FRA
+add_core = FRA
+add_core = Y30
+culture = lao
+religion = buddhism
+capital = "Luang Namtha"
+trade_goods = tea
+hre = no
+base_tax = 2 
+base_production = 2
+base_manpower = 2
+is_city = yes
+
+discovered_by = global
+
+1953.10.22 = {
+	remove_core = FRA
+	owner = Y30
+	controller = Y30
+} #Laos declares independence from France.
+1961.3.13 = {
+	controller = X40
+} #Pathet Lao supported with Viet Cong infiltrations.
+1976.7.2 = {
+	owner = Y30
+	controller = Y30
+} #Vietnam officially unites.

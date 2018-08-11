@@ -1,0 +1,17 @@
+#528 - Hadoti
+
+owner = GBR
+controller = GBR
+add_core = GBR
+add_core = X23
+culture = rajput
+religion = hinduism
+capital = "Kota"
+trade_goods = cotton
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 3
+is_city = yes
+
+discovered_by = global

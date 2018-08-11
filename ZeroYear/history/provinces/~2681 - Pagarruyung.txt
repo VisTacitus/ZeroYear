@@ -1,0 +1,16 @@
+#2681 - Pagarruyung
+
+owner = NED
+controller = X78
+add_core = X78
+culture = sumatran
+religion = buddhism
+capital = "Pagarruyung"
+trade_goods = gold
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 3
+is_city = yes
+
+discovered_by = global

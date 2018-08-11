@@ -1,0 +1,16 @@
+# 189 Lothringen - Principal cities: Nancy
+
+owner = FRA
+controller = FRA
+add_core = FRA
+capital = "Nancy"
+is_city = yes
+culture = burgundian
+religion = catholic
+hre = yes
+base_tax = 6 
+base_production = 6
+trade_goods = iron
+base_manpower = 6
+
+discovered_by = global

@@ -1,0 +1,22 @@
+#1818 - Chikuzen
+
+latent_trade_goods = {
+	coal
+}
+
+owner = USA
+controller = USA
+add_core = USA
+add_core = JAP
+culture = kyushuan
+religion = shinto
+capital = "Hakata"
+trade_goods = chinaware
+hre = no
+base_tax = 5
+base_production = 3
+base_manpower = 2
+is_city = yes
+fort_15th = yes
+
+discovered_by = global

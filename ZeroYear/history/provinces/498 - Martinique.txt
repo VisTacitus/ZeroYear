@@ -1,0 +1,15 @@
+#498 - Martinique
+
+owner = FRA
+controller = FRA
+add_core = X69
+culture = carib
+religion = animism
+capital = "Martinique"
+trade_goods = unknown
+hre = no
+base_tax = 4
+base_production = 5
+base_manpower = 1
+
+discovered_by = global

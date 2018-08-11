@@ -1,0 +1,17 @@
+#1055 - Verkne-Angarsky
+
+owner = SOV
+controller = SOV
+add_core = SOV
+add_core = RUS
+culture = buryat
+religion = tengri_pagan_reformed
+capital = "Kirenga"
+trade_goods = fur
+hre = no
+base_tax = 2
+base_production = 2
+base_manpower = 2
+is_city = yes
+
+discovered_by = global

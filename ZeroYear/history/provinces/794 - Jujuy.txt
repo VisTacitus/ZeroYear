@@ -1,0 +1,19 @@
+#794 - Jujuy
+
+owner = LAP
+controller = LAP
+add_core = LAP
+culture = diaguita
+religion = inti
+capital = "Jujuy"
+trade_goods = wool
+hre = no
+is_city = yes
+native_size = 5
+native_ferocity = 1
+native_hostileness = 2
+base_tax = 3 
+base_production = 3
+base_manpower = 1
+
+discovered_by = global

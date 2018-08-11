@@ -1,0 +1,23 @@
+#1110 - Agadir
+
+owner = SPA
+controller = SPA
+add_core = SPA
+add_core = MOR 
+culture = berber
+religion = sunni
+capital = "Agadir"
+trade_goods = sugar
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 2
+is_city = yes
+
+discovered_by = global
+
+1956.4.1 = {
+	remove_core = SPA
+	owner = MOR
+	controller = MOR
+} #The Joint Declaration of April 1956 hands over Spanish Moroccan territories to Morocco.

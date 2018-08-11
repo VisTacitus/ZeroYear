@@ -1,0 +1,25 @@
+#1996 - Palau
+
+owner = USA
+controller = USA
+add_core = USA
+culture = polynesian
+religion = animism
+capital = "Ngerulmud"
+trade_goods = unknown
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+native_size = 1
+native_ferocity = 1
+native_hostileness = 1
+
+discovered_by = global
+
+1994.10.1 = {
+	remove_core = USA
+	add_core = Y39
+	owner = Y39
+	controller = Y39
+} #Palau becomes independent of the U.S.

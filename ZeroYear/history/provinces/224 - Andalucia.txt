@@ -1,0 +1,16 @@
+#224 - Andalucía
+
+owner = SPA
+controller = SPA
+add_core = SPA
+culture = andalucian
+religion = catholic
+hre = no
+base_tax = 7
+base_production = 7
+trade_goods = wine 
+base_manpower = 4
+capital = "Sevilla"
+is_city = yes
+
+discovered_by = global

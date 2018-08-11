@@ -1,0 +1,16 @@
+# 196 Toulouse - Principal cities: Toulouse
+
+owner = FRA
+controller = FRA
+add_core = FRA
+capital = "Toulouse"
+is_city = yes
+culture = occitain
+religion = catholic
+hre = no
+base_tax = 5
+base_production = 5
+trade_goods = wine
+base_manpower = 5
+
+discovered_by = global

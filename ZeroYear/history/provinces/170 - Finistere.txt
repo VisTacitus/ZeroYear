@@ -1,0 +1,17 @@
+# 170 Finistère - Principal cities: Brest
+
+owner = FRA
+controller = FRA
+add_core = FRA
+capital = "Brest"
+is_city = yes
+culture = breton
+religion = catholic
+hre = no
+base_tax = 3 
+base_production = 3
+trade_goods = naval_supplies
+base_manpower = 4
+fort_15th = yes
+
+discovered_by = global

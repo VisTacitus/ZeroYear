@@ -1,0 +1,30 @@
+#4232 - Ganggye
+
+owner = SOV
+controller = SOV
+add_core = SOV
+add_core = X41
+culture = korean
+religion = confucianism
+capital = "Ganggye"
+trade_goods = fur
+hre = no
+base_tax = 2
+base_production = 2
+base_manpower = 1
+is_city = yes
+fort_15th = yes
+
+discovered_by = global
+
+1948.9.9 = {
+	remove_core = SOV
+	owner = X41
+	controller = X41
+} #North Korea (DPRK) nominally granted independence.
+1950.10.30 = {
+	controller = USA
+} #Offensive to the Yalu River.
+1950.11.7 = {
+	controller = X41
+} #Chinese Offensive sweeps through Korea.

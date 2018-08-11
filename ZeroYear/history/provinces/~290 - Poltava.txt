@@ -1,0 +1,19 @@
+#290 - Poltava
+
+owner = SOV
+controller = SOV
+add_core = SOV
+add_core = UKR
+culture = ruthenian
+religion = orthodox
+hre = no
+base_tax = 2
+base_production = 2
+trade_goods = grain
+base_manpower = 1
+capital = "Poltava"
+is_city = yes
+#estate = estate_nobles
+add_local_autonomy = 10
+
+discovered_by = global

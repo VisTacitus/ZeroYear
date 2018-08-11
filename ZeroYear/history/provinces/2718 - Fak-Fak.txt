@@ -1,0 +1,21 @@
+#2718 - Fak-Fak
+
+owner = NED
+controller = NED
+add_core = NED
+add_core = X78
+culture = papuan
+religion = animism
+capital = "Fak-Fak"
+trade_goods = unknown
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+
+discovered_by = global
+
+1962.10.1 = {
+	owner = X78
+	controller = X78
+} #Dutch New Guinea is de-established (and technically handed over to Indonesia).

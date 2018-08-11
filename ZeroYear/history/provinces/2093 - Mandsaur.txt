@@ -1,0 +1,24 @@
+#2093 - Mandsaur
+
+owner = GBR
+controller = GBR
+add_core = GBR
+add_core = X23
+culture = malvi
+religion = hinduism
+capital = "Mandsaur"
+trade_goods = spices	#Opium
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 2
+is_city = yes
+fort_15th = yes #Mandsaur Fort
+
+discovered_by = global
+
+1947.7.18 = {
+	remove_core = GBR
+	owner = X23
+	controller = X23
+} #The British Raj is partitioned between India and Pakistan.

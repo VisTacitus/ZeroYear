@@ -1,0 +1,23 @@
+# - Madanda
+
+owner = POR
+controller = POR
+add_core = POR
+add_core = Y19
+culture = shona
+religion = shamanism
+capital = "Madanda"
+is_city = yes
+base_manpower = 1
+trade_goods = ivory
+hre = no
+base_tax = 1 
+base_production = 1
+
+discovered_by = global
+
+1975.6.25 = {
+	remove_core = POR
+	owner = Y19
+	controller = Y19
+} #Mozambique is granted independence.

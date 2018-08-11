@@ -1,0 +1,7 @@
+#High Atlas
+
+owner = FRA
+controller = FRA
+add_core = ALG
+
+discovered_by = global

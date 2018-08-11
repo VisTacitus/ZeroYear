@@ -1,0 +1,16 @@
+#835 - Panama 
+
+owner = USA
+controller = USA
+add_core = X47
+add_core = USA
+culture = muisca
+religion = animism
+capital = "Panama Canal"
+trade_goods = unknown
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+
+discovered_by = global

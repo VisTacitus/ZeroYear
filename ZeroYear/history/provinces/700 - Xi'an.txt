@@ -1,0 +1,27 @@
+#700 - Shaanxi
+
+owner = X75
+controller = X75
+add_core = X74
+add_core = X75
+culture = xibei
+religion = confucianism
+capital = "Xi'an"
+trade_goods = grain
+hre = no
+base_tax = 7
+base_production = 7
+base_manpower = 3
+is_city = yes
+fort_15th = yes #More than 1 Weisuo
+
+discovered_by = global
+
+1948.12.11 = {
+	controller = X74
+} #The Communists begin a general winter offensive.
+1950.5.1 = {
+	remove_core = X75
+	owner = X74
+	controller = X74
+} #Traditional end of the Chinese Civil War.

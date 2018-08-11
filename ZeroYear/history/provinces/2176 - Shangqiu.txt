@@ -1,0 +1,26 @@
+# 2176 - Shangqiu
+
+owner = X75
+controller = X75
+add_core = X74
+add_core = X75
+culture = zhongyuan
+religion = confucianism
+capital = "Shangqiu"
+trade_goods = cloth
+hre = no
+base_tax = 5 
+base_production = 5
+base_manpower = 2
+is_city = yes
+
+discovered_by = global
+
+1948.11.30 = {
+	controller = X74
+} #The Communists in the South link up.
+1950.5.1 = {
+	remove_core = X75
+	owner = X74
+	controller = X74
+} #Traditional end of the Chinese Civil War.

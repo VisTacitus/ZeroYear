@@ -1,0 +1,15 @@
+# No previous file for Mascouten
+
+owner = USA
+controller = USA
+add_core = USA
+culture = mesquakie
+religion = totemism
+capital = "Mascouten"
+trade_goods = unknown
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+
+discovered_by = global

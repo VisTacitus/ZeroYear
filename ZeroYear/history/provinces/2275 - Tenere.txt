@@ -1,0 +1,23 @@
+# 2275 - Tenere
+
+owner = FRA
+controller = FRA
+add_core = FRA
+add_core = X90
+is_city = yes
+culture = tuareg 
+religion = sunni
+capital = "Aghram"
+trade_goods = livestock
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+
+discovered_by = global
+
+1960.8.3 = {
+	remove_core = FRA
+	owner = X90
+	controller = X90
+} #Niger gets its' independence from France.

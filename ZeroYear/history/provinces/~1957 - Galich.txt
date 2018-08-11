@@ -1,0 +1,17 @@
+#Galich
+
+owner = SOV
+controller = SOV
+add_core = SOV
+add_core = RUS
+capital = "Galich"
+culture = russian
+religion = orthodox
+trade_goods = salt
+hre = no
+base_tax = 4
+base_production = 5 #Huge Salt Mine
+base_manpower = 2
+is_city = yes
+
+discovered_by = global

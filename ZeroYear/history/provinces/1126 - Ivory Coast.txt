@@ -1,0 +1,22 @@
+#1126 - Ivory Coast
+
+owner = FRA
+controller = FRA
+add_core = FRA
+add_core = X97
+culture = aka
+religion = shamanism #Fetishism
+capital = "Assinie"
+trade_goods = unknown
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+
+discovered_by = global
+
+1960.8.7 = {
+	remove_core = FRA
+	owner = X97
+	controller = X97
+} #The Ivory Coast gains its' independence from France.

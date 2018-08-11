@@ -1,0 +1,17 @@
+#504 - Thatta
+
+owner = GBR
+controller = GBR
+add_core = GBR
+add_core = X24
+culture = sindhi
+religion = sunni
+capital = "Thatta"
+trade_goods = cotton
+hre = no
+base_tax = 4 
+base_production = 4
+base_manpower = 3
+is_city = yes
+
+discovered_by = global

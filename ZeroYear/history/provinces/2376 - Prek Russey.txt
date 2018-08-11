@@ -1,0 +1,45 @@
+#2376 - Prek Russey
+
+owner = FRA
+controller = FRA
+add_core = FRA
+add_core = X38
+culture = khmer
+religion = hinduism
+capital = "Prek Russey"
+trade_goods = grain
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 3
+is_city = yes
+
+discovered_by = global
+
+1954.7.21 = {
+	remove_core = FRA
+	owner = X38
+	controller = X38
+} #The Geneva Conference partitions Vietnam into both North and South.
+1960.10.2 = {
+	controller = X40
+} #The Viet Cong take over this region of Vietnam.
+1964.1.24 = {
+	controller = X38
+} #The Viet Cong were pushed back.
+1968.7.27 = {
+	controller = X40
+} #The Tet Offensive takes hold.
+1973.1.27 = {
+	owner = X38
+	controller = X38
+} #The Paris Peace Accords are signed.
+1974.12.13 = {
+	controller = X40
+} #The Final push to Saigon. The US is too busy with Watergate.
+1976.7.2 = {
+	remove_core = X38
+	add_core = X39
+	owner = X39
+	controller = X39
+} #Vietnam officially unites.

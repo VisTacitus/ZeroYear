@@ -1,0 +1,23 @@
+#1139 - Gold Coast
+#Eastern part thereof, mostly Accra and Osu Castle
+
+owner = GBR
+controller = GBR
+add_core = GBR
+add_core = X98
+culture = aka
+religion = shamanism #Fetishism
+capital = "Accra"
+trade_goods = unknown
+hre = no
+base_tax = 2 
+base_production = 2
+base_manpower = 1
+
+discovered_by = global
+
+1957.3.6 = {
+	remove_core = GBR
+	owner = X98
+	controller = X98
+} #Ghana declares independence from the UK.

@@ -1,0 +1,15 @@
+#949 - Monacan
+
+owner = USA
+controller = USA
+add_core = USA
+culture = catawba
+religion = totemism
+capital = "Monacan"
+trade_goods = naval_supplies
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+
+discovered_by = global

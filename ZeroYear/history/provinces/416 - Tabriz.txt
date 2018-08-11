@@ -1,0 +1,24 @@
+#416 - Azerbaijan
+
+owner = X21
+controller = X21
+add_core = X21
+add_core = PER
+culture = azerbaijani
+religion = shiite
+capital = "Tabriz"
+trade_goods = silk
+hre = no
+base_tax = 7
+base_production = 7
+base_manpower = 3
+is_city = yes
+fort_15th = yes
+
+discovered_by = global
+
+1946.12.15 = {
+	remove_core = X21
+	owner = PER
+	controller = PER
+} #The Iran Crisis of 1946 ends.

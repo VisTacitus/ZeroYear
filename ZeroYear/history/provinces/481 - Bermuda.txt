@@ -1,0 +1,13 @@
+#481 - Bermuda
+
+owner = GBR
+controller = GBR
+add_core = GBR
+capital = "Bermuda"
+trade_goods = unknown
+hre = no
+base_tax = 1
+base_production = 1 
+base_manpower = 1
+
+discovered_by = global

@@ -1,0 +1,17 @@
+#151 - Constantinople
+
+owner = TUR
+controller = TUR
+add_core = TUR
+culture = greek
+religion = orthodox
+capital = "Constantinople"
+trade_goods = glass
+hre = no
+base_tax = 9 
+base_production = 9
+base_manpower = 5
+is_city = yes
+fort_15th = yes
+
+discovered_by = global

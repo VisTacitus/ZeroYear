@@ -1,0 +1,21 @@
+#62 - Leipzig
+
+latent_trade_goods = {
+	coal
+}
+
+owner = SOV
+controller = SOV
+add_core = GER
+add_core = X26
+culture = saxon
+religion = catholic
+capital = "Leipzig"
+trade_goods = wool
+hre = no
+base_tax = 4
+base_production = 4
+base_manpower = 2
+is_city = yes
+
+discovered_by = global

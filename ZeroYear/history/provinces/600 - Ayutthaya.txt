@@ -1,0 +1,17 @@
+#600 - Ayutthaya
+
+owner = Y29
+controller = Y29
+add_core = Y29
+culture = central_thai
+religion = buddhism
+capital = "Ayutthaya"
+trade_goods = ivory
+hre = no
+base_tax = 8
+base_production = 8
+base_manpower = 4
+is_city = yes
+fort_15th = yes
+
+discovered_by = global

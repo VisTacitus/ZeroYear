@@ -1,0 +1,24 @@
+#508 - Kashmir
+
+owner = GBR
+controller = GBR
+add_core = GBR
+add_core = X23
+add_core = X24
+culture = kashmiri
+religion = hinduism
+capital = "Srinagar"
+trade_goods = paper
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 3
+is_city = yes
+
+discovered_by = global
+
+1952.11.12 = {
+	remove_core = GBR
+	owner = X23
+	controller = X23
+} #Jammu and Kashmir is partitioned.

@@ -1,0 +1,16 @@
+#400 - Muscat
+
+owner = GBR
+controller = GBR
+add_core = OMA
+culture = omani_culture
+religion = ibadi
+capital = "Masqat"
+trade_goods = gems #Mother of Pearl and dates
+hre = no
+base_tax = 4 
+base_production = 4
+base_manpower = 1
+is_city = yes
+
+discovered_by = global

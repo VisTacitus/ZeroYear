@@ -1,0 +1,17 @@
+#2343 - Kathiri
+
+owner = GBR
+controller = GBR
+add_core = X36
+add_core = YEM
+culture = yemeni_culture
+religion = sunni
+capital = "Say'un"
+trade_goods = livestock
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 2
+is_city = yes
+
+discovered_by = global

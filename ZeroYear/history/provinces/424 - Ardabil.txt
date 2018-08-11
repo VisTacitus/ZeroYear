@@ -1,0 +1,23 @@
+#424 - Ardabil
+
+owner = X21
+controller = X21
+add_core = X21
+add_core = PER
+culture = azerbaijani
+religion = shiite
+capital = "Ardabil"
+trade_goods = dyes
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 3
+is_city = yes
+
+discovered_by = global
+
+1946.12.15 = {
+	remove_core = X21
+	owner = PER
+	controller = PER
+} #The Iran Crisis of 1946 ends.

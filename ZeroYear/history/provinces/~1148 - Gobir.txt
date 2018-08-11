@@ -1,0 +1,16 @@
+#1148 - Gobir
+
+owner = FRA
+controller = FRA
+add_core = X90
+culture = hausa
+is_city = yes
+base_manpower = 3
+religion = sunni
+capital = "Birnin Lalle"
+trade_goods = iron
+hre = no
+base_tax = 3 
+base_production = 3
+
+discovered_by = global

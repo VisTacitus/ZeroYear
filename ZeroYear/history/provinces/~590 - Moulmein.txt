@@ -1,0 +1,17 @@
+#590 - Moulmein
+
+owner = GBR
+controller = GBR
+add_core = GBR
+add_core = TAU
+culture = karen
+religion = buddhism
+capital = "Moulmein"
+trade_goods = sugar
+hre = no
+base_tax = 4 
+base_production = 4
+base_manpower = 2
+is_city = yes
+
+discovered_by = global

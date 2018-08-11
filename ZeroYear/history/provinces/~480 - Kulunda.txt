@@ -1,0 +1,19 @@
+#480 - Kulunda
+
+owner = SOV
+controller = SOV
+add_core = SOV
+add_core = RUS
+culture = kirgiz
+religion = tengri_pagan_reformed
+capital = "Pegaya Orda"
+trade_goods = unknown
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+native_size = 5
+native_ferocity = 2
+native_hostileness = 3
+
+discovered_by = global

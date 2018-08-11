@@ -1,0 +1,22 @@
+#4036 - Wayao
+
+owner = POR
+controller = POR
+add_core = POR
+add_core = Y19
+culture = makua
+religion = shamanism #Fetishism
+trade_goods = unknown
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+capital = "Wayao"
+
+discovered_by = global
+
+1975.6.25 = {
+	remove_core = POR
+	owner = Y19
+	controller = Y19
+} #Mozambique is granted independence.

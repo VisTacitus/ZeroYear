@@ -1,0 +1,16 @@
+#4303 - Oltu
+
+owner = TUR
+controller = TUR
+add_core = TUR
+culture = georgian
+religion = orthodox
+capital = "Oltu"
+trade_goods = livestock
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 2
+is_city = yes
+
+discovered_by = global

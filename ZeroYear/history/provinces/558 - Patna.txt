@@ -1,0 +1,23 @@
+#558 - Bihar
+
+owner = GBR
+controller = GBR
+add_core = GBR
+add_core = X23
+culture = bihari
+religion = hinduism
+capital = "Patna"
+trade_goods = silk #And Paper, and glass.
+hre = no
+base_tax = 7 
+base_production = 7
+base_manpower = 5
+is_city = yes
+fort_15th = yes #Rohtasgarh
+
+discovered_by = global
+1947.7.18 = {
+	remove_core = GBR
+	owner = X23
+	controller = X23
+} #The British Raj is partitioned between India and Pakistan.

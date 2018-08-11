@@ -1,0 +1,16 @@
+# 2190 - Qaraqorum
+
+owner = X22
+controller = X22
+add_core = X22
+culture = khalkha
+religion = tengri_pagan_reformed
+capital = "Qaraqorum"
+trade_goods = cloth
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 3
+is_city = yes
+
+discovered_by = global

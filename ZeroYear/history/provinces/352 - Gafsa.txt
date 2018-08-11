@@ -1,0 +1,23 @@
+#352 - Gafsa
+
+owner = FRA
+controller = FRA
+add_core = FRA
+add_core = TUN
+culture = tunisian
+religion = sunni
+capital = "Gafsa"
+trade_goods = salt
+hre = no
+base_tax = 2 
+base_production = 2
+base_manpower = 1
+is_city = yes
+
+discovered_by = global
+
+1956.3.20 = {
+	remove_core = FRA
+	owner = TUN
+	controller = TUN
+} #Tunisia gains independence from France.

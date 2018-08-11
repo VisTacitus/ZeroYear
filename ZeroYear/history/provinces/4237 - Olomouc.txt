@@ -1,0 +1,27 @@
+#4237 - Olomouc
+
+latent_trade_goods = {
+	coal
+}
+
+owner = BOH
+controller = BOH
+add_core = BOH
+capital = "Olmütz"
+culture = czech
+religion = catholic
+trade_goods = grain 
+hre = no
+base_tax = 4
+base_production = 4
+base_manpower = 3
+is_city = yes
+
+discovered_by = global
+
+1993.1.1 = {
+	remove_core = BOH
+	add_core = X28
+	owner = X28
+	controller = X28
+} #Breakup of Czechoslovakia.

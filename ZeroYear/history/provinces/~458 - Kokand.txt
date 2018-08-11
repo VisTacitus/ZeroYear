@@ -1,0 +1,17 @@
+#458 - Kokand
+
+owner = SOV
+controller = SOV
+add_core = SOV
+add_core = X14
+culture = uzbehk
+religion = sunni
+capital = "Kokand"
+trade_goods = iron
+hre = no
+base_tax = 4 
+base_production = 4
+base_manpower = 4
+is_city = yes
+
+discovered_by = global

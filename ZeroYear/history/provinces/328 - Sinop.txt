@@ -1,0 +1,17 @@
+#328 - Sinope
+
+owner = TUR
+controller = TUR
+add_core = TUR
+culture = turkish
+religion = sunni
+capital = "Sinop"
+trade_goods = naval_supplies
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 2
+is_city = yes
+fort_15th = yes
+
+discovered_by = global

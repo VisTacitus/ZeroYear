@@ -1,0 +1,16 @@
+#2388 - Phitsanulok
+
+owner = Y29
+controller = Y29
+add_core = Y29
+culture = central_thai
+religion = buddhism
+capital = "Phitsanulok"
+trade_goods = livestock
+hre = no
+base_tax = 4 
+base_production = 4
+base_manpower = 3
+is_city = yes
+
+discovered_by = global

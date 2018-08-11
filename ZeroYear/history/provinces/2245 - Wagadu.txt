@@ -1,0 +1,23 @@
+# 2245 - Wagadu
+
+owner = FRA
+controller = FRA
+add_core = FRA
+add_core = MAL
+is_city = yes
+culture = soninke 
+religion = shamanism #Fetishism
+capital = "Dia"
+trade_goods = wool
+hre = no
+base_tax = 2 
+base_production = 2
+base_manpower = 1
+
+discovered_by = global
+
+1960.6.20 = {
+	remove_core = FRA
+	owner = MAL
+	controller = MAL
+} #Mali gains independence from France.

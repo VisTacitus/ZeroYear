@@ -1,0 +1,23 @@
+#154 - Hont (Hont + Bars + Ersekujvar)
+
+owner = BOH
+controller = BOH
+add_core = BOH
+add_core = SLO
+culture = slovak
+religion = catholic
+capital = "Hont"
+trade_goods = gold #Schemnitz / Banská Štiavnica
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 2
+is_city = yes
+
+discovered_by = global
+
+1993.1.1 = {
+	remove_core = BOH
+	owner = SLO
+	controller = SLO
+} #Breakup of Czechoslovakia.

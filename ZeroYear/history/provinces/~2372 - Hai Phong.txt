@@ -1,0 +1,17 @@
+#2372 - Hai Phong
+
+owner = FRA
+controller = FRA
+add_core = FRA
+add_core = X39
+culture = vietnamese
+religion = mahayana
+capital = "Hai Phong"
+trade_goods = naval_supplies
+hre = no
+base_tax = 5
+base_production = 5
+base_manpower = 3
+is_city = yes
+
+discovered_by = global

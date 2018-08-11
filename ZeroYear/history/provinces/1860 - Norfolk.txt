@@ -1,0 +1,17 @@
+#1860 - Norfolk
+#Includes Suffolk
+
+owner = GBR
+controller = GBR
+add_core = GBR
+culture = english
+religion = catholic
+hre = no
+base_tax = 4
+base_production = 4
+trade_goods = iron
+base_manpower = 2
+capital = "Norwich"
+is_city = yes
+
+discovered_by = global

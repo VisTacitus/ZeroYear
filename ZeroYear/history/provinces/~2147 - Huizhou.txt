@@ -1,0 +1,17 @@
+# 2147 - Huizhou
+
+owner = X75
+controller = X75
+add_core = X74
+add_core = X75
+culture = wu
+religion = confucianism
+capital = "Huizhou"
+trade_goods = paper
+hre = no
+base_tax = 5 
+base_production = 4
+base_manpower = 3
+is_city = yes
+
+discovered_by = global

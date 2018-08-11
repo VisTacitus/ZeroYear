@@ -1,0 +1,16 @@
+#2781 - Gedo
+
+owner = GBR
+controller = GBR
+add_core = X85
+culture = somali
+religion = sunni
+capital = "Luuq"
+trade_goods = grain
+is_city = yes
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+
+discovered_by = global

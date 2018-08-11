@@ -1,0 +1,23 @@
+#296 - Kaluga
+
+owner = SOV
+controller = SOV
+add_core = SOV
+add_core = RUS
+culture = russian
+religion = orthodox
+hre = no
+base_tax = 3
+base_production = 3
+trade_goods = grain  
+base_manpower = 2
+capital = "Kaluga"
+is_city = yes
+
+discovered_by = global
+
+1991.12.25 = {
+	remove_core = SOV
+	owner = RUS
+	controller = RUS
+} #The Soviet Union collapses with only the Russian Federation left in it.

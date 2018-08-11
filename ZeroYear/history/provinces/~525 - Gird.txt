@@ -1,0 +1,18 @@
+#525 - Gird
+
+owner = GBR
+controller = GBR
+add_core = GBR
+add_core = X23
+culture = kanauji
+religion = hinduism
+capital = "Gwalior"
+trade_goods = dyes
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 2
+is_city = yes
+fort_15th = yes #"Gibraltar of India"
+
+discovered_by = global

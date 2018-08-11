@@ -1,0 +1,18 @@
+#64 - Landshut
+
+owner = USA
+controller = USA
+add_core = GER
+add_core = X25
+culture = bavarian
+religion = catholic
+base_tax = 5
+base_production = 5
+trade_goods = salt
+base_manpower = 2
+fort_15th = yes #Trausnitz Castle
+capital	= "Landshut" 
+is_city = yes
+hre = no
+
+discovered_by = global

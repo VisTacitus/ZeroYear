@@ -1,0 +1,16 @@
+#329 - Sivas
+
+owner = TUR
+controller = TUR
+add_core = TUR
+culture = turkish
+religion = shiite
+capital = "Sivas"
+trade_goods = livestock
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 3
+is_city = yes
+
+discovered_by = global

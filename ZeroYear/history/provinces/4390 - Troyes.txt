@@ -1,0 +1,16 @@
+# 4390 - Troyes
+
+owner = FRA
+controller = FRA
+add_core = FRA
+capital = "Troyes"
+is_city = yes
+culture = cosmopolitan_french
+religion = catholic
+hre = no
+base_tax = 5
+base_production = 5
+trade_goods = iron
+base_manpower = 3
+
+discovered_by = global

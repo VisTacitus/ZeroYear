@@ -1,0 +1,18 @@
+#421 - Shirvan
+
+owner = SOV
+controller = SOV
+add_core = SOV
+add_core = X19
+culture = azerbaijani
+religion = shiite
+capital = "Baku"
+trade_goods = silk #And Salt and Petroleum
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 2
+is_city = yes
+fort_15th = yes #Derbent Citadel and fortress
+
+discovered_by = global

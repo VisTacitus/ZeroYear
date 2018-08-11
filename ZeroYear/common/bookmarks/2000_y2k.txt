@@ -1,0 +1,15 @@
+bookmark =
+{
+	name = "Y2K_TITLE"
+	desc = "Y2K_DESC"
+	date = 2000.1.1
+	
+	center = 112
+	default = yes
+	
+	country = USA
+	country = GBR
+	country = FRA
+	country = ITA
+	country = RUS
+}

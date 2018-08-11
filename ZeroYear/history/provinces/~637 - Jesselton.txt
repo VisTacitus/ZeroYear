@@ -1,0 +1,17 @@
+#637 - Jesselton
+
+owner = GBR
+controller = GBR
+add_core = GBR
+add_core = Y31
+culture = bornean
+religion = sunni
+capital = "Jesselton"
+trade_goods = spices
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 3
+is_city = yes
+
+discovered_by = global

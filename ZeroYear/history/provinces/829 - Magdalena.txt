@@ -1,0 +1,15 @@
+#829 - Magdalena
+
+owner = COL
+controller = COL
+add_core = COL
+culture = muisca
+religion = animism
+capital = "Magdalena"
+trade_goods = unknown
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+
+discovered_by = global

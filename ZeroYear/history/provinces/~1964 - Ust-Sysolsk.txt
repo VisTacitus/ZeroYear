@@ -1,0 +1,17 @@
+#Ust-Sysolsk
+
+owner = SOV
+controller = SOV
+add_core = SOV
+add_core = RUS
+culture = uralic
+religion = orthodox
+hre = no
+base_tax = 1 
+base_production = 1
+trade_goods = fur
+base_manpower = 1
+capital = "Ust-Sysola"
+is_city = yes
+
+discovered_by = global

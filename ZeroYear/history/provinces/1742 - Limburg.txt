@@ -1,0 +1,16 @@
+# 1742 - Upper Guelders
+
+owner = NED
+controller = NED
+add_core = NED
+is_city = yes
+capital = "Roermond"
+culture = flemish
+religion = catholic
+hre = yes
+base_tax = 5
+base_production = 5
+trade_goods = cloth
+base_manpower = 4
+
+discovered_by = global

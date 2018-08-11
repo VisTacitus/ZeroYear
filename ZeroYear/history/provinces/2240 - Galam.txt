@@ -1,0 +1,26 @@
+# No previous file for Galam
+
+owner = FRA
+controller = FRA
+add_core = FRA
+add_core = X92
+culture = fulani 
+religion = shamanism #Fetishism
+capital = "Galam"
+trade_goods = unknown
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 1
+
+discovered_by = global
+
+1960.6.20 = {
+	remove_core = FRA
+	owner = MAL
+	controller = MAL
+} #The Mali Federation lasted for only two months.
+1960.8.20 = {
+	owner = X92
+	controller = X92
+} #The Mali Federation falls apart. Senegal declares independence.

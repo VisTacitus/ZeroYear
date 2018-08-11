@@ -1,0 +1,16 @@
+#636 - Brunei
+
+owner = GBR
+controller = GBR
+add_core = BEI
+culture = bornean
+religion = sunni
+capital = "Brunei"
+trade_goods = spices
+hre = no
+base_tax = 7
+base_production = 7
+base_manpower = 4
+is_city = yes
+
+discovered_by = global

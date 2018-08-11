@@ -1,0 +1,16 @@
+#418 - Diyarbakir
+
+owner = TUR
+controller = TUR
+add_core = TUR
+culture = kurdish
+religion = sunni
+capital = "Diyar Bekir"
+trade_goods = livestock
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 2
+is_city = yes
+
+discovered_by = global

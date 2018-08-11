@@ -1,0 +1,16 @@
+# No previous file for Metztitlan
+
+owner = MEX
+controller = MEX
+add_core = MEX
+is_city = yes
+culture = totonac
+religion = nahuatl
+capital = "Metztitlan"
+trade_goods = grain
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+
+discovered_by = global

@@ -1,0 +1,7 @@
+#1804 - Greenland
+
+owner = DAN
+controller = DAN
+add_core = DAN
+
+discovered_by = global

@@ -1,0 +1,27 @@
+#422 - Imereti
+
+latent_trade_goods = {
+	coal
+}
+
+owner = SOV
+controller = SOV
+add_core = SOV
+add_core = GEO
+culture = georgian
+religion = orthodox
+capital = "Kutaisi"
+trade_goods = cloth
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 3
+is_city = yes
+
+discovered_by = global
+
+1991.4.9 = {
+	remove_core = SOV
+	owner = GEO
+	controller = GEO
+} #Declaration of Independence from the Soviet Union for Georgia.

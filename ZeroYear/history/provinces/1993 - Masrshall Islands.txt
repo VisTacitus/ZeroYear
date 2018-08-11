@@ -1,0 +1,22 @@
+#1993 - Marshall Islands
+
+owner = USA
+controller = USA
+add_core = USA
+culture = polynesian
+religion = animism
+capital = "Majuro"
+trade_goods = unknown
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+
+discovered_by = global
+
+1986.10.21 = {
+	remove_core = USA
+	add_core = Y41
+	owner = Y41
+	controller = Y41
+} #The Marshall Islands gains its' independence.

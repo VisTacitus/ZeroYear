@@ -1,0 +1,19 @@
+#293 - Smolensk
+
+owner = SOV
+controller = SOV
+add_core = SOV
+add_core = RUS
+culture = ryazanian
+religion = orthodox
+hre = no
+base_tax = 4
+base_production = 4
+trade_goods = grain 
+base_manpower = 1
+add_local_autonomy = 50
+capital = "Smolensk"
+is_city = yes	 
+fort_15th = yes
+
+discovered_by = global

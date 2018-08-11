@@ -1,0 +1,17 @@
+#1954 - Torontál
+
+owner = X02
+controller = X02
+add_core = X02
+add_core = SER
+culture = hungarian
+religion = catholic
+capital = "Nagybecskerek"
+trade_goods = livestock
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 2
+is_city = yes
+
+discovered_by = global

@@ -1,0 +1,18 @@
+#237 - Oxfordshire
+#Oxfordshire+Bukinghamshire+Berkshire
+
+owner = GBR
+controller = GBR
+add_core = GBR
+culture = english
+religion = catholic
+hre = no
+base_tax = 4
+base_production = 4
+trade_goods = livestock
+base_manpower = 2
+capital = "Oxford"
+is_city = yes
+seat_in_parliament = yes
+
+discovered_by = global

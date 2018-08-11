@@ -1,0 +1,33 @@
+#2202 - Melikates
+
+owner = SOV
+controller = SOV
+add_core = SOV
+add_core = X19
+culture = armenian
+religion = coptic
+capital = "Khankendi"
+trade_goods = livestock
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 3
+is_city = yes
+
+discovered_by = global
+
+1991.8.30 = {
+	remove_core = SOV
+	owner = X19
+	controller = X19
+} #Declaration of Independence by Azerbaijan.
+1993.1.10 = {
+	owner = X19
+	controller = ARM
+} #Armenia occupies the path to Nagorno-Karabkh.
+1994.5.12 = {
+	remove_core = X19
+	add_core = X08
+	owner = X08
+	controller = X08
+} #The Bishkek Protocol is signed.

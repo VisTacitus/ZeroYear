@@ -1,0 +1,22 @@
+#1995 - Micronesia
+
+owner = USA
+controller = USA
+add_core = USA
+culture = polynesian
+religion = animism
+capital = "Palikir"
+trade_goods = unknown
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+
+discovered_by = global
+
+1986.11.3 = {
+	remove_core = USA
+	add_core = Y40
+	owner = Y40
+	controller = Y40
+} #Micronesia gains its' independence.

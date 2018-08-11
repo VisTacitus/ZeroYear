@@ -1,0 +1,15 @@
+#639 - Banjar
+
+owner = NED
+controller = NED
+add_core = X78
+culture = bornean
+religion = hinduism
+capital = "Banjar"
+trade_goods = unknown
+hre = no
+base_tax = 4
+base_production = 4
+base_manpower = 3
+
+discovered_by = global

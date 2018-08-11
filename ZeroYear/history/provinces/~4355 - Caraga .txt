@@ -1,0 +1,16 @@
+#4355 - Caraga
+
+owner = USA
+controller = USA
+add_core = USA
+add_core = X76
+culture = filipino
+religion = animism
+capital = "Caraga"
+trade_goods = unknown
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+
+discovered_by = global

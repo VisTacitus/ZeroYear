@@ -1,0 +1,16 @@
+#4365 - Mann
+
+owner = GBR
+controller = GBR
+add_core = GBR
+culture = highland_scottish
+religion = catholic
+hre = no
+base_tax = 1 
+base_production = 1
+trade_goods = fish
+base_manpower = 1
+capital = "Castletown"
+is_city = yes
+
+discovered_by = global

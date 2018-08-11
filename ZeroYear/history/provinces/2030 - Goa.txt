@@ -1,0 +1,23 @@
+#2030 - Goa
+
+owner = POR
+controller = POR
+add_core = POR
+culture = marathi
+religion = hinduism
+capital = "Goa"
+trade_goods = spices
+hre = no
+base_tax = 4 
+base_production = 5
+base_manpower = 2
+is_city = yes
+
+discovered_by = global
+
+1961.12.19 = {
+	remove_core = POR
+	add_core = X23
+	owner = X23
+	controller = X23
+} #Operation Vijay takes place, Goa falls into Indian hands.

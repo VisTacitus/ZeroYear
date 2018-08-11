@@ -1,0 +1,23 @@
+# 1769 - Görz
+owner = FRA
+controller = FRA
+add_core = HAB
+culture = austrian
+religion = catholic
+base_tax = 5 
+base_production = 5
+trade_goods = iron
+base_manpower = 2
+capital = "Gorizia"
+estate = estate_nobles
+is_city = yes
+hre = no
+
+discovered_by = global
+
+1945.9.1 = { add_core = FRA } #Paritioning of Austria. Austria is too worn out.
+1955.5.15 = {
+	remove_core = FRA
+	owner = HAB
+	controller = HAB
+} #Austrian State Treaty is signed. Austria is a sovereign state again.

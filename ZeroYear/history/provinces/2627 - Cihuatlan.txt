@@ -1,0 +1,16 @@
+# 2627 - Cihuatlan
+
+owner = MEX
+controller = MEX
+add_core = MEX
+culture = tlapanec
+is_city = yes
+religion = nahuatl
+capital = "Cihuatlan"
+trade_goods = gems
+hre = no
+base_tax = 2 
+base_production = 2
+base_manpower = 1
+
+discovered_by = global

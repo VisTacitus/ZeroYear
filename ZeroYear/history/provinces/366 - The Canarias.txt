@@ -1,0 +1,15 @@
+#366 - The Canarias
+
+owner = SPA
+controller = SPA
+add_core = SPA
+culture = castillian
+religion = catholic
+capital = "The Canarias"
+trade_goods = unknown
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 1
+
+discovered_by = global

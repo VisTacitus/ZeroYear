@@ -1,0 +1,16 @@
+#434 - Quhistan
+
+owner = PER
+controller = PER
+add_core = PER
+culture = baluchi
+religion = sunni
+capital = "Bampur"
+trade_goods = livestock
+hre = no
+base_tax = 2 
+base_production = 2
+base_manpower = 3
+is_city = yes
+
+discovered_by = global

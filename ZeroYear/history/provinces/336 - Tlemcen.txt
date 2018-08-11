@@ -1,0 +1,24 @@
+#336 - Tlemcen
+
+owner = FRA
+controller = FRA
+add_core = FRA
+add_core = ALG 
+culture = berber
+religion = sunni
+capital = "Tlemcen"
+trade_goods = cloth
+hre = no
+base_tax = 5 
+base_production = 5
+base_manpower = 3
+is_city = yes
+fort_15th = yes
+
+discovered_by = global
+
+1962.7.3 = {
+	remove_core = FRA
+	owner = ALG
+	controller = ALG
+} #Algeria gains independence from France after a colonial war.

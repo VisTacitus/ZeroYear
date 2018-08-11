@@ -1,0 +1,17 @@
+# 2127 - Yashilkul
+
+owner = SOV
+controller = SOV
+add_core = SOV
+add_core = X14
+culture = uzbehk
+religion = shiite
+capital = "Yashilkul"
+trade_goods = livestock
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 2
+is_city = yes
+
+discovered_by = global

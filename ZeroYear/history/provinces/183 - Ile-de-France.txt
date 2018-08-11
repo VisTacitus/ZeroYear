@@ -1,0 +1,15 @@
+# 183 Île-de-France - Principal cities: Paris
+
+owner = FRA
+controller = FRA
+capital = "Paris"
+is_city = yes
+culture = cosmopolitan_french
+religion = catholic
+hre = no
+base_tax = 8
+base_production = 8
+trade_goods = paper
+base_manpower = 7
+
+discovered_by = global

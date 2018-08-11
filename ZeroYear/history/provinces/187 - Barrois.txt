@@ -1,0 +1,17 @@
+# 187 Barrois - Principal cities: Verdun
+
+owner = FRA
+controller = FRA
+add_core = FRA
+capital = "Bar-le-Duc"
+is_city = yes
+culture = burgundian
+religion = catholic
+hre = no
+base_tax = 5 
+base_production = 5
+trade_goods = cloth
+base_manpower = 5
+fort_15th = yes
+
+discovered_by = global

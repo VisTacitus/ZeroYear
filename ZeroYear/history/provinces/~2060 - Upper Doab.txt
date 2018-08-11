@@ -1,0 +1,17 @@
+#2060 - Upper Doab
+
+owner = GBR
+controller = GBR
+add_core = GBR
+add_core = X23
+culture = kanauji
+religion = hinduism
+capital = "Meerut"
+trade_goods = cloth
+hre = no
+base_tax = 7 
+base_production = 7
+base_manpower = 4
+is_city = yes
+
+discovered_by = global

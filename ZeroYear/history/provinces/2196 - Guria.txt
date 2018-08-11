@@ -1,0 +1,16 @@
+#2196 - Guria
+
+owner = TUR
+controller = TUR
+add_core = TUR
+culture = georgian
+religion = orthodox
+capital = "Batumi"
+trade_goods = fish
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 2
+is_city = yes
+
+discovered_by = global

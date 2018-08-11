@@ -1,0 +1,23 @@
+# No previous file for Haayre
+
+owner = FRA
+controller = FRA
+add_core = FRA
+add_core = MAL
+is_city = yes
+culture = bozo 
+religion = shamanism #Fetishism
+capital = "Douentza"
+trade_goods = ivory
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+
+discovered_by = global
+
+1960.6.20 = {
+	remove_core = FRA
+	owner = MAL
+	controller = MAL
+} #Mali gains independence from France.

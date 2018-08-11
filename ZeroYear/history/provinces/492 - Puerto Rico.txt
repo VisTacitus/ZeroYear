@@ -1,0 +1,15 @@
+#492 - Puerto Rico
+
+owner = USA
+controller = USA
+add_core = USA
+culture = arawak
+religion = animism
+capital = "Puerto Rico"
+trade_goods = unknown 
+hre = no
+base_tax = 4
+base_production = 5
+base_manpower = 1
+
+discovered_by = global

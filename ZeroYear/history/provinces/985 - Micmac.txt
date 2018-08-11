@@ -1,0 +1,18 @@
+#985 - Micmac
+
+owner = CAN
+controller = CAN
+add_core = CAN
+culture = mikmaq
+religion = totemism
+capital = "Micmac"
+trade_goods = fish
+hre = no
+base_tax = 2
+base_production = 2
+base_manpower = 1
+native_size = 15
+native_ferocity = 2
+native_hostileness = 9
+
+discovered_by = global

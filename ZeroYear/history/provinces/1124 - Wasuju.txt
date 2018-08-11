@@ -1,0 +1,23 @@
+#1124 - Wasuju
+
+owner = FRA
+controller = FRA
+add_core = FRA
+add_core = MAL
+culture = mali
+is_city = yes
+base_manpower = 8
+religion = sunni
+capital = "Niani"
+trade_goods = grain
+hre = no
+base_tax = 4 
+base_production = 4
+
+discovered_by = global
+
+1960.6.20 = {
+	remove_core = FRA
+	owner = MAL
+	controller = MAL
+} #Mali gains independence from France.

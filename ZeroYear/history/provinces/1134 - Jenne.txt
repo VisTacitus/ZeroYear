@@ -1,0 +1,24 @@
+#1134 - Jenne
+
+owner = FRA
+controller = FRA
+add_core = FRA
+add_core = MAL
+culture = bozo
+is_city = yes
+base_manpower = 3
+religion = shamanism #Fetishism
+capital = "Jenne"
+trade_goods = cloth
+hre = no
+base_tax = 7 
+base_production = 7
+fort_15th = yes
+
+discovered_by = global
+
+1960.6.20 = {
+	remove_core = FRA
+	owner = MAL
+	controller = MAL
+} #Mali gains independence from France.

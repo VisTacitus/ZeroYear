@@ -1,0 +1,16 @@
+#770 - Braslaw
+
+owner = SOV
+controller = SOV
+add_core = LIT
+capital = "Braslaw"
+is_city = yes
+culture = lithuanian
+religion = catholic
+trade_goods = livestock
+hre = no
+base_tax = 5
+base_production = 5
+base_manpower = 4
+
+discovered_by = global

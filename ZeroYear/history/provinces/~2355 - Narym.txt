@@ -1,0 +1,17 @@
+# 2355 - Narym
+
+owner = SOV
+controller = SOV
+add_core = SOV
+add_core = KZH
+culture = khazak
+religion = sunni
+capital = "Narym"
+trade_goods = fish
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+is_city = yes
+
+discovered_by = global

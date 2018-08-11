@@ -1,0 +1,20 @@
+#263 - Upper Silesia
+
+latent_trade_goods = {
+	coal
+}
+
+owner = POL
+controller = POL
+add_core = POL
+culture = schlesian
+religion = catholic
+hre = no
+base_tax = 3 
+base_production = 3
+capital = "Ratibor"
+is_city = yes
+trade_goods = iron
+base_manpower = 2
+
+discovered_by = global

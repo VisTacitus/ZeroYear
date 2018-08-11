@@ -1,0 +1,17 @@
+#567 - Sylhet
+
+owner = GBR
+controller = GBR
+add_core = GBR
+add_core = X23
+culture = bengali
+religion = hinduism
+capital = "Sylhet"
+trade_goods = cotton
+hre = no
+base_tax = 4 
+base_production = 3
+base_manpower = 2
+is_city = yes
+
+discovered_by = global

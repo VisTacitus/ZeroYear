@@ -1,0 +1,15 @@
+# - Santiago del Estero
+
+owner = LAP
+controller = LAP
+add_core = LAP
+culture = diaguita
+religion = animism
+capital = "Santiago del Estero"
+trade_goods = unknown
+hre = no
+base_tax = 2 
+base_production = 1
+base_manpower = 1
+
+discovered_by = global

@@ -1,0 +1,23 @@
+#1827 - Raska
+
+owner = X02
+controller = X02
+add_core = X02
+add_core = SER
+culture = serbian
+religion = orthodox
+capital = "Trgoviste"
+trade_goods = livestock
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 1
+is_city = yes
+
+discovered_by = global
+
+2006.6.5 = {
+	remove_core = X02
+	owner = SER
+	controller = SER
+} #Yugoslavia finally breaks up after Montenegro leaves.

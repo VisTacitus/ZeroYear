@@ -1,0 +1,16 @@
+#399 - Suhar
+
+owner = GBR
+controller = GBR
+add_core = OMA
+culture = omani_culture
+religion = ibadi
+capital = "Suhar"
+trade_goods = grain #And pearls
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 3
+is_city = yes
+
+discovered_by = global

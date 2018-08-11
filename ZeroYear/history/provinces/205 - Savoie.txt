@@ -1,0 +1,18 @@
+#205 - Savoie
+
+owner = FRA
+controller = FRA
+add_core = FRA
+culture = piedmontese
+religion = catholic
+hre = no
+base_tax = 9
+base_production = 9
+trade_goods = cloth
+base_manpower = 5
+capital = "Chambéry"
+is_city = yes
+
+
+
+discovered_by = global

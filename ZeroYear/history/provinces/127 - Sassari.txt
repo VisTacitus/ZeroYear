@@ -1,0 +1,17 @@
+#127 - Sardinia
+
+owner = ITA
+controller = ITA
+add_core = ITA
+culture = sardinian 
+religion = catholic 
+hre = no 
+base_tax = 3 
+base_production = 3
+trade_goods = fish
+base_manpower = 2
+capital = "Sassari" 
+is_city = yes
+
+discovered_by = global
+

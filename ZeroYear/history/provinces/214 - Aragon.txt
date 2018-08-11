@@ -1,0 +1,16 @@
+#214 - Aragón
+
+owner = SPA
+controller = SPA
+add_core = SPA
+culture = aragonese
+religion = catholic
+hre = no
+base_tax = 6
+base_production = 6
+trade_goods = iron
+base_manpower = 5
+capital = "Zaragoza" 
+is_city = yes
+
+discovered_by = global

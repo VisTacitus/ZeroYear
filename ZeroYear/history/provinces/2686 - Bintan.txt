@@ -1,0 +1,29 @@
+#2686 - Bintan
+
+owner = GBR
+controller = GBR
+add_core = GBR
+add_core = Y31
+add_core = SND
+culture = malayan
+religion = sunni
+capital = "Tanjungpinaung"
+trade_goods = naval_supplies
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 1
+is_city = yes
+
+discovered_by = global
+
+1957.8.31 = {
+	remove_core = GBR
+	owner = Y31
+	controller = Y31
+} #Malaysia becomes independent as the "Federation of Malaysia".
+1965.9.8 = {
+	remove_core = Y31
+	owner = SND
+	controller = SND
+} #The Secession of Singapore.

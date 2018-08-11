@@ -1,0 +1,16 @@
+# - Buzau
+
+owner = RMN
+controller = RMN
+add_core = RMN
+culture = romanian
+religion = orthodox
+capital = "Buzau"
+trade_goods = livestock
+hre = no
+base_tax = 5
+base_production = 5
+base_manpower = 3
+is_city = yes
+
+discovered_by = global

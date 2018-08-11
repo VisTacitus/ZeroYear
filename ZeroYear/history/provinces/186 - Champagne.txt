@@ -1,0 +1,16 @@
+# 186 Champagne - Principal cities: Reims
+
+owner = FRA
+controller = FRA
+add_core = FRA
+capital = "Reims"
+is_city = yes
+culture = cosmopolitan_french
+religion = catholic
+hre = no
+base_tax = 6
+base_production = 6
+trade_goods = wine
+base_manpower = 4
+
+discovered_by = global

@@ -1,0 +1,23 @@
+#2212 - Mianeh
+
+owner = X21
+controller = X21
+add_core = X21
+add_core = PER
+culture = azerbaijani
+religion = shiite
+capital = "Mianeh"
+trade_goods = paper
+hre = no
+base_tax = 2
+base_production = 2
+base_manpower = 1
+is_city = yes
+
+discovered_by = global
+
+1946.12.15 = {
+	remove_core = X21
+	owner = PER
+	controller = PER
+} #The Iran Crisis of 1946 ends.

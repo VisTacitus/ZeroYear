@@ -1,0 +1,17 @@
+#580 - Kale
+
+owner = GBR
+controller = GBR
+add_core = GBR
+add_core = TAU
+culture = chin
+religion = animism
+capital = "Kale"
+trade_goods = grain
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 1
+is_city = yes
+
+discovered_by = global

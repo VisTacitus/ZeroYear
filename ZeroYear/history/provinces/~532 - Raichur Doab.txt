@@ -1,0 +1,17 @@
+#532 - Raichur Doab
+
+owner = GBR
+controller = GBR
+add_core = X27
+culture = kannada
+religion = hinduism
+capital = "Raichur"
+trade_goods = cloth
+hre = no
+base_tax = 5 
+base_production = 6
+base_manpower = 4
+is_city = yes
+fort_15th = yes #Mudgal, Raichur, other forts
+
+discovered_by = global

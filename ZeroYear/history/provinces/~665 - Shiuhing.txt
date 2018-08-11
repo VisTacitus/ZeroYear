@@ -1,0 +1,17 @@
+#665 - Jiangmen
+
+owner = X75
+controller = X75
+add_core = X74
+add_core = X75
+culture = cantonese
+religion = confucianism
+capital = "Shiuhing"
+trade_goods = chinaware
+hre = no
+base_tax = 4 
+base_production = 4
+base_manpower = 3
+is_city = yes
+
+discovered_by = global

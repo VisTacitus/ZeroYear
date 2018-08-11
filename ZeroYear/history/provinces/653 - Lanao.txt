@@ -1,0 +1,23 @@
+#653 - Lanao
+
+owner = USA
+controller = USA
+add_core = USA
+add_core = X76
+culture = filipino
+religion = animism
+capital = "Marawi"
+trade_goods = spices
+is_city = yes
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 2
+
+discovered_by = global
+
+1946.7.4 = {
+	remove_core = USA
+	owner = X76
+	controller = X76
+} #The Philippines is granted sovereignty by the United States.

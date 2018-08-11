@@ -1,0 +1,13 @@
+# - São Tomé
+
+owner = POR
+controller = POR
+add_core = POR
+culture = portugese
+religion = catholic
+capital = "São Tomé"
+trade_goods = unknown
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1

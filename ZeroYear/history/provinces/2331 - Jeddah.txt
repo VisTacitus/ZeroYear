@@ -1,0 +1,16 @@
+#2331 - Jeddah
+
+owner = NAJ
+controller = NAJ
+add_core = NAJ
+culture = hejazi_culture
+religion = sunni
+capital = "Jiddah"
+trade_goods = incense
+hre = no
+base_tax = 2 
+base_production = 3
+base_manpower = 1
+is_city = yes
+
+discovered_by = global

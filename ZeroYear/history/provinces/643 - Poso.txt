@@ -1,0 +1,26 @@
+#643 - Poso
+
+owner = NED
+controller = NED
+add_core = NED
+culture = sulawesi
+religion = animism
+capital = "Poso"
+trade_goods = unknown
+hre = no
+base_tax = 4
+base_production = 4
+base_manpower = 2
+
+discovered_by = global
+
+1945.12.23 = {
+	controller = X78
+} #Sulawesi defects to the Indonesians.
+1948.12.19 = {
+	controller = NED
+} #Operation Kraii begins.
+1949.11.2 = {
+	owner = X78
+	controller = X78
+} #Round Table Talks are concluded.

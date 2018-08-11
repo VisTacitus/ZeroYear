@@ -1,0 +1,17 @@
+#673 - Bozhou
+
+owner = X75
+controller = X75
+add_core = X74
+add_core = X75
+culture = miao
+religion = animism
+capital = "Zhenyuan"
+trade_goods = tea
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+is_city = yes
+
+discovered_by = global

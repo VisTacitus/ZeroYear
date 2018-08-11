@@ -1,0 +1,16 @@
+#1157 - Borno
+
+owner = GBR
+controller = GBR
+add_core = Y01
+culture = kanuri
+religion = sunni
+capital = "Gatiga"
+is_city = yes
+base_manpower = 1
+trade_goods = grain
+hre = no
+base_tax = 4 
+base_production = 4
+
+discovered_by = global

@@ -1,0 +1,17 @@
+#389 - Mukalla
+
+owner = GBR
+controller = GBR
+add_core = X36
+add_core = YEM
+culture = yemeni_culture
+religion = sunni
+capital = "Al Mukalla"
+trade_goods = incense
+hre = no
+base_tax = 1
+base_production = 2
+base_manpower = 2
+is_city = yes
+
+discovered_by = global

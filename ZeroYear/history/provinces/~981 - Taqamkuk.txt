@@ -1,0 +1,16 @@
+#981 - Taqamkuk
+
+owner = GBR
+controller = GBR
+add_core = GBR
+add_core = CAN
+culture = cree
+religion = totemism
+capital = "Taqamkuk"
+trade_goods = unknown
+hre = no
+base_tax = 1 
+base_production = 2
+base_manpower = 1
+
+discovered_by = global

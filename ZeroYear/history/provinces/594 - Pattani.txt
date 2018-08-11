@@ -1,0 +1,16 @@
+#594 - Pattani
+
+owner = Y29
+controller = Y29
+add_core = Y29
+culture = malayan
+religion = sunni
+capital = "Pattani"
+trade_goods = tropical_wood
+hre = no
+base_tax = 6
+base_production = 6
+base_manpower = 3
+is_city = yes
+
+discovered_by = global

@@ -1,0 +1,15 @@
+#375 - Munster
+
+owner = IRE
+controller = IRE
+add_core = IRE
+culture = irish
+religion = catholic
+hre = no
+base_tax = 3
+base_production = 3
+trade_goods = fish
+base_manpower = 2
+capital = "Limerick"
+is_city = yes
+discovered_by = global

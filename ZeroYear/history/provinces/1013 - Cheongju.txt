@@ -1,0 +1,30 @@
+#1013 - Cheongju
+
+owner = USA
+controller = USA
+add_core = USA
+add_core = X42
+culture = korean
+religion = confucianism
+capital = "Cheongju"
+trade_goods = grain
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 2
+is_city = yes
+
+discovered_by = global
+
+1948.8.15 = {
+	remove_core = USA
+	owner = X42
+	controller = X42
+	add_core = X42
+} #South Korea granted independence by the U.S.
+1950.7.15 = {
+	controller = X41
+} #North Korea invades South Korea.
+1950.9.30 = {
+	controller = X42
+} #Inchon Landings are completed.

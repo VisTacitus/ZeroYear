@@ -1,0 +1,18 @@
+#63 - Erfurt
+
+owner = SOV
+controller = SOV
+add_core = GER
+add_core = X26
+culture = saxon
+religion = catholic
+capital = "Erfurt"
+trade_goods = dyes #Woad, also a center for glassmaking
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 1
+is_city = no
+
+discovered_by = global
+fort_15th = yes

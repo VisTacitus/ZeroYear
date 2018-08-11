@@ -1,0 +1,16 @@
+#802 - Chuquiabo
+
+owner = X51
+controller = X51
+add_core = X51
+is_city = yes
+culture = aimara
+religion = inti
+capital = "Chuquiabo"
+trade_goods = cloth
+hre = no
+base_tax = 4 
+base_production = 4
+base_manpower = 1
+
+discovered_by = global

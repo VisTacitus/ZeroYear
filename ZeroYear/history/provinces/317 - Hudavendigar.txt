@@ -1,0 +1,16 @@
+#317 - Bursa
+
+owner = TUR
+controller = TUR
+add_core = TUR
+culture = turkish
+religion = sunni
+capital = "Bursa"
+trade_goods = silk
+hre = no
+base_tax = 5
+base_production = 5
+base_manpower = 2
+is_city = yes
+
+discovered_by = global

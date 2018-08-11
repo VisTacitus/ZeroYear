@@ -1,0 +1,16 @@
+#592 - Ratchaburi
+
+owner = Y29
+controller = Y29
+add_core = Y29
+culture = central_thai
+religion = buddhism
+capital = "Ratchaburi"
+trade_goods = grain
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 3
+is_city = yes
+
+discovered_by = global

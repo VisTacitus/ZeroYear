@@ -1,0 +1,36 @@
+#609 - Angkor
+
+owner = FRA
+controller = FRA
+add_core = FRA
+add_core = Y32
+culture = khmer
+religion = hinduism
+capital = "Angkor"
+trade_goods = tropical_wood
+hre = no
+base_tax = 5
+base_production = 5
+base_manpower = 3
+is_city = yes
+
+discovered_by = global
+
+1953.11.9 = {
+	remove_core = FRA
+	add_core = Y33 #Khmer Rouge
+	owner = Y32
+	controller = Y32
+} #Cambodia gains its' independence from France.
+1975.4.17 = {
+	owner = Y33
+	controller = Y33
+} #The Khmer Rouge takes power.
+1979.1.31 = {
+	controller = X72
+} #The Vietnamese invade Kampuchea as a defensive measure.
+1979.2.1 = {
+	remove_core = Y33
+	owner = Y32
+	controller = Y32
+} #The People's Republic of Kampuchea is founded - later known as Cambodia.

@@ -1,0 +1,17 @@
+# - Dahra
+
+owner = FRA
+controller = FRA
+add_core = ALG 
+culture = algerian
+religion = sunni
+capital = "Mostaganem"
+trade_goods = grain
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 2
+is_city = yes
+fort_15th = yes
+
+discovered_by = global

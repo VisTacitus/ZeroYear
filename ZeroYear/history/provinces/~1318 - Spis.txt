@@ -1,0 +1,17 @@
+#1318 - Spiš
+
+owner = BOH
+controller = BOH
+add_core = BOH
+culture = slovak
+religion = catholic
+capital = "Spiš"
+trade_goods = copper
+hre = no
+base_tax = 3
+base_production = 4
+base_manpower = 2
+is_city = yes
+add_core = SLO
+
+discovered_by = global

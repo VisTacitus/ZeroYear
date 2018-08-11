@@ -1,0 +1,22 @@
+#2695 - East Timor
+
+owner = POR
+controller = POR
+add_core = POR
+culture = papuan
+religion = animism
+capital = "Timor"
+trade_goods = unknown
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 3
+
+discovered_by = global
+
+2002.5.20 = {
+	remove_core = POR
+	add_core = Y34
+	owner = Y34
+	controller = Y34
+} #The Independence of East Timor is established.

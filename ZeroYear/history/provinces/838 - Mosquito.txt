@@ -1,0 +1,18 @@
+#838 - Mosquito
+
+owner = X46
+controller = X46
+add_core = X46
+culture = miskito 
+religion = animism 
+capital = "Mosquito" 
+trade_goods = unknown
+hre = no 
+base_tax = 1 
+base_production = 1
+base_manpower = 1 
+native_size = 20 
+native_ferocity = 1 
+native_hostileness = 5
+
+discovered_by = global

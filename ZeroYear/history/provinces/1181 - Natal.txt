@@ -1,0 +1,22 @@
+#1181 - Natal
+
+owner = GBR
+controller = GBR
+add_core = GBR
+add_core = Y24
+culture = nguni
+religion = shamanism #Fetishism
+capital = "Magulu"
+trade_goods = unknown
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+
+discovered_by = global
+
+1966.10.4 = {
+	remove_core = GBR
+	owner = Y24
+	controller = Y24
+} #Leosotho gains its' independence.

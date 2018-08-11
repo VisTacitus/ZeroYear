@@ -1,0 +1,23 @@
+#1772 - Pozsony
+
+owner = BOH
+controller = BOH
+add_core = BOH
+add_core = SLO
+culture = slovak
+religion = catholic
+capital = "Bratislava"
+trade_goods = grain
+hre = no
+base_tax = 5
+base_production = 5
+base_manpower = 3
+is_city = yes
+
+discovered_by = global
+
+1993.1.1 = {
+	remove_core = BOH
+	owner = SLO
+	controller = SLO
+} #Breakup of Czechoslovakia.

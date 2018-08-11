@@ -1,0 +1,46 @@
+namespace = oob_events
+
+########################################
+# OOB's (Order of Battle)
+########################################
+namespace = oob_events
+
+# USA OOB
+country_event = {
+	id = oob_events.1
+	title = "oob_events.EVTNAME1"
+	desc = "oob_events.EVTDESC1"
+	picture = BANKRUPTCY_eventPicture
+	
+	fire_only_once = yes
+	
+	trigger = {
+		start_date = 1945.9.2 #East v. West
+		tag = USA
+	}
+	
+	immediate = {
+		hidden_effect = {
+			USA = {
+				every_owned_province = {
+					kill_units = {
+						who = USA
+					}
+				}
+			}
+		}
+	}
+
+	option = {	#Gain Units
+		name = "oob_events.EVTOPTA1"
+		ai_chance = { factor = 100 }
+		#OOB for USA
+		953 = {
+			ROOT = {
+				british_redcoat = { tag = USA }
+				british_redcoat = USA
+			}
+		}
+	}
+	
+}

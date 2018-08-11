@@ -1,0 +1,16 @@
+#589 - Chiang Mai
+
+owner = Y29
+controller = Y29
+add_core = Y29
+culture = northern_thai
+religion = buddhism
+capital = "Chiang Mai"
+trade_goods = ivory 
+hre = no
+base_tax = 5
+base_production = 5
+base_manpower = 3
+is_city = yes
+
+discovered_by = global

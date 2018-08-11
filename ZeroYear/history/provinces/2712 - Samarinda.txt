@@ -1,0 +1,25 @@
+#2712 - Samarinda
+
+latent_trade_goods = {
+	coal
+}
+
+owner = NED
+controller = NED
+add_core = X78
+culture = bornean
+religion = hinduism
+capital = "Samarinda"
+trade_goods = spices
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 2
+is_city = yes
+
+discovered_by = global
+
+1949.11.2 = {
+	owner = X78
+	controller = X78
+} #Round Table Talks are concluded.

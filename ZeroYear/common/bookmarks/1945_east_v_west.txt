@@ -1,0 +1,35 @@
+bookmark =
+{
+	name = "EVW_TITLE"
+	desc = "EVW_DESC"
+	date = 1945.9.2
+	
+	center = 112
+	default = yes
+	
+	#BIG FOUR
+	#France
+	country = FRA
+	#Great Britain
+	country = GBR
+	#Soviet Union
+	country = SOV
+	#United States of America
+	country = USA
+	
+	#SECONDARY POWERS
+	#Brazil
+	country = BRZ
+	#Canada
+	country = CAN
+	#Italy
+	country = ITA
+	#Persia
+	country = PER
+	#Republic of China
+	country = X75
+	#People's Republic of China
+	country = X74
+	#Yugoslavia
+	country = X02
+}

@@ -1,0 +1,16 @@
+# No previous file for Apatzingan
+
+owner = MEX
+controller = MEX
+add_core = MEX
+culture = purepecha
+is_city = yes
+religion = nahuatl
+capital = "Apatzingan"
+trade_goods = grain
+hre = no
+base_tax = 2 
+base_production = 2
+base_manpower = 1
+
+discovered_by = global

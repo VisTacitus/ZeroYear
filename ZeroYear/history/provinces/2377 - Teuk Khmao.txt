@@ -1,0 +1,39 @@
+#2377- Teuk Khmao
+
+owner = FRA
+controller = FRA
+add_core = FRA
+add_core = X38
+culture = khmer
+religion = hinduism
+capital = "Oc Eo"
+trade_goods = fish
+hre = no
+base_tax = 4
+base_production = 4
+base_manpower = 2
+is_city = yes
+
+discovered_by = global
+
+1954.7.21 = {
+	remove_core = FRA
+	owner = X38
+	controller = X38
+} #The Geneva Conference partitions Vietnam into both North and South.
+1963.9.3 = {
+	controller = X40
+} #The Viet Cong controlled this region of Vietnam.
+1973.1.27 = {
+	owner = X38
+	controller = X38
+} #The Paris Peace Accords are signed.
+1974.12.13 = {
+	controller = X40
+} #The Final push to Saigon. The US is too busy with Watergate.
+1976.7.2 = {
+	remove_core = X38
+	add_core = X39
+	owner = X39
+	controller = X39
+} #Vietnam officially unites.

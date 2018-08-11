@@ -1,0 +1,16 @@
+#325 - Kastamonu
+
+owner = TUR
+controller = TUR
+add_core = TUR
+culture = turkish
+religion = sunni
+capital = "Kastamonu"
+trade_goods = copper
+hre = no
+base_tax = 3
+base_production = 5 #Huge copper mine
+base_manpower = 2
+is_city = yes
+
+discovered_by = global

@@ -1,0 +1,24 @@
+#533 - Mysore
+
+owner = GBR
+controller = GBR
+add_core = GBR
+add_core = X23
+culture = kannada
+religion = hinduism
+capital = "Seringapatanam"
+trade_goods = iron
+hre = no
+base_tax = 5 
+base_production = 5
+base_manpower = 4
+fort_15th = yes #Seringapatanam Fort
+is_city = yes
+
+discovered_by = global
+
+1947.7.18 = {
+	remove_core = GBR
+	owner = X23
+	controller = X23
+} #The British Raj is partitioned between India and Pakistan.

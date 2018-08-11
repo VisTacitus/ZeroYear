@@ -1,0 +1,22 @@
+#Dorpat
+
+owner = SOV
+controller = SOV
+add_core = EST
+culture = estonian
+religion = catholic
+hre = no
+base_tax = 3 
+base_production = 3
+trade_goods = naval_supplies
+base_manpower = 2
+capital = "Voru"
+is_city = yes
+
+discovered_by = global
+
+1991.8.20 = {
+	remove_core = SOV
+	owner = EST
+	controller = EST
+} #Estonia gains de-facto independence from the Soviet Union.

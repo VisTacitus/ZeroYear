@@ -1,0 +1,16 @@
+# No previous file for Coixtlahuacan
+
+owner = MEX
+controller = MEX
+add_core = MEX
+culture = mixtec
+is_city = yes
+religion = nahuatl
+capital = "Coixtlahuacan"
+trade_goods = dyes
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 1
+
+discovered_by = global

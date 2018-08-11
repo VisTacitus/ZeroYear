@@ -1,0 +1,14 @@
+
+owner = USA
+controller = USA
+add_core = USA
+culture = abenaki
+religion = totemism
+capital = "Kennebec"
+trade_goods = unknown
+hre = no
+base_tax = 4
+base_production = 3
+base_manpower = 3
+
+discovered_by = global

@@ -1,0 +1,16 @@
+#147 - Salonica
+
+owner = GRE
+controller = GRE
+add_core = GRE
+culture = greek
+religion = orthodox
+capital = "Larissa"
+trade_goods = grain
+hre = no
+base_tax = 6 
+base_production = 6
+base_manpower = 2
+is_city = yes
+
+discovered_by = global

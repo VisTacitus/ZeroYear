@@ -1,0 +1,23 @@
+#1140 - Abomey
+
+owner = FRA
+controller = FRA
+add_core = FRA
+add_core = X99
+is_city = yes
+culture = fon
+religion = shamanism #Fetishism
+capital = "Allada"
+trade_goods = slaves
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+
+discovered_by = global
+
+1960.4.26 = {
+	remove_core = FRA
+	owner = X99
+	controller = X99
+} #Togo gains its' independence from France.

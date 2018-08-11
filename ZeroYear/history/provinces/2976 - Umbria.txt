@@ -1,0 +1,16 @@
+# - Umbria
+
+owner = ITA
+controller = ITA
+add_core = ITA
+culture = umbrian 
+religion = catholic 
+hre = no
+base_tax = 6
+base_production = 6
+trade_goods = wine
+base_manpower = 1
+capital = "Perugia" 
+is_city = yes
+
+discovered_by = global

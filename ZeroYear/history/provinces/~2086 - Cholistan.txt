@@ -1,0 +1,17 @@
+#2086 - Cholistan
+
+owner = GBR
+controller = GBR
+add_core = GBR
+add_core = X24
+culture = panjabi
+religion = sunni
+capital = "Uch"
+trade_goods = livestock
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+is_city = yes
+
+discovered_by = global

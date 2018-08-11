@@ -1,0 +1,24 @@
+#2074 - Ladakh
+
+owner = GBR
+controller = GBR
+add_core = GBR
+add_core = X23
+add_core = X24
+culture = kashmiri
+religion = vajrayana
+capital = "Leh"
+trade_goods = wool
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+is_city = yes
+
+discovered_by = global
+
+1952.11.12 = {
+	remove_core = GBR
+	owner = X23
+	controller = X23
+} #Jammu and Kashmir is partitioned.

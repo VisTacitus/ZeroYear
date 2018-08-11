@@ -1,0 +1,17 @@
+#2094 - Bahreich
+
+owner = GBR
+controller = GBR
+add_core = GBR
+add_core = X23
+culture = avadhi
+religion = hinduism
+capital = "Bahreich"
+trade_goods = cotton
+hre = no
+base_tax = 5 
+base_production = 4
+base_manpower = 3
+is_city = yes
+
+discovered_by = global

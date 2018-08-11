@@ -1,0 +1,15 @@
+#486 - Guantanamo		
+
+owner = X60
+controller = X60
+add_core = X60
+culture = arawak
+religion = animism
+capital = "Guantanamo"
+trade_goods = unknown 
+hre = no
+base_tax = 2
+base_production = 3
+base_manpower = 1
+
+discovered_by = global

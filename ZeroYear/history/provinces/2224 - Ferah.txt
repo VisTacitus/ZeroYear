@@ -1,0 +1,16 @@
+#2224 - Ferah
+
+owner = AFG
+controller = AFG
+add_core = AFG
+culture = khorasani
+religion = sunni
+capital = "Ferah"
+trade_goods = livestock
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 2
+is_city = yes
+
+discovered_by = global

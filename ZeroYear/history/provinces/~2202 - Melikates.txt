@@ -1,0 +1,17 @@
+#2202 - Melikates
+
+owner = SOV
+controller = SOV
+add_core = SOV
+add_core = X19
+culture = armenian
+religion = coptic
+capital = "Khankendi"
+trade_goods = livestock
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 3
+is_city = yes
+
+discovered_by = global

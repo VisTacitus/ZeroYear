@@ -1,0 +1,17 @@
+#2697 - Tondo
+
+owner = USA
+controller = USA
+add_core = USA
+add_core = X76
+culture = filipino
+religion = animism
+capital = "Tondo"
+trade_goods = spices
+hre = no
+base_tax = 5
+base_production = 5
+base_manpower = 2
+is_city = yes
+
+discovered_by = global

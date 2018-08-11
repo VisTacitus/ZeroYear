@@ -1,0 +1,22 @@
+
+owner = X03
+controller = X03
+add_core = X03
+add_core = Y12
+culture = kuba
+religion = shamanism #Fetishism
+capital = "Kuba"
+trade_goods = tropical_wood
+hre = no
+base_tax = 2
+base_production = 1
+base_manpower = 3
+is_city = yes
+
+discovered_by = global
+
+1960.6.30 = {
+	remove_core = X03
+	owner = Y12
+	controller = Y12
+} #The D.R. Congo gains its' independence.

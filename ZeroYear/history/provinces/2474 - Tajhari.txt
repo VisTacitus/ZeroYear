@@ -1,0 +1,21 @@
+# - Tajhari (Idehan Murzuq)
+
+owner = FRA
+controller = FRA
+add_core = TRP
+culture = tuareg
+religion = sunni
+capital = "Tajhari"
+trade_goods = unknown
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+
+discovered_by = global
+
+1951.12.24 = {
+	remove_core = FRA
+	owner = TRP
+	controller = TRP
+} #Libya is released from the British and the French.

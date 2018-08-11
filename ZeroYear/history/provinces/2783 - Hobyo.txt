@@ -1,0 +1,23 @@
+#2783 - Hobyo
+
+owner = GBR
+controller = GBR
+add_core = GBR
+add_core = X85
+culture = somali
+religion = sunni
+capital = "Hobyo"
+trade_goods = grain
+is_city = yes
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+
+discovered_by = global
+
+1960.7.1 = {
+	remove_core = GBR
+	owner = X85
+	controller = X85
+} #Italian Somaliland given independence by the United Kingdom.

@@ -1,0 +1,16 @@
+#2100 - Vanni
+
+owner = GBR
+controller = GBR
+add_core = CEY
+culture = tamil
+religion = hinduism
+capital = "Yapapatuna"
+trade_goods = gems #pearls
+hre = no
+base_tax = 2 
+base_production = 3
+base_manpower = 1
+is_city = yes
+
+discovered_by = global

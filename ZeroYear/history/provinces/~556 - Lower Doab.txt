@@ -1,0 +1,17 @@
+#556 - Lower Doab
+
+owner = GBR
+controller = GBR
+add_core = GBR
+add_core = X23
+culture = avadhi
+religion = hinduism
+capital = "Allahabad"
+trade_goods = cloth
+hre = no
+base_tax = 7 
+base_production = 7
+base_manpower = 4
+is_city = yes
+
+discovered_by = global

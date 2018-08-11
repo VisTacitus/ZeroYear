@@ -1,0 +1,16 @@
+#845 - Campeche
+
+owner = MEX
+controller = MEX
+add_core = MEX
+culture = yucatec 
+religion = mesoamerican_religion
+capital = "Campeche" 
+trade_goods = sugar 
+hre = no 
+base_tax = 4 
+base_production = 4
+base_manpower = 1 
+is_city = yes
+
+discovered_by = global

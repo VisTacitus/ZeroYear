@@ -1,0 +1,17 @@
+#2095 - Varanasi
+
+owner = GBR
+controller = GBR
+add_core = GBR
+add_core = X23
+culture = bihari
+religion = "hinduism"
+capital = "Varanasi"
+trade_goods = silk
+hre = no
+base_tax = 6 
+base_production = 6
+base_manpower = 3
+is_city = yes
+
+discovered_by = global

@@ -1,0 +1,15 @@
+#488 - Les Cayes
+
+owner = HAT
+controller = HAT
+add_core = HAT
+culture = arawak
+religion = animism
+capital = "Les Cayes"
+trade_goods = unknown
+hre = no
+base_tax = 2
+base_production = 3
+base_manpower = 1
+
+discovered_by = global

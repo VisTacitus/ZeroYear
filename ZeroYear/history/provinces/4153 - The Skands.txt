@@ -1,0 +1,7 @@
+#Mountains splitting Norway from Sweden.
+
+owner = SWE
+controller = SWE
+add_core = SWE
+
+discovered_by = global

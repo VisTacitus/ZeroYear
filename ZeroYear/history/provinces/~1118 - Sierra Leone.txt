@@ -1,0 +1,15 @@
+#1118 - Sierra Leone
+
+owner = GBR
+controller = GBR
+add_core = X95
+culture = dyola
+religion = shamanism #Fetishism
+capital = "Sherbro"
+trade_goods = unknown
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+
+discovered_by = global

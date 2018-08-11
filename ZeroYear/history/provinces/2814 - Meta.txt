@@ -1,0 +1,15 @@
+# - Meta
+
+owner = COL
+controller = COL
+add_core = COL
+culture = carib
+religion = animism
+capital = "Meta"
+trade_goods = unknown
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+
+discovered_by = global

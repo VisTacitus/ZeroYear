@@ -1,0 +1,30 @@
+#563 - Gauda
+
+owner = GBR
+controller = GBR
+add_core = GBR
+add_core = X24
+add_core = X27
+culture = bengali
+religion = hinduism
+capital = "Pandua"
+trade_goods = paper #And Silk
+hre = no
+base_tax = 7
+base_production = 7
+base_manpower = 5
+is_city = yes
+fort_15th = yes
+
+discovered_by = global
+
+1947.7.18 = {
+	remove_core = GBR
+	owner = X24
+	controller = X24
+} #The British Raj is partitioned between India and Pakistan.
+1971.3.26 = {
+	remove_core = X24
+	owner = X27
+	controller = X27
+} #Bangladesh revolts and East Pakistan is independent as Bangladesh.

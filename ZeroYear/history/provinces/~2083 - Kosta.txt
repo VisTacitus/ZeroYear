@@ -1,0 +1,18 @@
+#2083 - Kosta
+
+owner = GBR
+controller = GBR
+add_core = GBR
+add_core = X23
+culture = telegu
+religion = hinduism
+capital = "Udayagiri"
+trade_goods = cotton
+hre = no
+base_tax = 3 
+base_production = 5
+base_manpower = 3
+is_city = yes
+fort_15th = yes #The Great Forts of the East - Udayagiri fort
+
+discovered_by = global

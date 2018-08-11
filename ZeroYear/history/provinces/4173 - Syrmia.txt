@@ -1,0 +1,23 @@
+#4173 - Syrmia
+
+owner = X02
+controller = X02
+add_core = X02
+add_core = SER
+culture = serbian
+religion = orthodox
+capital = "Mitrovica"
+trade_goods = grain
+hre = no
+base_tax = 2
+base_production = 2
+base_manpower = 1
+is_city = yes
+
+discovered_by = global
+
+2006.6.5 = {
+	remove_core = X02
+	owner = SER
+	controller = SER
+} #Yugoslavia finally breaks up after Montenegro leaves.

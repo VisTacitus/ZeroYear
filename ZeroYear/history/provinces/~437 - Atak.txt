@@ -1,0 +1,17 @@
+#437 - Atak
+
+owner = SOV
+controller = SOV
+add_core = SOV
+add_core = X12
+culture = turkmeni
+religion = sunni
+capital = "Nisa"
+trade_goods = livestock
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+is_city = yes
+
+discovered_by = global

@@ -1,0 +1,14 @@
+owner = X03
+controller = X03
+add_core = Y12
+culture = luba
+religion = shamanism #Fetishism
+capital = "Kazembe Lualaba"
+trade_goods = salt
+hre = no
+base_tax = 2
+base_production = 3
+base_manpower = 2
+is_city = yes
+
+discovered_by = global

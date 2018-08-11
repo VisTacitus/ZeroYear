@@ -1,0 +1,14 @@
+#1173 - Namib Desert / Skeleton Coast
+
+owner = SAF
+controller = SAF
+add_core = SAF
+add_core = Y25
+
+discovered_by = global
+
+1990.3.21 = {
+	remove_core = SAF
+	owner = Y25
+	controller = Y25
+} #Namibia gains independence from South Africa.

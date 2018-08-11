@@ -1,0 +1,19 @@
+#2806 - Guajira
+
+latent_trade_goods = {
+	coal
+}
+
+owner = COL
+controller = COL
+add_core = COL
+culture = guajiro
+religion = animism
+capital = "Guajira"
+trade_goods = unknown
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+
+discovered_by = global

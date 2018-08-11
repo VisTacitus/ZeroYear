@@ -1,0 +1,17 @@
+#2037 - Warangal
+
+owner = GBR
+controller = GBR
+add_core = X27
+culture = telegu
+religion = hinduism
+capital = "Warangal"
+trade_goods = dyes
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 2
+is_city = yes
+fort_15th = yes #Warangal Fort
+
+discovered_by = global

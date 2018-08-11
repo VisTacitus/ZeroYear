@@ -1,0 +1,22 @@
+#4046 - Lala
+
+owner = GBR
+controller = GBR
+add_core = GBR
+add_core = Y20
+culture = bemba
+religion = shamanism #Fetishism
+trade_goods = unknown
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+capital = "Lala"
+
+discovered_by = global
+
+1964.10.24 = {
+	owner = Y20
+	controller = Y20
+	add_core = Y20
+} #Zambia becomes independent of the Rhodesian Federation.

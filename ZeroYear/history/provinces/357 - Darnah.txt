@@ -1,0 +1,23 @@
+#357 - Libya
+
+owner = GBR
+controller = GBR
+add_core = GBR
+add_core = TRP
+culture = al_misr_arabic
+religion = sunni
+capital = "Derna"
+trade_goods = livestock
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+is_city = yes
+
+discovered_by = global
+
+1951.12.24 = {
+	remove_core = GBR
+	owner = TRP
+	controller = TRP
+} #Libya is released from the British and the French.

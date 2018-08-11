@@ -1,0 +1,17 @@
+# 4383 South Holland - Principal cities: Den Haag, Delft, Leiden
+
+owner = NED
+controller = NED
+add_core = NED
+capital = "Den Haag"
+is_city = yes
+culture = dutch
+religion = catholic
+hre = yes
+base_tax = 6
+base_production = 6
+trade_goods = cloth
+base_manpower = 3
+fort_15th = yes
+
+discovered_by = global

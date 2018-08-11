@@ -1,0 +1,17 @@
+#388 - Aden
+
+owner = GBR
+controller = GBR
+add_core = X36
+add_core = YEM
+culture = yemeni_culture
+religion = sunni
+capital = "Aden"
+trade_goods = incense
+hre = no
+base_tax = 4 
+base_production = 4
+base_manpower = 3
+is_city = yes
+
+discovered_by = global

@@ -1,0 +1,6 @@
+#1782 - Central Siberia
+
+owner = SOV
+controller = SOV
+add_core = SOV
+add_core = RUS

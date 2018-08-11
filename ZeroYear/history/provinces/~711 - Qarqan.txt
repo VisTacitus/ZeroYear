@@ -1,0 +1,17 @@
+#711 - Qarqan
+
+owner = X75
+controller = X75
+add_core = X74
+add_core = X75
+culture = uyghur
+religion = vajrayana
+capital = "Qarqan"
+trade_goods = livestock
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 2
+is_city = yes
+
+discovered_by = global

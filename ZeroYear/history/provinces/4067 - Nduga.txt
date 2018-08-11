@@ -1,0 +1,23 @@
+#Rwanda
+
+owner = X03
+controller = X03
+add_core = X03
+add_core = RWA
+culture = rwandan
+religion = shamanism #Fetishism
+capital = "Nduga"
+trade_goods = iron
+hre = no
+base_tax = 4
+base_production = 4
+base_manpower = 3
+is_city = yes
+
+discovered_by = global
+
+1962.7.1 = {
+	remove_core = X03
+	owner = RWA
+	controller = RWA
+} #Rwanda gains its' independence from Belgium.

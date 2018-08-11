@@ -1,0 +1,16 @@
+# No previous file for Yawuri
+
+owner = GBR
+controller = GBR
+add_core = Y01
+is_city = yes
+culture = hausa 
+religion = shamanism #Fetishism
+capital = "Birnin Yawuri"
+trade_goods = coffee #Kola nuts
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+
+discovered_by = global

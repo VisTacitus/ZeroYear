@@ -1,0 +1,7 @@
+#1811 - Nunavut
+
+owner = CAN
+controller = CAN
+add_core = CAN
+
+discovered_by = global

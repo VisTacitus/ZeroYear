@@ -1,0 +1,17 @@
+# 2175 - Runing
+
+owner = X75
+controller = X75
+add_core = X74
+add_core = X75
+culture = zhongyuan
+religion = confucianism
+capital = "Runing"
+trade_goods = cloth
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 2
+is_city = yes
+
+discovered_by = global

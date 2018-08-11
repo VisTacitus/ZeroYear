@@ -1,0 +1,21 @@
+#264 - Breslau (Breslau+Brieg+Öls+Wartenberg+Wohlau/Steinau)
+
+owner = POL
+controller = POL
+add_core = POL
+culture = schlesian
+religion = catholic
+capital = "Breslau"
+trade_goods = cloth
+hre = no
+base_tax = 5 
+base_production = 5
+is_city = yes 
+base_manpower = 3
+
+discovered_by = global
+
+add_claim = GER #Rejection of the Oder-Neisse line
+1992.1.16 = {
+	remove_claim = GER
+} #The German-Polish Border Treaty is signed, finalizing the Oder-Neisse line.

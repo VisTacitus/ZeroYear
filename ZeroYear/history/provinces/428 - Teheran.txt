@@ -1,0 +1,16 @@
+#428 - Rey
+
+owner = PER
+controller = PER
+add_core = PER
+culture = persian
+religion = shiite
+capital = "Teheran"
+trade_goods = silk
+hre = no
+base_tax = 5 
+base_production = 5
+base_manpower = 4
+is_city = yes
+
+discovered_by = global

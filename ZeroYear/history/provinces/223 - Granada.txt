@@ -1,0 +1,17 @@
+#223 - Granada
+
+owner = SPA
+controller = SPA
+add_core = SPA
+culture = andalucian
+religion = sunni
+hre = no
+base_tax = 6 
+base_production = 6
+trade_goods = salt
+base_manpower = 3 
+fort_15th = yes
+capital = "Granada"
+is_city = yes
+
+discovered_by = global

@@ -1,0 +1,15 @@
+# 78 - Mainz
+capital = "Mainz"
+culture = hessian
+religion = catholic
+trade_goods = paper
+owner = USA
+controller = USA
+add_core = GER
+add_core = X25
+base_tax = 5 
+base_production = 5
+base_manpower = 2
+is_city = yes
+hre = no
+discovered_by = global

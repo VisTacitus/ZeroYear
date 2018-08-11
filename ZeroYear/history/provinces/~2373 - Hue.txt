@@ -1,0 +1,17 @@
+#2373 - Hue
+
+owner = FRA
+controller = FRA
+add_core = FRA
+add_core = Y32
+culture = vietnamese
+religion = mahayana
+capital = "Hue"
+trade_goods = incense
+hre = no
+base_tax = 5 
+base_production = 5
+base_manpower = 3
+is_city = yes
+
+discovered_by = global

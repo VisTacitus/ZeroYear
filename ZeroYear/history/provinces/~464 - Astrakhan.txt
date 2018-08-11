@@ -1,0 +1,17 @@
+#464 - Astrakhan
+
+owner = SOV
+controller = SOV
+add_core = SOV
+add_core = RUS
+culture = astrakhani
+religion = sunni
+capital = "Astrakhan"
+trade_goods = wool
+hre = no
+base_tax = 5 
+base_production = 5
+base_manpower = 5
+is_city = yes
+
+discovered_by = global

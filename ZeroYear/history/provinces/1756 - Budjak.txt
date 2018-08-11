@@ -1,0 +1,24 @@
+#1756 - Budjak
+
+owner = SOV
+controller = SOV
+add_core = SOV
+add_core = UKR
+culture = romanian
+religion = orthodox
+hre = no
+base_tax = 5 
+base_production = 4
+capital = "Kilia"
+is_city = yes
+trade_goods = wool
+base_manpower = 2
+fort_15th = yes #Akkerman Fortress
+
+discovered_by = global
+
+1991.8.24 = {
+	remove_core = SOV
+	owner = UKR
+	controller = UKR
+} #Ukrainian Independence is restored.

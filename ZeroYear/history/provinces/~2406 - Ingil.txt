@@ -1,0 +1,17 @@
+#2406 - Ingil
+
+owner = SOV
+controller = SOV
+add_core = SOV
+add_core = UKR
+culture = crimean
+religion = sunni
+hre = no
+base_tax = 1
+base_production = 1
+trade_goods = wine
+base_manpower = 1
+capital = "Kyzy-Kermen"
+is_city = yes
+
+discovered_by = global

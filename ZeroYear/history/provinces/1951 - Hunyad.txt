@@ -1,0 +1,21 @@
+#1951 - Hunyad
+
+latent_trade_goods = {
+	coal
+}
+
+owner = RMN
+controller = RMN
+add_core = RMN
+culture = transylvanian
+religion = orthodox
+capital = "Alba Iulia"
+trade_goods = iron
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 2
+is_city = yes
+estate = estate_nobles
+
+discovered_by = global

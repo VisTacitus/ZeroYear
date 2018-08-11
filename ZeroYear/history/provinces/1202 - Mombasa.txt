@@ -1,0 +1,23 @@
+#1202 - Mombasa
+
+owner = GBR
+controller = GBR
+add_core = GBR
+add_core = Y16
+culture = swahili
+religion = sunni
+capital = "Mombasa"
+is_city = yes
+base_manpower = 2
+trade_goods = ivory
+hre = no
+base_tax = 5
+base_production = 5
+
+discovered_by = global
+
+1963.12.12 = {
+	remove_core = GBR
+	owner = Y16
+	controller = Y16
+} #The United Kingdom grants Kenya its' independence.

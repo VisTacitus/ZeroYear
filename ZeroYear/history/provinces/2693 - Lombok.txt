@@ -1,0 +1,23 @@
+#2693 - Lombok
+
+owner = NED
+controller = NED
+add_core = X78
+culture = papuan
+religion = animism
+capital = "Lombok"
+trade_goods = unknown
+hre = no
+base_tax = 2 
+base_production = 2
+base_manpower = 2
+
+discovered_by = global
+
+1945.10.10 = {
+	controller = X78
+} #Bali and other islands further east defect.
+1949.11.2 = {
+	owner = X78
+	controller = X78
+} #Round Table Talks are concluded.

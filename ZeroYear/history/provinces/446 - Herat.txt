@@ -1,0 +1,17 @@
+#446 - Herat
+
+owner = AFG
+controller = AFG
+add_core = AFG
+culture = khorasani
+religion = sunni
+capital = "Herat"
+trade_goods = paper
+hre = no
+base_tax = 5
+base_production = 5
+base_manpower = 3
+is_city = yes
+fort_15th = yes
+
+discovered_by = global

@@ -1,0 +1,23 @@
+#Kalonga
+
+owner = GBR
+controller = GBR
+add_core = GBR
+add_core = MRA
+culture = nyasa
+religion = shamanism #Fetishism
+capital = "Manthimba"
+is_city = yes
+base_manpower = 4
+trade_goods = iron
+hre = no
+base_tax = 3
+base_production = 3
+
+discovered_by = global
+
+1964.7.9 = {
+	remove_core = GBR
+	owner = MRA
+	controller = MRA
+} #Malawi gains independence from the UK.

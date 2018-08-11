@@ -1,0 +1,32 @@
+owner = FRA
+controller = FRA
+add_core = GER
+add_core = X11
+culture = hessian
+religion = catholic
+trade_goods = grain
+capital = "Trier"
+base_tax = 5
+base_production = 5
+is_city = yes
+base_manpower = 2
+hre = no
+
+discovered_by = global
+
+1945.9.1 = { add_core = FRA } #Paritioning of Germany. Germany is too worn out.
+1947.12.17 = {
+	remove_core = FRA
+	owner = X11
+	controller = X11
+} #Formation of the Saar Protectorate.
+1956.12.31 = {
+	remove_core = X11
+	owner = X25
+	controller = X25
+} #The Saar Protectorate integrates into West Germany.
+1990.10.3 = {
+	remove_core = X25
+	owner = GER
+	controller = GER
+} #Formation of the Federal Republic of Germany.

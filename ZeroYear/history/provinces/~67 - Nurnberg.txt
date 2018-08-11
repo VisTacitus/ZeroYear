@@ -1,0 +1,17 @@
+# 67 - Franken
+
+owner = USA
+controller = USA
+add_core = GER
+add_core = X25
+culture = franconian
+religion = catholic
+base_tax = 8
+base_production = 8
+trade_goods = paper
+base_manpower = 3
+capital = "Nürnberg"
+is_city = yes
+hre = no
+
+discovered_by = global

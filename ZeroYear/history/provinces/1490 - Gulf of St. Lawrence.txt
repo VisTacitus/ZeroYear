@@ -1,0 +1,3 @@
+discovered_by = global
+
+1534.1.1 = { discovered_by = FRA } # Jacques Cartier

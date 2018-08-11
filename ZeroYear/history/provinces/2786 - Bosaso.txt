@@ -1,0 +1,23 @@
+#2786 - Bosaso
+
+owner = GBR
+controller = GBR
+add_core = GBR
+add_core = X85
+culture = somali
+religion = sunni
+capital = "Bosaso"
+trade_goods = incense
+is_city = yes
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 2
+
+discovered_by = global
+
+1960.7.1 = {
+	remove_core = GBR
+	owner = X85
+	controller = X85
+} #Italian Somaliland given independence by the United Kingdom.

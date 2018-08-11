@@ -1,0 +1,16 @@
+#1765 - Sofia
+
+owner = BUL
+controller = BUL
+add_core = BUL
+culture = bulgarian
+religion = orthodox
+capital = "Sofia"
+trade_goods = copper
+hre = no
+base_tax = 5 
+base_production = 4
+base_manpower = 2
+is_city = yes
+
+discovered_by = global

@@ -1,0 +1,29 @@
+#2039 - Sunderbans
+
+owner = GBR
+controller = GBR
+add_core = GBR
+add_core = X24
+add_core = X27
+culture = bengali
+religion = hinduism
+capital = "Bagerhat"
+trade_goods = grain #Rice
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+is_city = yes
+
+discovered_by = global
+
+1947.7.18 = {
+	remove_core = GBR
+	owner = X24
+	controller = X24
+} #The British Raj is partitioned between India and Pakistan.
+1971.3.26 = {
+	remove_core = X24
+	owner = X27
+	controller = X27
+} #Bangladesh revolts and East Pakistan is independent as Bangladesh.

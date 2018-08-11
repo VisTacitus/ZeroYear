@@ -1,0 +1,23 @@
+#2078 - Sind Sagar
+
+owner = GBR
+controller = GBR
+add_core = GBR
+add_core = X24
+culture = panjabi
+religion = sunni
+capital = "Karor"
+trade_goods = livestock
+hre = no
+base_tax = 5 
+base_production = 3
+base_manpower = 2
+is_city = yes
+
+discovered_by = global
+
+1947.7.18 = {
+	remove_core = GBR
+	owner = X24
+	controller = X24
+} #The British Raj is partitioned between India and Pakistan.

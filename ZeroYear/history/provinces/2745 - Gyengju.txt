@@ -1,0 +1,25 @@
+#2744 - Gyeongsang
+
+owner = USA
+controller = USA
+add_core = USA
+add_core = X42
+culture = korean
+religion = confucianism
+capital = "Gyeongju"
+trade_goods = tea
+hre = no
+base_tax = 5
+base_production = 5
+base_manpower = 2
+is_city = yes
+fort_15th = yes
+
+discovered_by = global
+
+1948.8.15 = {
+	remove_core = USA
+	owner = X42
+	controller = X42
+	add_core = X42
+} #South Korea granted independence by the U.S.

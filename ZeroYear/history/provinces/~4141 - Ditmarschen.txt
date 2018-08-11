@@ -1,0 +1,17 @@
+#4141 - Ditmarschen
+
+owner = GBR
+controller = GBR
+add_core = GER
+add_core = X25
+culture = hannoverian
+religion = catholic
+hre = no
+base_tax = 2
+base_production = 3
+trade_goods = grain
+base_manpower = 3
+capital = "Heide" #Or Meldorf
+is_city = yes
+
+discovered_by = global

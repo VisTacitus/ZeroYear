@@ -1,0 +1,36 @@
+#4230 - Suwon
+
+owner = USA
+controller = USA
+add_core = USA
+add_core = X42
+culture = korean
+religion = confucianism
+capital = "Suwon"
+trade_goods = chinaware
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 1
+is_city = yes
+
+discovered_by = global
+
+1948.8.15 = {
+	remove_core = USA
+	owner = X42
+	controller = X42
+	add_core = X42
+} #South Korea granted independence by the U.S.
+1950.7.9 = {
+	controller = X41
+} #North Korea invades South Korea.
+1950.9.29 = {
+	controller = X42
+} #Inchon Landings are completed.
+1951.1.15 = {
+	controller = X41
+} #Chinese Offensive sweeps through Korea.
+1951.3.16 = {
+	controller = X42
+} #American Counteroffensive begins to take place, solidifes stalemate.

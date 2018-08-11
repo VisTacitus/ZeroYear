@@ -1,0 +1,27 @@
+#4352 - Cebu
+
+latent_trade_goods = {
+	coal
+}
+
+owner = USA
+controller = USA
+add_core = USA
+add_core = X76
+culture = filipino
+religion = hinduism
+capital = "Cebu"
+trade_goods = gems #Pearls
+hre = no
+base_tax = 2 
+base_production = 2
+base_manpower = 2
+is_city = yes
+
+discovered_by = global
+
+1946.7.4 = {
+	remove_core = USA
+	owner = X76
+	controller = X76
+} #The Philippines is granted sovereignty by the United States.

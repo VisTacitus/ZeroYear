@@ -1,0 +1,16 @@
+# - Sternberg
+
+owner = POL
+controller = POL
+add_core = POL
+culture = saxon
+religion = catholic
+hre = no
+base_tax = 3
+base_production = 3
+trade_goods = cloth
+base_manpower = 1
+capital = "Sternberg"
+is_city = yes
+
+discovered_by = global

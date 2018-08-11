@@ -1,0 +1,19 @@
+#142 - Corfu
+
+owner = GRE
+controller = GRE
+add_core = GRE
+culture = greek
+religion = orthodox
+capital = "Corfu"
+trade_goods = fish
+hre = no
+base_tax = 4 
+base_production = 4
+base_manpower = 1
+is_city = yes
+fort_15th = yes
+
+
+
+discovered_by = global

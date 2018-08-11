@@ -1,0 +1,17 @@
+#441 - Khiva
+
+owner = SOV
+controller = SOV
+add_core = SOV
+add_core = X12
+culture = uzbehk
+religion = sunni
+capital = "Khiva"
+trade_goods = wool
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 3
+is_city = yes
+
+discovered_by = global

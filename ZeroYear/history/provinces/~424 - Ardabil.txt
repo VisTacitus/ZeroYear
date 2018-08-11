@@ -1,0 +1,16 @@
+#424 - Ardabil
+
+owner = PER
+controller = PER
+add_core = PER
+culture = azerbaijani
+religion = shiite
+capital = "Ardabil"
+trade_goods = dyes
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 3
+is_city = yes
+
+discovered_by = global

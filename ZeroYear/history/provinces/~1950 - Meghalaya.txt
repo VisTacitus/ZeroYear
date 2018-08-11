@@ -1,0 +1,9 @@
+# - Meghalaya
+
+owner = GBR
+controller = GBR
+add_core = GBR
+add_core = X23
+
+discovered_by = global
+

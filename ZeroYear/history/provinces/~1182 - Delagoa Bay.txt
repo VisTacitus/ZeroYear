@@ -1,0 +1,19 @@
+#1182 - Delagoa Bay
+
+owner = POR
+controller = POR
+add_core = POR
+add_core = Y19
+culture = nguni
+religion = shamanism #Fetishism
+capital = "Xefina"
+trade_goods = unknown
+hre = no
+base_tax = 4 
+base_production = 4
+base_manpower = 1
+native_size = 70
+native_ferocity = 4
+native_hostileness = 9
+
+discovered_by = global

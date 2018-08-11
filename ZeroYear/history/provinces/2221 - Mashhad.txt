@@ -1,0 +1,16 @@
+#2221 - Mashhad
+
+owner = PER
+controller = PER
+add_core = PER
+culture = khorasani
+religion = shiite
+capital = "Mashhad"
+trade_goods = copper
+hre = no
+base_tax = 3
+base_production = 4
+base_manpower = 2
+is_city = yes
+
+discovered_by = global

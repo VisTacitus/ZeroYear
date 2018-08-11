@@ -1,0 +1,16 @@
+# 178 Anjou - Principal cities: Angers
+
+owner = FRA
+controller = FRA
+add_core = FRA
+capital = "Angers"
+is_city = yes
+culture = cosmopolitan_french
+religion = catholic
+hre = no
+base_tax = 5
+base_production = 5
+trade_goods = cloth
+base_manpower = 5
+
+discovered_by = global

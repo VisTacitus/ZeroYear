@@ -1,0 +1,8 @@
+#1794 - Central Sahara
+
+owner = FRA
+controller = FRA
+add_core = ALG 
+
+discovered_by = global
+

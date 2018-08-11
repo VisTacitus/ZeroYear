@@ -1,0 +1,17 @@
+#4189 - Sagami
+
+owner = USA
+controller = USA
+add_core = USA
+add_core = JAP
+culture = togoku
+religion = shinto
+capital = "Kamakura"
+trade_goods = iron
+hre = no
+base_tax = 3
+base_manpower = 3
+base_production = 2
+is_city = yes
+
+discovered_by = global

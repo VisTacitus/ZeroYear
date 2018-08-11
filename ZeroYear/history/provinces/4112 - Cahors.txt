@@ -1,0 +1,16 @@
+# 4112 - Cahors
+
+owner = FRA
+controller = FRA
+add_core = FRA
+capital = "Cahors"
+is_city = yes
+culture = gascon
+religion = catholic
+hre = no
+base_tax = 3
+base_production = 3
+trade_goods = wine
+base_manpower = 3
+
+discovered_by = global

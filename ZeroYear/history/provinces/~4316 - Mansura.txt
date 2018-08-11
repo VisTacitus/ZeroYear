@@ -1,0 +1,17 @@
+#4316 - Mansura
+
+owner = GBR
+controller = GBR
+add_core = GBR
+add_core = EGY
+culture = al_misr_arabic
+religion = sunni
+capital = "Mansura"
+trade_goods = grain
+hre = no
+base_tax = 5
+base_production = 5
+base_manpower = 3
+is_city = yes
+
+discovered_by = global

@@ -1,0 +1,17 @@
+#675 - Qujing
+
+owner = X75
+controller = X75
+add_core = X74
+add_core = X75
+culture = yi
+religion = animism
+capital = "Umung"
+trade_goods = copper
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 3
+is_city = yes
+
+discovered_by = global

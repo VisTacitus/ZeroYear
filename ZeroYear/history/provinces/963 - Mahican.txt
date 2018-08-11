@@ -1,0 +1,15 @@
+#963 - Mahican
+
+owner = USA
+controller = USA
+add_core = USA
+culture = mahican
+religion = totemism
+capital = "Mahican"
+trade_goods = unknown
+hre = no
+base_tax = 1 
+base_production = 2
+base_manpower = 2
+
+discovered_by = global

@@ -1,0 +1,29 @@
+#2402 - Sandoway
+
+owner = GBR
+controller = GBR
+add_core = GBR
+add_core = TAU
+culture = arakanese
+religion = buddhism
+capital = "Sandoway"
+trade_goods = iron
+hre = no
+base_tax = 4 
+base_production = 4
+base_manpower = 2
+is_city = yes
+
+discovered_by = global
+
+1948.1.4 = {
+	remove_core = GBR
+	owner = TAU
+	controller = TAU
+} #Burmese independence is granted.
+1989.1.1 = {
+	remove_core = TAU
+	add_core = MYA
+	owner = MYA
+	controller = MYA
+} #Burma is renamed Myanmar.

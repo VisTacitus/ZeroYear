@@ -1,0 +1,16 @@
+# 192 Bourgogne - Principal cities: Dijon
+
+owner = FRA
+controller = FRA
+add_core = FRA
+capital = "Dijon"
+is_city = yes
+culture = burgundian
+religion = catholic
+hre = no
+base_tax = 7
+base_production = 7
+trade_goods = wine
+base_manpower = 6
+
+discovered_by = global

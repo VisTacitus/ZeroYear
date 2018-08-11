@@ -1,0 +1,23 @@
+#1112 - Trarza
+
+owner = FRA
+controller = FRA
+add_core = FRA
+add_core = Y06
+is_city = yes
+culture = senegambian
+capital = "Awlil"
+religion = sunni
+trade_goods = salt
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+
+discovered_by = global
+
+1960.11.28 = {
+	remove_core = FRA
+	owner = Y06
+	controller = Y06
+} #Mauritania gains independence from France.

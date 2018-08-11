@@ -1,0 +1,23 @@
+#1125 - Worodugu
+
+owner = FRA
+controller = FRA
+add_core = FRA
+add_core = X97
+is_city = yes
+culture = dyola
+religion = shamanism #Fetishism
+capital = "Kong"
+trade_goods = ivory
+hre = no
+base_tax = 2 
+base_production = 2
+base_manpower = 2
+
+discovered_by = global
+
+1960.8.7 = {
+	remove_core = FRA
+	owner = X97
+	controller = X97
+} #The Ivory Coast gains its' independence from France.

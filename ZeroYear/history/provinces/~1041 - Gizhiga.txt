@@ -1,0 +1,18 @@
+#1041 - Gizhiga
+
+owner = SOV
+controller = SOV
+add_core = SOV
+add_core = RUS
+culture = kamchatkan
+religion = tengri_pagan_reformed
+capital = "Gizhiga"
+trade_goods = fur
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3
+is_city = yes

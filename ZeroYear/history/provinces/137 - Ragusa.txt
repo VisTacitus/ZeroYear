@@ -1,0 +1,31 @@
+#137 - Ragusa
+
+owner = X02
+controller = X02
+add_core = X02
+add_core = CRO
+culture = croatian
+religion = catholic
+capital = "Dubrovnik"
+trade_goods = naval_supplies
+hre = no
+base_tax = 5 
+base_production = 6
+base_manpower = 3
+is_city = yes
+
+discovered_by = global
+
+1991.6.25 = {
+	remove_core = X02
+	owner = CRO
+	controller = CRO
+} #Secession of Croatia
+1991.10.16 = {
+	owner = CRO
+	controller = X02
+} #Yugoslavian Army advances throughout most of the countryside.
+1992.5.19 = {
+	owner = CRO
+	controller = CRO
+} #Croatian Offensive

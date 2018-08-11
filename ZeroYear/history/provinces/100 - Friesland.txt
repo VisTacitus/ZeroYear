@@ -1,0 +1,16 @@
+# 100 Friesland - Principal cities: Leeuwarden & Harlingen 
+
+owner = NED
+controller = NED
+add_core = NED
+capital = "Leeuwarden"
+is_city = yes
+culture = dutch
+religion = catholic
+hre = yes
+base_tax = 6
+base_production = 6
+trade_goods = livestock 
+base_manpower = 2
+
+discovered_by = global

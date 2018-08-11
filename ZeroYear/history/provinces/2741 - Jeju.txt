@@ -1,0 +1,24 @@
+#2740 - Jeju
+
+owner = USA
+controller = USA
+add_core = USA
+add_core = X42
+culture = korean
+religion = confucianism
+capital = "Jeju"
+trade_goods = fish
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+is_city = yes
+
+discovered_by = global
+
+1948.8.15 = {
+	remove_core = USA
+	owner = X42
+	controller = X42
+	add_core = X42
+} #South Korea granted independence by the U.S.

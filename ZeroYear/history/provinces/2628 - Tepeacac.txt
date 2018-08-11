@@ -1,0 +1,16 @@
+# No previous file for Tepeacac
+
+owner = MEX
+controller = MEX
+add_core = MEX
+culture = aztek
+is_city = yes
+religion = nahuatl
+capital = "Tepeacac"
+trade_goods = grain
+hre = no
+base_tax = 2 
+base_production = 2
+base_manpower = 1
+
+discovered_by = global

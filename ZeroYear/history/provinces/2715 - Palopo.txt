@@ -1,0 +1,27 @@
+#2715 - Palopo
+
+owner = NED
+controller = NED
+add_core = X78
+culture = sulawesi
+religion = animism
+capital = "Palopo"
+trade_goods = spices
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 3
+is_city = yes
+
+discovered_by = global
+
+1945.12.23 = {
+	controller = X78
+} #Sulawesi defects to the Indonesians.
+1948.12.19 = {
+	controller = NED
+} #Operation Kraii begins.
+1949.11.2 = {
+	owner = X78
+	controller = X78
+} #Round Table Talks are concluded.

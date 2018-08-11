@@ -1,0 +1,17 @@
+#68 - Memmingen
+
+owner = FRA
+controller = FRA
+add_core = GER
+add_core = X25
+culture = swabian
+religion = catholic
+hre = no
+base_tax = 5
+base_production = 5
+trade_goods = cloth
+base_manpower = 3
+capital = "Memmingen" 
+is_city = yes
+
+discovered_by = global

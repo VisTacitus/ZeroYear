@@ -1,0 +1,29 @@
+#389 - Mukalla
+
+owner = GBR
+controller = GBR
+add_core = GBR
+add_core = X36
+add_core = YEM
+culture = yemeni_culture
+religion = sunni
+capital = "Al Mukalla"
+trade_goods = incense
+hre = no
+base_tax = 1
+base_production = 2
+base_manpower = 2
+is_city = yes
+
+discovered_by = global
+
+1967.11.30 = {
+	remove_core = GBR
+	owner = X36
+	controller = X36
+} #South Yemen declares independence from the UK.
+1990.5.22 = {
+	remove_core = X36
+	owner = YEM
+	controller = YEM
+} #Yemen unifies into a single country.

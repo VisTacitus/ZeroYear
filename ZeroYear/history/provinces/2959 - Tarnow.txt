@@ -1,0 +1,17 @@
+#2959 - Tarnow
+
+owner = POL
+controller = POL
+add_core = POL
+capital = "Tarnów"
+culture = polish
+religion = catholic
+trade_goods = grain
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 2
+is_city = yes
+estate = estate_nobles
+
+discovered_by = global

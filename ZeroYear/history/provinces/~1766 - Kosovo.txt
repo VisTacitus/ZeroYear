@@ -1,0 +1,22 @@
+#1766 - Kosovo
+
+latent_trade_goods = {
+	coal
+}
+
+owner = X02
+controller = X02
+add_core = X02
+add_core = SER
+add_core = X04
+culture = serbian
+religion = orthodox
+capital = "Pristina"
+trade_goods = gold #Novo Brdo and other Silver mines in this area
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 2
+is_city = yes
+
+discovered_by = global

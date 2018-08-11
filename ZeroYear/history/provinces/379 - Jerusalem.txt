@@ -1,0 +1,22 @@
+#379 - Judea
+
+owner = GBR
+controller = GBR
+add_core = X33
+culture = al_suryah_arabic
+religion = sunni
+capital = "Al Quds"
+trade_goods = grain
+hre = no
+base_tax = 5 
+base_production = 5
+base_manpower = 3
+is_city = yes
+
+discovered_by = global
+
+1948.5.14 = {
+	remove_core = GBR
+	owner = X33
+	controller = X33
+} #The State of Palestine is declared.

@@ -1,0 +1,23 @@
+# 2362 - Gurganj
+
+owner = SOV
+controller = SOV
+add_core = SOV
+add_core = X12
+culture = turkmeni
+religion = sunni
+capital = "Gurganj"
+trade_goods = wool
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+is_city = yes
+
+discovered_by = global
+
+1991.10.27 = {
+	remove_core = SOV
+	owner = X12
+	controller = X12
+} #Turkmenistan declares independence from the Soviet Union.

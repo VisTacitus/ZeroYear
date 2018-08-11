@@ -1,0 +1,20 @@
+#1102 - Mauritius
+
+owner = GBR
+controller = GBR
+add_core = GBR
+add_core = Y28
+capital = "Mauritius"
+trade_goods = unknown
+hre = no
+base_tax = 5 
+base_production = 5
+base_manpower = 1
+
+discovered_by = global
+
+1992.3.12 = {
+	remove_core = GBR
+	owner = Y28
+	controller = Y28
+} #Mauritius has its' independence.

@@ -1,0 +1,17 @@
+#402 - Qishn
+
+owner = GBR
+controller = GBR
+add_core = X36
+add_core = YEM
+culture = mahri_culture
+religion = sunni
+capital = "Qishn"
+trade_goods = incense
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+is_city = yes
+
+discovered_by = global

@@ -1,0 +1,15 @@
+#1986 - New Caledonia
+
+owner = FRA
+controller = FRA
+add_core = FRA
+culture = polynesian
+religion = animism
+capital = "Nouméa"
+trade_goods = unknown
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+
+discovered_by = global

@@ -1,0 +1,16 @@
+# Forcalquier
+
+owner = FRA
+controller = FRA
+add_core = FRA 
+capital = "Forcalquier"
+is_city = yes
+culture = occitain
+religion = catholic
+hre = no
+base_tax = 4 
+base_production = 4
+trade_goods = wool
+base_manpower = 2
+
+discovered_by = global

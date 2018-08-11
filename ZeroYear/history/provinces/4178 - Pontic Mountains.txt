@@ -1,0 +1,7 @@
+#4178 - Pontic Mountains
+
+owner = TUR
+controller = TUR
+add_core = TUR
+
+discovered_by = global

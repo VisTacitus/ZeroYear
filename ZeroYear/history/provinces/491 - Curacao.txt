@@ -1,0 +1,15 @@
+#491 - Curacao
+
+owner = NED
+controller = NED
+add_core = NED
+culture = arawak
+religion = animism
+capital = "Curacao"
+trade_goods = unknown
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 1
+
+discovered_by = global

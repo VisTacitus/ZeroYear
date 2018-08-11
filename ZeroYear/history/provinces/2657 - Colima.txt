@@ -1,0 +1,16 @@
+# No previous file for Colima
+
+owner = MEX
+controller = MEX
+add_core = MEX
+is_city = yes
+culture = tecos
+religion = nahuatl
+capital = "Colima"
+trade_goods = fish
+hre = no
+base_tax = 4 
+base_production = 4
+base_manpower = 1
+
+discovered_by = global

@@ -1,0 +1,23 @@
+#4392 - Mardin
+
+owner = FRA
+controller = FRA
+add_core = FRA
+add_core = SYR
+culture = kurdish
+religion = sunni
+capital = "Mardin"
+trade_goods = wool
+hre = no
+base_tax = 2
+base_production = 2
+base_manpower = 3
+is_city = yes
+
+discovered_by = global
+
+1946.4.17 = {
+	remove_core = FRA
+	owner = SYR
+	controller = SYR
+} #Syria is granted independence by France.

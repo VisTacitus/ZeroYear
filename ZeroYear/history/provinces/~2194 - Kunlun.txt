@@ -1,0 +1,8 @@
+# 2194 - Kunlun
+
+owner = TIB
+controller = TIB
+add_core = TIB
+
+discovered_by = global
+

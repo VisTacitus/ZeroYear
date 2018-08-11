@@ -1,0 +1,17 @@
+# - Ingolstadt + Neuburg
+
+owner = USA
+controller = USA
+add_core = GER
+add_core = X25
+culture = bavarian
+religion = catholic
+base_tax = 3 
+base_production = 3
+trade_goods = wine #Would shift to beer over time
+base_manpower = 1
+capital	= "Ingolstadt" 
+is_city = yes
+hre = no
+
+discovered_by = global

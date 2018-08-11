@@ -1,0 +1,27 @@
+#1852 - Tokachi
+
+latent_trade_goods = {
+	coal
+}
+
+owner = USA
+controller = USA
+add_core = USA
+add_core = JAP
+is_city = yes
+culture = ainu
+religion = animism
+capital = "Tokachi"
+trade_goods = fish
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+
+discovered_by = global
+
+1952.4.28 = {
+	remove_core = USA
+	owner = JAP
+	controller = JAP
+} #The San Francisco Peace Treaty is signed.

@@ -1,0 +1,29 @@
+#1212 - Zeila
+
+owner = GBR
+controller = GBR
+add_core = GBR
+add_core = X85
+add_core = X86
+culture = somali # issa
+religion = sunni
+capital = "Zayla"
+is_city = yes
+trade_goods = incense
+hre = no
+base_manpower = 2
+base_tax = 3
+base_production = 3
+
+discovered_by = global
+
+1960.7.1 = {
+	remove_core = GBR
+	add_core = X85
+	owner = X85
+	controller = X85
+} #Italian Somaliland given independence by the United Kingdom.
+1991.5.18 = {
+	owner = X86
+	controller = X86
+} #Somaliland is independent, but only de facto.

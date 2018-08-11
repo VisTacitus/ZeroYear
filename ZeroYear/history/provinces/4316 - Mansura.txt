@@ -1,0 +1,30 @@
+#4316 - Mansura
+
+owner = GBR
+controller = GBR
+add_core = GBR
+add_core = EGY
+culture = al_misr_arabic
+religion = sunni
+capital = "Mansura"
+trade_goods = grain
+hre = no
+base_tax = 5
+base_production = 5
+base_manpower = 3
+is_city = yes
+
+discovered_by = global
+
+1956.7.30 = {
+	owner = EGY
+	controller = EGY
+} #Nasser announces the nationalization of the Suez Canal.
+1956.11.5 = {
+	controller = GBR
+} #Great Britain and France occupy the Canal in the 1956 Suez Crisis.
+1956.11.7 = {
+	remove_core = GBR
+	owner = EGY
+	controller = EGY
+} #The Suez Crisis is over. Egypt is granted the canal.

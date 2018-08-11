@@ -1,0 +1,18 @@
+# 84 - Berg
+
+owner = GBR
+controller = GBR
+add_core = GER
+add_core = IAR
+add_core = X25
+culture = hessian
+religion = catholic
+trade_goods = cloth
+capital = "Düsseldorf"
+base_tax = 4
+base_production = 4
+base_manpower = 1
+is_city = yes
+hre = no
+
+discovered_by = global

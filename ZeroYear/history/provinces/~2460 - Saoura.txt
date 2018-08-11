@@ -1,0 +1,16 @@
+# - Saoura
+
+owner = FRA
+controller = FRA
+add_core = ALG
+culture = moroccan
+religion = sunni
+capital = "Oulad Mhedi"
+trade_goods = livestock
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+is_city = yes
+
+discovered_by = global

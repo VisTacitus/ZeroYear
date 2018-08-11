@@ -1,0 +1,15 @@
+#855 - Huichol
+
+owner = MEX
+controller = MEX
+add_core = MEX
+culture = chichimecan 
+religion = nahuatl
+capital = "Huichol" 
+trade_goods = unknown 
+hre = no 
+base_tax = 2
+base_production = 1
+base_manpower = 1 
+
+discovered_by = global

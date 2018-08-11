@@ -1,0 +1,16 @@
+#217 - Madrid
+
+owner = SPA
+controller = SPA
+add_core = SPA
+culture = castillian
+religion = catholic
+hre = no
+base_tax = 6
+base_production = 6
+trade_goods = cloth 
+base_manpower = 5
+capital = "Madrid" 
+is_city = yes
+
+discovered_by = global

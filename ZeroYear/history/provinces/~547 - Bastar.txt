@@ -1,0 +1,17 @@
+#547 - Bastar
+
+owner = GBR
+controller = GBR
+add_core = GBR
+add_core = X23
+culture = gondi
+religion = hinduism
+capital = "Jagdalpur"
+trade_goods = tropical_wood
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+is_city = yes
+
+discovered_by = global

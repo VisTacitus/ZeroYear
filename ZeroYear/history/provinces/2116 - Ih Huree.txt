@@ -1,0 +1,16 @@
+# 2116 - Ih Huree
+
+owner = X22
+controller = X22
+add_core = X22
+culture = khalkha
+religion = tengri_pagan_reformed
+capital = "Ih Huree"
+trade_goods = fur
+hre = no
+base_tax = 2
+base_production = 2
+base_manpower = 3
+is_city = yes
+
+discovered_by = global

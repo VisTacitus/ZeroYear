@@ -1,0 +1,6 @@
+#Natural borders between france and spain.
+owner = AND
+controller = AND
+add_core = AND
+
+discovered_by = global

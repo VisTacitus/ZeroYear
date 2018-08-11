@@ -1,0 +1,17 @@
+#210 - Navarra
+
+owner = SPA
+controller = SPA
+add_core = SPA
+culture = basque
+religion = catholic
+hre = no
+base_tax = 3 
+base_production = 2
+trade_goods = iron
+base_manpower = 2 
+#fort_15th = yes #Fortifications of Pamplona and Saint-Jean-Pied-de-Port
+capital = "Pamplona" 
+is_city = yes
+
+discovered_by = global

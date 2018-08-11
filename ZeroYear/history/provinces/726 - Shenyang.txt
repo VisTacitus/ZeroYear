@@ -1,0 +1,33 @@
+#726 - Liaodong
+
+owner = X75
+controller = X75
+add_core = X74
+add_core = X75
+culture = manchu
+religion = confucianism
+capital = "Shenyang"
+trade_goods = gems #Youyan Jade
+hre = no
+base_tax = 5 
+base_production = 5
+base_manpower = 2
+is_city = yes
+fort_15th = yes #the Nine Garrisons
+
+discovered_by = global
+
+1948.10.11 = {
+	controller = X74
+} #The Kuomintang in Manchuria are now landlocked.
+1948.10.29 = {
+	controller = X75
+} #The Kuomintang in Manchuria are chased to the sea.
+1948.11.2 = {
+	controller = X74
+} #The Kuomintang in Manchuria are obliterated.
+1950.5.1 = {
+	remove_core = X75
+	owner = X74
+	controller = X74
+} #Traditional end of the Chinese Civil War.

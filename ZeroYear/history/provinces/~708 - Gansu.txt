@@ -1,0 +1,18 @@
+#708 - Gansu
+
+owner = X75
+controller = X75
+add_core = X74
+add_core = X75
+culture = xibei
+religion = confucianism
+capital = "Zhangye"
+trade_goods = livestock
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 1
+is_city = yes
+fort_15th = yes #the Nine Garrisons
+
+discovered_by = global

@@ -1,0 +1,16 @@
+#384 - Medina
+
+owner = NAJ
+controller = NAJ
+add_core = NAJ
+culture = hejazi_culture
+religion = sunni
+capital = "Medina"
+trade_goods = cloth
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 3
+is_city = yes
+
+discovered_by = global

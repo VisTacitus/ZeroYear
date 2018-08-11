@@ -1,0 +1,22 @@
+#1239 - Vanuatu
+
+owner = GBR
+controller = GBR
+add_core = GBR
+culture = polynesian
+religion = animism
+capital = "Vanuatu"
+trade_goods = unknown
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+
+discovered_by = global
+
+1980.7.30 = {
+	remove_core = GBR
+	add_core = Y37
+	owner = Y37
+	controller = Y37
+} #Vanuatu gains its' independence.

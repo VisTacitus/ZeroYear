@@ -1,0 +1,8 @@
+#1795 - East Sahara
+
+owner = GBR
+controller = GBR
+add_core = TRP
+
+discovered_by = global
+

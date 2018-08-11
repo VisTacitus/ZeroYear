@@ -1,0 +1,16 @@
+#854 - Sayultecas
+
+owner = MEX
+controller = MEX
+add_core = MEX
+culture = tecos
+is_city = yes 
+religion = nahuatl
+capital = "Sayultecas" 
+trade_goods = grain
+hre = no 
+base_tax = 4 
+base_production = 4 
+base_manpower = 3
+
+discovered_by = global

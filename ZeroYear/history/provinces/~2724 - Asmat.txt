@@ -1,0 +1,15 @@
+#2724 - Asmat
+
+owner = NED
+controller = NED
+add_core = X78
+culture = papuan
+religion = animism
+capital = "Asmat"
+trade_goods = unknown
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+
+discovered_by = global

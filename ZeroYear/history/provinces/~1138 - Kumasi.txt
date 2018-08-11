@@ -1,0 +1,18 @@
+#1138 - Kumasi
+
+owner = GBR
+controller = GBR
+add_core = X98
+culture = aka
+base_manpower = 1
+religion = shamanism #Fetishism
+capital = "Akyem Kotoko"
+trade_goods = gold
+hre = no
+base_tax = 4 
+base_production = 4
+native_size = 60
+native_ferocity = 4
+native_hostileness = 9
+
+discovered_by = global

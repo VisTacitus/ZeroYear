@@ -1,0 +1,23 @@
+#1152 - Idah
+
+owner = GBR
+controller = GBR
+add_core = GBR
+add_core = Y01
+is_city = yes
+culture = nupe
+religion = shamanism #Fetishism
+capital = "Idah"
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+trade_goods = ivory
+
+discovered_by = global
+
+1960.10.1 = {
+	remove_core = GBR
+	owner = Y01
+	controller = Y01
+} #Nigeria gains its' independence and is recognized.

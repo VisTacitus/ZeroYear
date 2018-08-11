@@ -1,0 +1,22 @@
+#1180 - Transkei
+
+owner = GBR
+controller = GBR
+add_core = GBR
+add_core = Y23
+culture = nguni
+religion = shamanism #Fetishism
+capital = "Thembu"
+trade_goods = unknown
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+
+discovered_by = global
+
+1968.9.6 = {
+	remove_core = GBR
+	owner = Y23
+	controller = Y23
+} #Swaziland gains its' independence.

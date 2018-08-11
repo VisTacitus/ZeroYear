@@ -1,0 +1,17 @@
+#1948 - Bidar
+
+owner = GBR
+controller = GBR
+add_core = X27
+culture = kannada
+religion = hinduism
+capital = "Bidar"
+trade_goods = silk
+hre = no
+base_tax = 4 
+base_production = 5
+base_manpower = 3
+is_city = yes
+fort_15th = yes #Bidar Fort
+
+discovered_by = global

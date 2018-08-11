@@ -1,0 +1,24 @@
+#382 - Damascus
+
+owner = FRA
+controller = FRA
+add_core = FRA
+add_core = SYR
+culture = al_suryah_arabic
+religion = sunni
+capital = "Dimashq"
+trade_goods = iron
+hre = no
+base_tax = 7
+base_production = 7
+base_manpower = 6
+is_city = yes
+fort_15th = yes
+
+discovered_by = global
+
+1946.4.17 = {
+	remove_core = FRA
+	owner = SYR
+	controller = SYR
+} #Syria is granted independence by France.

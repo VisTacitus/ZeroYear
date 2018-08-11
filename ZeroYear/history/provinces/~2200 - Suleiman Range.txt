@@ -1,0 +1,8 @@
+#Suleiman Range
+
+owner = GBR
+controller = GBR
+add_core = GBR
+add_core = X24
+
+discovered_by = global

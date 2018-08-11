@@ -1,0 +1,22 @@
+# - Waddai
+
+owner = FRA
+controller = FRA
+add_core = FRA
+add_core = X89
+culture = nubian 
+religion = shamanism #Fetishism
+capital = "Ouara"
+trade_goods = unknown
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+
+discovered_by = global
+
+1960.8.11 = {
+	remove_core = FRA
+	owner = X89
+	controller = X89
+} #Chad becomes independent.

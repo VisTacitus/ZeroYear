@@ -1,0 +1,28 @@
+#1874 - Bremen
+
+owner = GBR
+controller = GBR
+add_core = GER
+add_core = X25
+culture = hannoverian
+religion = catholic
+capital = "Bremen"
+trade_goods = fish
+hre = no
+base_tax = 6 
+base_production = 6
+base_manpower = 4
+is_city = yes
+fort_15th = yes
+
+1945.9.1 = { add_core = GBR } #Paritioning of Germany. Germany is too worn out.
+1949.5.23 = {
+	remove_core = GBR
+	owner = X25
+	controller = X25
+} #Formation of West Germany.
+1990.10.3 = {
+	remove_core = X25
+	owner = GER
+	controller = GER
+} #Formation of the Federal Republic of Germany.

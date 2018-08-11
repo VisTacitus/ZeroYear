@@ -1,0 +1,15 @@
+#916 - Kaskaskia
+
+owner = USA
+controller = USA
+add_core = USA
+culture = illini
+religion = totemism
+capital = "Kaskaskia"
+trade_goods = unknown
+hre = no
+base_tax = 2
+base_production = 2
+base_manpower = 1
+
+discovered_by = global

@@ -1,0 +1,6 @@
+#Protecting the Hungarian Basin
+owner = RMN
+controller = RMN
+add_core = RMN
+
+discovered_by = global

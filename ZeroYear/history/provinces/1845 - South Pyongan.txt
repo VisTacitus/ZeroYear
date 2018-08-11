@@ -1,0 +1,29 @@
+#1845 - Pyeongyang
+
+owner = SOV
+controller = SOV
+add_core = SOV
+add_core = X41
+culture = korean
+religion = confucianism
+capital = "Pyongyang"
+trade_goods = grain
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 3
+is_city = yes
+
+discovered_by = global
+
+1948.9.9 = {
+	remove_core = SOV
+	owner = X41
+	controller = X41
+} #North Korea (DPRK) nominally granted independence.
+1950.10.21 = {
+	controller = USA
+} #Offensive to the Yalu River.
+1950.12.10 = {
+	controller = X41
+} #Chinese Offensive sweeps through Korea.

@@ -1,0 +1,16 @@
+#152 - Varazd
+
+owner = X02
+controller = X02
+add_core = X02
+add_core = CRO
+culture = croatian
+religion = catholic
+capital = "Varazdin"
+trade_goods = cloth
+hre = no
+base_tax = 4
+base_production = 4
+base_manpower = 1
+
+discovered_by = global

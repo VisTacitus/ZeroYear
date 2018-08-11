@@ -1,0 +1,41 @@
+#Main Theme
+music = {
+	name = "maintheme"
+	file = "the_time_to_run_finale.ogg"
+}
+music = {
+	name = "after_christmas"
+	file = "after_christmas.ogg"
+}
+music = {
+	name = "chasing_time"
+	file = "chasing_time.ogg"
+}
+music = {
+	name = "moonlight_reprise"
+	file = "moonlight_reprise.ogg"
+}
+music = {
+	name = "seeing_the_future"
+	file = "seeing_the_future.ogg"
+}
+music = {
+	name = "sovetsky_soyuz"
+	file = "sovetsky_soyuz.ogg"
+}
+music = {
+	name = "the_time_to_run"
+	file = "the_time_to_run.ogg"
+}
+music = {
+	name = "the_time_to_run_finale"
+	file = "the_time_to_run_finale.ogg"
+}
+music = {
+	name = "waking_up_instrumental"
+	file = "waking_up_instrumental.ogg"
+}
+music = {
+	name = "wonderland_instrumental"
+	file = "wonderland_instrumental.ogg"
+}

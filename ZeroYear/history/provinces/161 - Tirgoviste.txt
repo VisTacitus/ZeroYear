@@ -1,0 +1,17 @@
+#161 - Tîrgoviste
+
+owner = RMN
+controller = RMN
+add_core = RMN
+culture = romanian
+religion = orthodox
+capital = "Tîrgoviste"
+trade_goods = livestock
+hre = no
+base_tax = 6
+base_production = 6
+base_manpower = 4
+is_city = yes
+fort_15th = yes
+
+discovered_by = global

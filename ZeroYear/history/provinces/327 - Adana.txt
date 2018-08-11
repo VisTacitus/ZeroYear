@@ -1,0 +1,16 @@
+#327 - Adana
+
+owner = TUR
+controller = TUR
+add_core = TUR
+culture = turkish
+religion = sunni
+capital = "Adana"
+trade_goods = cotton
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 4
+is_city = yes
+
+discovered_by = global

@@ -1,0 +1,16 @@
+#4221 - Dundgovi
+
+owner = X22
+controller = X22
+add_core = X22
+culture = khalkha
+religion = tengri_pagan_reformed
+capital = "Dornogovi"
+trade_goods = livestock
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+is_city = yes
+
+discovered_by = global

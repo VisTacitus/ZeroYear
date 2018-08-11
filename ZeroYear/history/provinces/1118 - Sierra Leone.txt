@@ -1,0 +1,22 @@
+#1118 - Sierra Leone
+
+owner = GBR
+controller = GBR
+add_core = GBR
+add_core = X95
+culture = dyola
+religion = shamanism #Fetishism
+capital = "Sherbro"
+trade_goods = unknown
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+
+discovered_by = global
+
+1961.4.27 = {
+	remove_core = GBR
+	owner = X95
+	controller = X95
+} #Sierra Leone gains it's independence from the UK.

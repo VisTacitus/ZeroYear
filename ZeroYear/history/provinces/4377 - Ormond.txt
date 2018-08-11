@@ -1,0 +1,15 @@
+#4377 - Ormond
+
+owner = IRE
+controller = IRE
+add_core = IRE
+culture = irish
+religion = catholic
+hre = no
+base_tax = 3
+base_production = 3
+trade_goods = livestock
+base_manpower = 1
+capital = "Kilkenny"
+is_city = yes
+discovered_by = global

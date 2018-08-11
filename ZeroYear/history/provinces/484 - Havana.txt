@@ -1,0 +1,15 @@
+#484 - Havana
+
+owner = X60
+controller = X60
+add_core = X60
+culture = arawak
+religion = animism
+capital = "Havana"
+trade_goods = unknown
+hre = no
+base_tax = 5
+base_production = 5
+base_manpower = 1
+
+discovered_by = global

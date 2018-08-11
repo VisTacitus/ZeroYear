@@ -1,0 +1,15 @@
+#826 - Choco
+
+owner = COL
+controller = COL
+add_core = COL
+culture = guajiro
+religion = animism
+capital = "Choco"
+trade_goods = unknown
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+
+discovered_by = global

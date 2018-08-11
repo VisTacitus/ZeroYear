@@ -1,0 +1,17 @@
+#2954 - Djerba
+
+owner = FRA
+controller = FRA
+add_core = ALG
+culture = tunisian
+religion = ibadi
+capital = "Djerba"
+trade_goods = grain
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+fort_15th = yes #Borj El K'bir
+is_city = yes
+
+discovered_by = global

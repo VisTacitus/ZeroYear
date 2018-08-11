@@ -1,0 +1,16 @@
+#213 - Barcelona
+
+owner = SPA
+controller = SPA
+add_core = SPA
+culture = catalan
+religion = catholic
+hre = no
+base_tax = 6 
+base_production = 6
+trade_goods = glass 
+base_manpower = 3
+capital = "Barcelona" 
+is_city = yes
+
+discovered_by = global

@@ -1,0 +1,16 @@
+#4356 - Taytay
+
+owner = USA
+controller = USA
+add_core = USA
+add_core = X76
+culture = filipino
+religion = animism
+capital = "Taytay"
+trade_goods = unknown
+hre = no
+base_tax = 2
+base_production = 2
+base_manpower = 1
+
+discovered_by = global

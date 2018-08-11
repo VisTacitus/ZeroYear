@@ -1,0 +1,17 @@
+#370 - Reykjavik
+
+owner = ICE
+controller = ICE
+add_core = ICE
+culture = norwegian
+religion = catholic
+hre = no
+base_tax = 1 
+base_production = 1
+trade_goods = fish
+base_manpower = 1
+add_local_autonomy = 25
+capital = "Reykjavik"
+is_city = yes
+
+discovered_by = global

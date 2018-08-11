@@ -1,0 +1,16 @@
+#944 - Potawatomi
+
+owner = USA
+controller = USA
+add_core = USA
+culture = anishinabe
+religion = totemism
+capital = "Detroit"
+trade_goods = fur
+hre = no
+base_tax = 2
+base_production = 3
+base_manpower = 1
+is_city = yes
+
+discovered_by = global

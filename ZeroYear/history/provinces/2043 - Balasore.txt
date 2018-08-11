@@ -1,0 +1,24 @@
+#2043 - Balasore
+
+owner = GBR
+controller = GBR
+add_core = GBR
+add_core = X23
+culture = oriya
+religion = hinduism
+capital = "Balasore"
+trade_goods = cloth
+hre = no
+base_tax = 4 
+base_production = 4
+base_manpower = 3
+is_city = yes
+fort_15th = yes #Raibania
+
+discovered_by = global
+
+1947.7.18 = {
+	remove_core = GBR
+	owner = X23
+	controller = X23
+} #The British Raj is partitioned between India and Pakistan.

@@ -1,0 +1,23 @@
+#4349 - Laguna
+
+owner = USA
+controller = USA
+add_core = USA
+add_core = X76
+culture = filipino
+religion = animism
+capital = "Laguna"
+trade_goods = grain
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 1
+is_city = yes
+
+discovered_by = global
+
+1946.7.4 = {
+	remove_core = USA
+	owner = X76
+	controller = X76
+} #The Philippines is granted sovereignty by the United States.

@@ -1,0 +1,16 @@
+#257 - Mazovia
+
+owner = POL
+controller = POL
+add_core = POL
+capital = "Warsaw"
+culture = polish
+religion = catholic
+trade_goods = cloth
+hre = no
+base_tax = 5
+base_production = 5
+base_manpower = 2
+is_city = yes
+
+discovered_by = global

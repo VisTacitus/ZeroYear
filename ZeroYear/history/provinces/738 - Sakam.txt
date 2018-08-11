@@ -1,0 +1,19 @@
+#738 - Taiwan
+
+owner = X75
+controller = X75
+add_core = X74
+add_core = X75
+culture = polynesian
+religion = animism
+capital = "Sakam"
+trade_goods = unknown
+hre = no
+base_tax = 4 
+base_production = 4
+base_manpower = 2
+native_size = 60
+native_ferocity = 1
+native_hostileness = 5
+
+discovered_by = global

@@ -1,0 +1,13 @@
+
+owner = AUS
+controller = AUS
+add_core = AUS
+add_core = Y35
+
+discovered_by = global
+
+1975.12.16 = {
+	remove_core = AUS
+	owner = Y35
+	controller = Y35
+} #Papua New Guinea is declared and recognized on the same day.

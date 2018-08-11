@@ -1,0 +1,17 @@
+#4361 - Central + East March (Roxburghshire+Berwickshire+Selkirkshire)
+
+owner = GBR
+controller = GBR
+add_core = GBR
+add_core = SCO
+culture = scottish
+religion = catholic
+hre = no
+base_tax = 2
+base_production = 2
+trade_goods = iron
+base_manpower = 1
+capital = "Jedburgh"
+is_city = yes
+
+discovered_by = global

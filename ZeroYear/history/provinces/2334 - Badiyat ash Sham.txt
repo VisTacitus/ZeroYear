@@ -1,0 +1,7 @@
+#2334 - Badiyat ash Sham
+
+owner = IRQ
+controller = IRQ
+add_core = IRQ
+
+discovered_by = global

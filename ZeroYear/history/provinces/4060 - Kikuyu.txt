@@ -1,0 +1,22 @@
+#4060 - Kikuyu
+
+owner = GBR
+controller = GBR
+add_core = GBR
+add_core = Y16
+capital = "Kikuyu"
+culture = bantu #thagiicu
+religion = shamanism #Fetishism
+trade_goods = unknown
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+
+discovered_by = global
+
+1963.12.12 = {
+	remove_core = GBR
+	owner = Y16
+	controller = Y16
+} #The United Kingdom grants Kenya its' independence.

@@ -1,0 +1,17 @@
+#529 - North Konkan (Thana, Mahim, Bombay, Bassein, up to Daman)
+
+owner = GBR
+controller = GBR
+add_core = GBR
+add_core = X23
+culture = marathi
+religion = hinduism
+capital = "Thana"
+trade_goods = cloth
+hre = no
+base_tax = 4 
+base_production = 4
+base_manpower = 2
+is_city = yes
+
+discovered_by = global

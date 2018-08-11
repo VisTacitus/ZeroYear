@@ -1,0 +1,16 @@
+#743 - Essequibo
+
+owner = GBR
+controller = GBR
+add_core = X56
+culture = guajiro
+religion = animism
+capital = "Essequibo"
+trade_goods = sugar
+is_city = yes
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+
+discovered_by = global

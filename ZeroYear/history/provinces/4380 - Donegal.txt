@@ -1,0 +1,15 @@
+#4380 - Donegal
+
+owner = IRE
+controller = IRE
+add_core = IRE
+culture = irish
+religion = catholic
+hre = no
+base_tax = 2
+base_production = 2
+trade_goods = fish
+base_manpower = 1
+capital = "Donegal"
+is_city = yes
+discovered_by = global

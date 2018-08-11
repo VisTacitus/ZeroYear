@@ -1,0 +1,30 @@
+# 1876 - Frankfurt
+
+owner = USA
+controller = USA
+add_core = GER
+add_core = X25
+capital = "Frankfurt"
+culture = hessian
+religion = catholic
+trade_goods = paper
+base_tax = 7
+base_production = 7
+base_manpower = 4
+is_city = yes
+fort_15th = yes
+hre = no
+
+discovered_by = global
+
+1945.9.1 = { add_core = USA } #Paritioning of Germany. Germany is too worn out.
+1949.5.23 = {
+	remove_core = USA
+	owner = X25
+	controller = X25
+} #Formation of West Germany.
+1990.10.3 = {
+	remove_core = X25
+	owner = GER
+	controller = GER
+} #Formation of the Federal Republic of Germany.

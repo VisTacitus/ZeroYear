@@ -1,0 +1,30 @@
+#532 - Raichur Doab
+
+owner = GBR
+controller = GBR
+add_core = GBR
+add_core = X37
+culture = kannada
+religion = hinduism
+capital = "Raichur"
+trade_goods = cloth
+hre = no
+base_tax = 5 
+base_production = 6
+base_manpower = 4
+is_city = yes
+fort_15th = yes #Mudgal, Raichur, other forts
+
+discovered_by = global
+
+1947.6.11 = {
+	remove_core = GBR
+	add_core = X23
+	owner = X37
+	controller = X37
+} #Hyderabad becomes independent, but is short-lived.
+1947.9.17 = {
+	remove_core = X37
+	owner = X23
+	controller = X23
+} #Hyderabad is subjugated by India.

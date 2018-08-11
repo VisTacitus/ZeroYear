@@ -1,0 +1,23 @@
+#1021 - Settsu
+
+owner = USA
+controller = USA
+add_core = USA
+add_core = JAP
+culture = japanese
+religion = shinto
+capital = "Naniwa"
+trade_goods = chinaware
+hre = no
+base_tax = 6
+base_manpower = 3
+base_production = 6
+is_city = yes
+
+discovered_by = global
+
+1952.4.28 = {
+	remove_core = USA
+	owner = JAP
+	controller = JAP
+} #The San Francisco Peace Treaty is signed.

@@ -1,0 +1,16 @@
+# 1880 - Sundgau
+
+owner = FRA
+controller = FRA
+add_core = FRA
+capital = "Altkirch"
+is_city = yes
+culture = swabian
+religion = catholic
+hre = yes
+base_tax = 4 
+base_production = 6
+trade_goods = iron
+base_manpower = 4
+
+discovered_by = global

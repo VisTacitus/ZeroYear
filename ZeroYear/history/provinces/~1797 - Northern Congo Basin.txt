@@ -1,0 +1,5 @@
+owner = X03
+controller = X03
+add_core = Y12
+
+discovered_by = global

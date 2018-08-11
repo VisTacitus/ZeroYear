@@ -1,0 +1,17 @@
+# 1744 Antwerp - Principal cities: Antwerp
+
+owner = X03
+controller = X03
+add_core = X03
+is_city = yes
+capital = "Antwerp"
+hre = no
+culture = flemish
+religion = catholic
+base_tax = 8 
+base_production = 8
+trade_goods = glass
+base_manpower = 3
+fort_15th = yes
+
+discovered_by = global

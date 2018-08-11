@@ -1,0 +1,39 @@
+#2375 - Tay Nguyen
+
+owner = FRA
+controller = FRA
+add_core = FRA
+add_core = X38
+culture = cham
+religion = animism
+capital = "Tay Nguyen"
+trade_goods = tea
+hre = no
+base_tax = 2 
+base_production = 2
+base_manpower = 2
+is_city = yes
+
+discovered_by = global
+
+1954.7.21 = {
+	remove_core = FRA
+	owner = X38
+	controller = X38
+} #The Geneva Conference partitions Vietnam into both North and South.
+1968.1.30 = {
+	controller = X40
+} #The Tet Offensive takes hold.
+1973.1.27 = {
+	owner = X38
+	controller = X38
+} #The Paris Peace Accords are signed.
+1974.12.13 = {
+	controller = X40
+} #The Final push to Saigon. The US is too busy with Watergate.
+1976.7.2 = {
+	remove_core = X38
+	add_core = X39
+	owner = X39
+	controller = X39
+} #Vietnam officially unites.

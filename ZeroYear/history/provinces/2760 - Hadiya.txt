@@ -1,0 +1,16 @@
+#2760 - Hadiya
+
+owner = ETH
+controller = ETH
+add_core = ETH
+culture = sidamo 
+religion = sunni
+capital = "Angacha"
+is_city = yes
+base_manpower = 2
+trade_goods = grain
+hre = no
+base_tax = 3
+base_production = 3
+
+discovered_by = global

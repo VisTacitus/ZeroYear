@@ -1,0 +1,38 @@
+#606 - Panduranga
+
+owner = FRA
+controller = FRA
+add_core = FRA
+add_core = X38
+culture = cham
+religion = hinduism
+capital = "Panduranga"
+trade_goods = fish
+hre = no
+base_tax = 4
+base_production = 4
+base_manpower = 2
+is_city = yes
+
+discovered_by = global
+
+1954.7.21 = {
+	remove_core = FRA
+	owner = X38
+	controller = X38
+} #The Geneva Conference partitions Vietnam into both North and South.
+1962.5.7 = {
+	controller = X40
+} #The Viet Cong controlled the coastline on this date.
+1964.10.27 = {
+	controller = X38
+} #The Viet Cong were pushed back.
+1975.4.18 = {
+	controller = X40
+} #The Final push to Saigon. The US is too busy with Watergate.
+1976.7.2 = {
+	remove_core = X38
+	add_core = X39
+	owner = X39
+	controller = X39
+} #Vietnam officially unites.

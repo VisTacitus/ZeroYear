@@ -1,0 +1,17 @@
+# - Vogtland
+
+owner = SOV
+controller = SOV
+add_core = GER
+add_core = X26
+culture = saxon
+religion = catholic
+capital = "Plauen"
+trade_goods = wool
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 1
+is_city = yes
+
+discovered_by = global

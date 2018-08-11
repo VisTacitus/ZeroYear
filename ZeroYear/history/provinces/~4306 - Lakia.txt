@@ -1,0 +1,18 @@
+#4306 - Lakia
+
+owner = SOV
+controller = SOV
+add_core = SOV
+add_core = RUS
+add_core = X16
+culture = dagestani
+religion = sunni
+capital = "Kumukh"
+trade_goods = iron
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 3
+is_city = yes
+
+discovered_by = global

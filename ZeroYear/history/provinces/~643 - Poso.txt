@@ -1,0 +1,15 @@
+#643 - Poso
+
+owner = NED
+controller = NED
+add_core = NED
+culture = sulawesi
+religion = animism
+capital = "Poso"
+trade_goods = unknown
+hre = no
+base_tax = 4
+base_production = 4
+base_manpower = 2
+
+discovered_by = global

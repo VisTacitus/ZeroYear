@@ -1,0 +1,16 @@
+#159 - Silistria
+
+owner = BUL
+controller = BUL
+add_core = BUL
+culture = bulgarian
+religion = orthodox
+capital = "Silistra"
+trade_goods = fish
+hre = no
+base_tax = 5
+base_production = 5
+base_manpower = 4
+is_city = yes
+
+discovered_by = global

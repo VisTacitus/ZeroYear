@@ -1,0 +1,24 @@
+#380 - Al Karak
+
+owner = GBR
+controller = GBR
+add_core = GBR
+add_core = X34
+culture = bedouin_arabic
+religion = sunni
+capital = "Al Karak"
+trade_goods = grain
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+is_city = yes
+fort_15th = yes
+
+discovered_by = global
+
+1946.5.25 = {
+	remove_core = GBR
+	owner = X34
+	controller = X34
+} #Jordan's independence is granted by the UK.

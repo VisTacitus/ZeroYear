@@ -1,0 +1,23 @@
+#608 - Champasak
+
+owner = FRA
+controller = FRA
+add_core = FRA
+add_core = Y30
+culture = lao
+religion = buddhism
+capital = "Champasak"
+trade_goods = tea
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 3
+is_city = yes
+
+discovered_by = global
+
+1953.10.22 = {
+	remove_core = FRA
+	owner = Y30
+	controller = Y30
+} #Laos declares independence from France.

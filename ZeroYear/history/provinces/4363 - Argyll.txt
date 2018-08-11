@@ -1,0 +1,17 @@
+#4363 - Argyll
+
+owner = GBR
+controller = GBR
+add_core = GBR
+add_core = SCO
+culture = highland_scottish
+religion = catholic
+hre = no
+base_tax = 3
+base_production = 3
+trade_goods = iron
+base_manpower = 2
+capital = "Loch Awe"
+is_city = yes
+
+discovered_by = global

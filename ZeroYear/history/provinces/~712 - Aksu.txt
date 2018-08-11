@@ -1,0 +1,16 @@
+#712 - Uighuristan
+
+owner = X75
+controller = X75
+add_core = X74
+add_core = X75
+culture = uyghur
+religion = sunni
+capital = "Aksu"
+trade_goods = cotton
+hre = no
+base_tax = 2 
+base_production = 2
+base_manpower = 2
+
+discovered_by = global

@@ -1,0 +1,7 @@
+#Southern Norwegian Mountain massifs and highlands: Jotenheimen, Breheimen, Hardangervidda and Heiene.
+owner = NOR
+controller = NOR
+add_core = NOR
+
+is_city = yes
+discovered_by = global

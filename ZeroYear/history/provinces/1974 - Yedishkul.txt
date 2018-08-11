@@ -1,0 +1,23 @@
+#1974 - Yedishkul
+
+owner = SOV
+controller = SOV
+add_core = SOV
+add_core = UKR
+culture = crimean
+religion = sunni
+hre = no
+base_tax = 4
+base_production = 4
+trade_goods = salt
+base_manpower = 2
+capital = "Kherson"
+is_city = yes
+
+discovered_by = global
+
+1991.8.24 = {
+	remove_core = SOV
+	owner = UKR
+	controller = UKR
+} #Ukrainian Independence is restored.

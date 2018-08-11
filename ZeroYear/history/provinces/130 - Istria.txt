@@ -1,0 +1,23 @@
+#130 - Istria
+
+owner = X02
+controller = X02
+add_core = X02
+culture = croatian
+religion = catholic
+capital = "Pula"
+trade_goods = salt #Accounted for 1/4 of the total Salt imports of Venice
+#trade_goods = naval_supplies #Major Shipbuilding Centre
+hre = no
+base_tax = 2 
+base_production = 3
+base_manpower = 3
+is_city = yes
+
+discovered_by = global
+
+1991.6.25 = {
+	remove_core = X02
+	owner = CRO
+	controller = CRO
+} #Secession of Croatia

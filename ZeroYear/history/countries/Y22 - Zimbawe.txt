@@ -1,0 +1,9 @@
+#To Be Edited
+government = constitutional_republic
+government_rank = 1
+mercantilism = 25
+technology_group = global
+religion = catholic
+primary_culture = hessian
+capital = 1878	# Aachen
+fixed_capital = 1878 # Cannot move capital away from this province & no power cost to move to it

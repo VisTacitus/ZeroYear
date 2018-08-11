@@ -1,0 +1,15 @@
+# No previous file for Huichol
+
+owner = MEX
+controller = MEX
+add_core = MEX
+culture = piman
+religion = nahuatl
+capital = "Huichol"
+trade_goods = wool
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+
+discovered_by = global

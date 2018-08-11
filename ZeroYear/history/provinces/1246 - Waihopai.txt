@@ -1,0 +1,18 @@
+#1246 - Waihopai
+
+owner = X77
+controller = X77
+add_core = X77
+culture = polynesian
+religion = animism
+capital = "Waihopai"
+trade_goods = unknown
+hre = no
+base_tax = 2 
+base_production = 2
+base_manpower = 1
+native_size = 10
+native_ferocity = 4
+native_hostileness = 9
+
+discovered_by = global

@@ -1,0 +1,18 @@
+# 2119 - Chuguchak
+
+owner = X73
+controller = X73
+add_core = X73
+add_core = X74
+add_core = X75
+culture = oirats
+religion = sunni
+capital = "Chugachak"
+trade_goods = fur
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 2
+is_city = yes
+
+discovered_by = global

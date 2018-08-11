@@ -1,0 +1,17 @@
+#250 - Perth
+
+owner = GBR
+controller = GBR
+add_core = GBR
+add_core = SCO
+culture = highland_scottish
+religion = catholic
+hre = no
+base_tax = 3
+base_production = 3
+trade_goods = livestock
+base_manpower = 4
+capital = "Perth"
+is_city = yes
+
+discovered_by = global

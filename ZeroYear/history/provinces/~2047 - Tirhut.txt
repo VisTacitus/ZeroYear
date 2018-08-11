@@ -1,0 +1,17 @@
+#2047 - Tirhut
+
+owner = GBR
+controller = GBR
+add_core = GBR
+add_core = X23
+culture = bihari
+religion = hinduism
+capital = "Sugauna"
+trade_goods = dyes
+hre = no
+base_tax = 5 
+base_production = 6
+base_manpower = 4
+is_city = yes
+
+discovered_by = global

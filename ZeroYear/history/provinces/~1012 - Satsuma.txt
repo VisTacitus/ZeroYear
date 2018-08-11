@@ -1,0 +1,17 @@
+#1012 - Satsuma
+
+owner = USA
+controller = USA
+add_core = USA
+add_core = JAP
+culture = kyushuan
+religion = shinto
+capital = "Kagoshima"
+trade_goods = tea
+hre = no
+base_tax = 3
+base_manpower = 3
+base_production = 3
+is_city = yes
+
+discovered_by = global

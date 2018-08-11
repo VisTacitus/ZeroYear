@@ -1,0 +1,17 @@
+#160 - Oltenia
+
+owner = RMN
+controller = RMN
+add_core = RMN
+culture = romanian
+religion = orthodox
+capital = "Craiova"
+trade_goods = wool
+hre = no
+base_tax = 4
+base_production = 4
+base_manpower = 2
+estate = estate_nobles
+is_city = yes
+
+discovered_by = global

@@ -1,0 +1,23 @@
+#349 - Figuig
+
+owner = FRA
+controller = FRA
+add_core = FRA
+add_core = MOR
+culture = berber
+religion = sunni
+capital = "Figuig"
+trade_goods = livestock
+hre = no
+base_tax = 2 
+base_production = 2
+base_manpower = 1
+is_city = yes
+
+discovered_by = global
+
+1956.4.7 = {
+	remove_core = FRA
+	owner = MOR
+	controller = MOR
+} #France relinquishes control of Morocco.

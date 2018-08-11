@@ -1,0 +1,23 @@
+#453 - Qarshi
+
+owner = SOV
+controller = SOV
+add_core = SOV
+add_core = X12
+culture = uzbehk
+religion = sunni
+capital = "Qarshi"
+trade_goods = cotton
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 2
+is_city = yes
+
+discovered_by = global
+
+1991.10.27 = {
+	remove_core = SOV
+	owner = X12
+	controller = X12
+} #Turkmenistan declares independence from the Soviet Union.

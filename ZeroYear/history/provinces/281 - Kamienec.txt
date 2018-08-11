@@ -1,0 +1,29 @@
+#281 - Podolia
+
+owner = SOV
+controller = SOV
+add_core = SOV
+add_core = MOL
+add_core = X05
+culture = ruthenian
+religion = orthodox
+hre = no
+base_tax = 3
+base_production = 3
+trade_goods = livestock 
+base_manpower = 3 
+capital = "Tirasipol"
+is_city = yes
+estate = estate_nobles
+fort_15th = yes
+
+discovered_by = global
+
+1990.9.2 = {
+	remove_core = SOV
+	owner = X05
+	controller = X05
+} #Transnistria secedes from Moldova SSR.
+1992.7.21 = {
+	remove_core = MOL
+} #Ceasefire between Moldova and Transnistria.

@@ -1,0 +1,16 @@
+# No previous file for Wabash
+
+owner = USA
+controller = USA
+add_core = USA
+is_city = yes
+culture = shawnee
+religion = totemism
+capital = "Wabash"
+trade_goods = grain
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+
+discovered_by = global

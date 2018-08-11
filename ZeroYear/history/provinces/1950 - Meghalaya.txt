@@ -1,0 +1,14 @@
+# - Meghalaya
+
+owner = GBR
+controller = GBR
+add_core = GBR
+add_core = X23
+
+discovered_by = global
+
+1947.7.18 = {
+	remove_core = GBR
+	owner = X23
+	controller = X23
+} #The British Raj is partitioned between India and Pakistan.

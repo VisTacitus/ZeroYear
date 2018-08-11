@@ -1,0 +1,17 @@
+# 201 Provence - Principal cities: Aix-en-Provence, Marseille
+
+owner = FRA
+controller = FRA
+add_core = FRA
+capital = "Aix-en-Provence"
+is_city = yes
+culture = occitain
+religion = catholic
+hre = no
+base_tax = 7 
+base_production = 7
+trade_goods = wine
+base_manpower = 7
+fort_15th = yes
+
+discovered_by = global

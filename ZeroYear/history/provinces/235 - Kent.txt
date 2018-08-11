@@ -1,0 +1,18 @@
+#235 - Kent
+
+owner = GBR
+controller = GBR
+add_core = GBR
+culture = english
+religion = catholic
+hre = no
+base_tax = 5
+base_production = 5
+trade_goods = cloth
+base_manpower = 2
+capital = "Canterbury"
+is_city = yes
+
+#Important to look at: To Be Edited
+seat_in_parliament = yes
+discovered_by = global

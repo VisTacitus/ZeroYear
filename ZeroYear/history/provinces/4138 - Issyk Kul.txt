@@ -1,0 +1,8 @@
+#4138 - Issyk Kul
+
+
+
+discovered_by = global
+discovered_by = KAS
+1622.1.1 = { discovered_by = RUS }
+

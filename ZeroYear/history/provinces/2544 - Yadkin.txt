@@ -1,0 +1,15 @@
+# No previous file for Yadkin
+
+owner = USA
+controller = USA
+add_core = USA
+culture = catawba
+religion = totemism
+capital = "Yadkin"
+trade_goods = unknown
+hre = no
+base_tax = 2
+base_production = 2
+base_manpower = 1
+
+discovered_by = global

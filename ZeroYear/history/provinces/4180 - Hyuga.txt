@@ -1,0 +1,23 @@
+#4180 - Hyuga
+
+owner = USA
+controller = USA
+add_core = USA
+add_core = JAP
+culture = kyushuan
+religion = shinto
+capital = "Obi"
+trade_goods = livestock
+hre = no
+base_tax = 3
+base_manpower = 2
+base_production = 2
+is_city = yes
+
+discovered_by = global
+
+1952.4.28 = {
+	remove_core = USA
+	owner = JAP
+	controller = JAP
+} #The San Francisco Peace Treaty is signed.

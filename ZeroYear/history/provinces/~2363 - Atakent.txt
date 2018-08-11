@@ -1,0 +1,17 @@
+# 2363 - Atakent
+
+owner = SOV
+controller = SOV
+add_core = SOV
+add_core = X13
+culture = khazak
+religion = sunni
+capital = "Atakent"
+trade_goods = livestock
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+is_city = yes
+
+discovered_by = global

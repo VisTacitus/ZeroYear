@@ -1,0 +1,16 @@
+# 93 Liège - Principal cities: Liège & Namur
+
+owner = X03
+controller = X03
+add_core = X03
+capital = "Liege"
+is_city = yes
+culture = wallonian
+religion = catholic
+hre = no
+base_tax = 6 
+base_production = 6
+trade_goods = glass
+base_manpower = 3
+
+discovered_by = global

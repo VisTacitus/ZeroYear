@@ -1,0 +1,17 @@
+#2076 - Sialkot
+
+owner = GBR
+controller = GBR
+add_core = GBR
+add_core = X24
+culture = panjabi
+religion = hinduism
+capital = "Sialkot"
+trade_goods = paper
+hre = no
+base_tax = 7 
+base_production = 9
+base_manpower = 4
+is_city = yes
+
+discovered_by = global

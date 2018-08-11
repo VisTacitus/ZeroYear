@@ -1,0 +1,16 @@
+#218 - Badajoz
+
+owner = SPA
+controller = SPA
+add_core = SPA
+culture = castillian
+religion = catholic
+hre = no
+base_tax = 4
+base_production = 4
+trade_goods = livestock 
+base_manpower = 4
+capital = "Badajoz"
+is_city = yes
+
+discovered_by = global

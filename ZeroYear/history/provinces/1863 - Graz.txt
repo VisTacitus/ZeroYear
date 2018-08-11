@@ -1,0 +1,23 @@
+#1863 - Graz
+
+owner = SOV
+controller = SOV
+add_core = SOV
+add_core = HAB
+culture = austrian
+religion = catholic
+base_tax = 5 
+base_production = 5
+trade_goods = grain
+base_manpower = 3
+capital = "Graz" 
+is_city = yes
+hre = no
+
+discovered_by = global
+
+1955.5.15 = {
+	remove_core = SOV
+	owner = HAB
+	controller = HAB
+} #Austrian State Treaty is signed. Austria is a sovereign state again.

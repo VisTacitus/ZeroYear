@@ -1,0 +1,18 @@
+#2046 - Nasirabad
+
+owner = GBR
+controller = GBR
+add_core = GBR
+add_core = X24
+add_core = X27
+culture = bengali
+religion = hinduism
+capital = "Nasirabad"
+trade_goods = cotton
+hre = no
+base_tax = 5
+base_production = 4
+base_manpower = 3
+is_city = yes
+
+discovered_by = global

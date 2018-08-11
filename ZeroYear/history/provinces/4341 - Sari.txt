@@ -1,0 +1,16 @@
+#4341 - Sari
+
+owner = PER
+controller = PER
+add_core = PER
+culture = mazandarani
+religion = shiite
+capital = "Sari"
+trade_goods = silk
+hre = no
+base_tax = 5
+base_production = 5
+base_manpower = 3
+is_city = yes
+
+discovered_by = global

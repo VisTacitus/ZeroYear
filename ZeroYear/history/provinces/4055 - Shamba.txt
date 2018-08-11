@@ -1,0 +1,22 @@
+#4055 - Shamba
+
+owner = GBR
+controller = GBR
+add_core = GBR
+add_core = Y17
+culture = swahili
+religion = shamanism #Fetishism
+trade_goods = unknown
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+capital = "Shambaa"
+
+discovered_by = global
+
+1961.12.9 = {
+	remove_core = GBR
+	owner = Y17
+	controller = Y17
+} #Tanzania (Tanganyika) becomes independent.

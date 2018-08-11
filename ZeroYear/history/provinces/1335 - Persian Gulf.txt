@@ -1,0 +1,6 @@
+
+discovered_by = global
+1480.1.1 = { discovered_by = TUR }
+1498.1.1 = { discovered_by = POR }
+
+

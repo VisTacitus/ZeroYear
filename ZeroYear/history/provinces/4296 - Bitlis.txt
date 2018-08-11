@@ -1,0 +1,16 @@
+#4396 - Bitlis and Hakkari
+
+owner = TUR
+controller = TUR
+add_core = TUR
+culture = kurdish
+religion = sunni
+capital = "Bitlis"
+trade_goods = wool
+hre = no
+base_tax = 2 
+base_production = 2
+base_manpower = 2
+is_city = yes
+
+discovered_by = global

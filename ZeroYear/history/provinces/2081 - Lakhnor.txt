@@ -1,0 +1,27 @@
+# 2081 - Lakhnor
+
+latent_trade_goods = {
+	coal
+}
+
+owner = GBR
+controller = GBR
+add_core = GBR
+add_core = X23
+culture = bengali
+religion = hinduism
+capital = "Lakhnor"
+trade_goods = naval_supplies
+hre = no
+base_tax = 4 
+base_production = 4
+base_manpower = 3
+is_city = yes
+
+discovered_by = global
+
+1947.7.18 = {
+	remove_core = GBR
+	owner = X23
+	controller = X23
+} #The British Raj is partitioned between India and Pakistan.

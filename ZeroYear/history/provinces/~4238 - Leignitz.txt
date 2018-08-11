@@ -1,0 +1,17 @@
+#4238 - Liegnitz (Liegnitz+Schweidnitz+Jauer+Glatz+Neisse+Münsterberg)
+
+#Coal
+owner = POL
+controller = POL
+add_core = POL
+culture = schlesian
+religion = catholic
+capital = "Liegnitz"
+trade_goods = glass
+hre = no
+base_tax = 4
+base_production = 4
+is_city = yes 
+base_manpower = 2
+
+discovered_by = global

@@ -1,0 +1,16 @@
+#4329 - Fasa and Jahrum
+
+owner = PER
+controller = PER
+add_core = PER
+culture = persian
+religion = sunni
+capital = "Fasa"
+trade_goods = silk #And Paper in Jahrum
+hre = no
+base_tax = 4
+base_production = 4
+base_manpower = 1
+is_city = yes
+
+discovered_by = global

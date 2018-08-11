@@ -1,0 +1,17 @@
+#1859 - Torun
+
+owner = POL
+controller = POL
+add_core = POL
+capital = "Torun"
+is_city = yes
+estate = estate_burghers
+culture = polish
+religion = catholic
+trade_goods = grain
+hre = no
+base_tax = 4
+base_production = 4
+base_manpower = 2
+
+discovered_by = global

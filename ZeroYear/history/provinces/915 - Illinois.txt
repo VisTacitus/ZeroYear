@@ -1,0 +1,16 @@
+#915 - Illinois
+
+owner = USA
+controller = USA
+add_core = USA
+culture = illini
+religion = totemism
+capital = "Illinois"
+trade_goods = grain
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+is_city = yes
+
+discovered_by = global

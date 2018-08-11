@@ -1,0 +1,22 @@
+#574 - The Andamans (and Nicobars)
+
+owner = GBR
+controller = GBR
+add_core = GBR
+add_core = X23
+culture = bengali
+religion = animism
+capital = "The Andamans"
+trade_goods = unknown
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+
+discovered_by = global
+
+1947.7.18 = {
+	remove_core = GBR
+	owner = X23
+	controller = X23
+} #The British Raj is partitioned between India and Pakistan.

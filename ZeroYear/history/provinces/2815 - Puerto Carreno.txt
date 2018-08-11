@@ -1,0 +1,16 @@
+# - Puerto Carreno
+
+owner = COL
+controller = COL
+add_core = COL
+culture = guajiro
+
+discovered_by = global
+
+religion = animism
+capital = "Puerto Carreno"
+trade_goods = unknown
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1

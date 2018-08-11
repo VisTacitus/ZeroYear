@@ -1,0 +1,16 @@
+#115 - Pisa
+
+owner = ITA
+controller = ITA
+add_core = ITA
+culture = tuscan 
+religion = catholic 
+hre = no 
+base_tax = 6 
+base_production = 6    
+trade_goods = wine
+base_manpower = 3    
+capital = "Pisa" 
+is_city = yes	# Estimated
+
+discovered_by = global

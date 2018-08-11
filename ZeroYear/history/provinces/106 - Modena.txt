@@ -1,0 +1,15 @@
+#106 - Modena
+
+owner = ITA
+controller = ITA
+add_core = ITA
+culture = romagnan 
+religion = catholic 
+hre = no 
+base_tax = 5 
+base_production = 5  
+trade_goods = livestock
+base_manpower = 2  
+capital = "Modena" 
+is_city = yes
+discovered_by = global

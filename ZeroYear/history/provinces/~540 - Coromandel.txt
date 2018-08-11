@@ -1,0 +1,17 @@
+#540 - Coromandel 
+
+owner = GBR
+controller = GBR
+add_core = GBR
+add_core = X23
+culture = tamil
+religion = hinduism
+capital = "Kuddaluru"
+trade_goods = cloth
+hre = no
+base_tax = 8 
+base_production = 8
+base_manpower = 5
+is_city = yes
+
+discovered_by = global

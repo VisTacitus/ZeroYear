@@ -1,0 +1,17 @@
+#507 - Lahore
+
+owner = GBR
+controller = GBR
+add_core = GBR
+add_core = X24
+culture = panjabi
+religion = hinduism
+capital = "Lahore"
+trade_goods = silk
+hre = no
+base_tax = 11
+base_production = 12
+base_manpower = 5
+is_city = yes
+
+fort_15th = yes #Lahore Fort

@@ -1,0 +1,23 @@
+#2689 - Kendal
+
+owner = X78
+controller = X78
+add_core = X78
+culture = javanese
+religion = hinduism
+capital = "Kendal"
+trade_goods = naval_supplies
+hre = no
+base_tax = 2 
+base_production = 2
+base_manpower = 2
+is_city = yes
+
+discovered_by = global
+
+1947.7.21 = {
+	controller = NED
+} #Operation Product begins.
+1949.8.11 = {
+	controller = X78
+} #Ceasefire on Java.

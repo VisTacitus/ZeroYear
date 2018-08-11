@@ -1,0 +1,17 @@
+#575 - Eastern Makran
+
+owner = GBR
+controller = GBR
+add_core = GBR
+add_core = X24
+culture = baluchi
+religion = sunni
+capital = "Gwadar"
+trade_goods = fish
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+is_city = yes
+
+discovered_by = global

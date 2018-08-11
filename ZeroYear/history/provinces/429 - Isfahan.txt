@@ -1,0 +1,16 @@
+#429 - Isfahan
+
+owner = PER
+controller = PER
+add_core = PER
+culture = persian
+religion = shiite
+capital = "Esfahan"
+trade_goods = paper
+hre = no
+base_tax = 4
+base_production = 4
+base_manpower = 3
+is_city = yes
+
+discovered_by = global

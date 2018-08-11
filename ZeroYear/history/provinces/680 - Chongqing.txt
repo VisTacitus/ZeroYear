@@ -1,0 +1,26 @@
+#680 - Chongqing
+
+owner = X75
+controller = X75
+add_core = X74
+add_core = X75
+culture = sichuanese
+religion = confucianism
+capital = "Chongqing"
+trade_goods = spices
+hre = no
+base_tax = 8 
+base_production = 8
+base_manpower = 4
+is_city = yes
+
+discovered_by = global
+
+1949.12.19 = {
+	controller = X74
+} #Communist offensive towards Yunnan.
+1950.5.1 = {
+	remove_core = X75
+	owner = X74
+	controller = X74
+} #Traditional end of the Chinese Civil War.

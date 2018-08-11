@@ -1,0 +1,111 @@
+# Keep as reference - correct syntax but not used
+
+song = {
+	name = "maintheme" #Only played in mainscreen.
+	
+	chance = { 
+		modifier = {
+			factor = 0
+		}
+	}
+}
+
+#After Christmas
+song = {
+	name = "after_christmas"
+	
+	chance = { 
+		modifier = {
+			factor = 1
+		}
+	}
+}
+
+#Chasing Time
+song = {
+	name = "chasing_time"
+	
+	chance = { 
+		modifier = {
+			factor = 1
+		}
+	}
+}
+
+#Moonlight Reprise
+song = {
+	name = "moonlight_reprise"
+	
+	chance = { 
+		modifier = {
+			factor = 1
+		}
+	}
+}
+
+#Seeing The Future
+song = {
+	name = "seeing_the_future"
+	
+	chance = { 
+		modifier = {
+			factor = 1
+		}
+	}
+}
+
+#Sovetsky Soyuz
+song = {
+	name = "sovetsky_soyuz"
+	
+	chance = { 
+		modifier = {
+			factor = 1
+		}
+	}
+}
+
+#The Time To Run
+song = {
+	name = "the_time_to_run"
+	
+	chance = { 
+		modifier = {
+			factor = 1
+		}
+	}
+}
+
+#The Time To Run Finale
+song = {
+	name = "the_time_to_run_finale"
+	
+	chance = { 
+		modifier = {
+			factor = 1
+		}
+	}
+}
+
+#Waking Up Instrumental
+song = {
+	name = "waking_up_instrumental"
+	
+	chance = { 
+		modifier = {
+			factor = 1
+		}
+	}
+}
+
+#Wonderland Instrumental
+
+song = {
+	name = "wonderland_instrumental"
+	
+	chance = { 
+		modifier = {
+			factor = 1
+		}
+	}
+}

@@ -1,0 +1,17 @@
+#596 - Malacca
+
+owner = GBR
+controller = GBR
+add_core = GBR
+add_core = Y31
+culture = malayan
+religion = sunni
+capital = "Malacca"
+trade_goods = spices
+hre = no
+base_tax = 7 
+base_production = 7
+base_manpower = 3
+is_city = yes
+
+discovered_by = global

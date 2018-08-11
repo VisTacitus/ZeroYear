@@ -1,0 +1,23 @@
+#1121 - Bure
+
+owner = FRA
+controller = FRA
+add_core = FRA
+add_core = X94
+culture = mali
+is_city = yes
+base_manpower = 2
+religion = shamanism #Fetishism
+capital = "Kurussa"
+trade_goods = gold
+hre = no
+base_tax = 6 
+base_production = 6
+
+discovered_by = global
+
+1958.10.2 = {
+	remove_core = FRA
+	owner = X94
+	controller = X94
+} #Guinea proclaims independence from France.

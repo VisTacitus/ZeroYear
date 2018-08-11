@@ -1,0 +1,18 @@
+#148 - Macedonia
+
+owner = GRE
+controller = GRE
+add_core = GRE
+culture = greek
+religion = orthodox
+capital = "Thessaloniki"
+trade_goods = cloth
+hre = no
+base_tax = 6 
+base_production = 6
+base_manpower = 2
+is_city = yes
+fort_15th = yes
+
+discovered_by = global
+extra_cost = 15

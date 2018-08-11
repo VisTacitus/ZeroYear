@@ -1,0 +1,17 @@
+#Lolo
+
+owner = POR
+controller = POR
+add_core = POR
+add_core = Y19
+culture = nyasa
+religion = shamanism #Fetishism
+capital = "Lolo"
+is_city = yes
+base_manpower = 1
+trade_goods = ivory
+hre = no
+base_tax = 1
+base_production = 1
+
+discovered_by = global

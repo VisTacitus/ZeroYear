@@ -1,0 +1,17 @@
+#511 - Garhwal
+
+owner = GBR
+controller = GBR
+add_core = GBR
+add_core = X23
+culture = nepali
+religion = hinduism
+capital = "Devalgarh"
+trade_goods = cotton
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+is_city = yes
+
+discovered_by = global

@@ -1,0 +1,16 @@
+#2030 - Goa
+
+owner = POR
+controller = POR
+add_core = X23
+culture = marathi
+religion = hinduism
+capital = "Goa"
+trade_goods = spices
+hre = no
+base_tax = 4 
+base_production = 5
+base_manpower = 2
+is_city = yes
+
+discovered_by = global

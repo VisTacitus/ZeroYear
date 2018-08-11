@@ -1,0 +1,16 @@
+#2974 Loon
+
+owner = X03
+controller = X03
+add_core = X03
+is_city = yes
+capital = "Loon"
+culture = flemish
+religion = catholic
+hre = no
+base_tax = 5
+base_production = 5
+trade_goods = cloth
+base_manpower = 2
+
+discovered_by = global

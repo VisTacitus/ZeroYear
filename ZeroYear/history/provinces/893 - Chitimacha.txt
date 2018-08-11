@@ -1,0 +1,15 @@
+#893 - Chitimacha
+
+owner = USA
+controller = USA
+add_core = USA
+culture = choctaw
+religion = totemism
+capital = "Chitimacha"
+trade_goods = unknown
+hre = no
+base_tax = 5
+base_production = 3
+base_manpower = 2
+
+discovered_by = global

@@ -1,0 +1,17 @@
+#Lundu
+
+owner = POR
+controller = POR
+add_core = POR
+add_core = Y19
+culture = nyasa
+religion = shamanism #Fetishism
+capital = "Mbebwe"
+is_city = yes
+base_manpower = 4
+trade_goods = cloth #or Cotton
+hre = no
+base_tax = 3
+base_production = 2
+
+discovered_by = global

@@ -1,0 +1,25 @@
+#364 - Gaza
+
+owner = EGY
+controller = EGY
+add_core = EGY
+culture = al_suryah_arabic
+religion = sunni
+capital = "Gazzah"
+trade_goods = salt
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 2
+is_city = yes
+
+discovered_by = global
+
+1956.10.9 = {
+	controller = X31
+} #Israeli paratroopers land in Sinai during the 1956 Suez Crisis.
+1956.11.7 = {
+	remove_core = GBR
+	owner = EGY
+	controller = EGY
+} #The Suez Crisis is over. Egypt is granted the canal.

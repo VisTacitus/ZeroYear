@@ -1,0 +1,16 @@
+#367 - The Azores
+
+owner = POR
+controller = POR
+add_core = POR
+is_city = yes
+culture = portugese
+religion = catholic
+capital = "The Azores"
+trade_goods = fish
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 1
+
+discovered_by = global

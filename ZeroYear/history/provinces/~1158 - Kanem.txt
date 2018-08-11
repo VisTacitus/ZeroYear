@@ -1,0 +1,16 @@
+#1158 - Kanem
+
+owner = FRA
+controller = FRA
+add_core = X89
+culture = kanuri
+religion = sunni
+capital = "Ngala"
+is_city = yes
+base_manpower = 2
+trade_goods = paper
+hre = no
+base_tax = 3 
+base_production = 3
+
+discovered_by = global

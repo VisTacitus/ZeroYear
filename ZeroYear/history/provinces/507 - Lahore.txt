@@ -1,0 +1,24 @@
+#507 - Lahore
+
+owner = GBR
+controller = GBR
+add_core = GBR
+add_core = X24
+culture = panjabi
+religion = hinduism
+capital = "Lahore"
+trade_goods = silk
+hre = no
+base_tax = 11
+base_production = 12
+base_manpower = 5
+is_city = yes
+fort_15th = yes #Lahore Fort
+
+discovered_by = global
+
+1947.7.18 = {
+	remove_core = GBR
+	owner = X24
+	controller = X24
+} #The British Raj is partitioned between India and Pakistan.

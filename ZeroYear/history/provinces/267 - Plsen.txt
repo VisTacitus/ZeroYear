@@ -1,0 +1,24 @@
+#267 - Plsen
+
+owner = BOH
+controller = BOH
+add_core = BOH
+capital = "Plzen"
+culture = czech
+religion = catholic
+trade_goods = naval_supplies
+hre = no
+base_tax = 5 
+base_production = 5
+base_manpower = 1
+is_city = yes
+fort_15th = yes
+
+discovered_by = global
+
+1993.1.1 = {
+	remove_core = BOH
+	add_core = X28
+	owner = X28
+	controller = X28
+} #Breakup of Czechoslovakia.

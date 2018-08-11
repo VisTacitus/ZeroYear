@@ -1,0 +1,27 @@
+#136 - Dalmatia
+
+owner = X02
+controller = X02
+add_core = X02
+culture = croatian
+religion = catholic
+capital = "Split"
+trade_goods = wool
+hre = no
+base_tax = 6 
+base_production = 4
+base_manpower = 3
+is_city = yes
+fort_15th = yes # Klis Fortress
+
+discovered_by = global
+
+1991.6.25 = {
+	remove_core = X02
+	owner = CRO
+	controller = X02
+} #Secession of Croatia
+1995.8.8 = {
+	owner = CRO
+	controller = CRO
+} #Yugoslav Army retreats from Croatia

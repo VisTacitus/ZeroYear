@@ -1,0 +1,15 @@
+owner = FRA
+controller = FRA
+add_core = GER
+add_core = X11
+culture = hessian
+religion = catholic
+trade_goods = grain
+capital = "Trier"
+base_tax = 5
+base_production = 5
+is_city = yes
+base_manpower = 2
+hre = no
+
+discovered_by = global

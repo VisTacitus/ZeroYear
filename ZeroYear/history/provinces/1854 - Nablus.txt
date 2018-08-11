@@ -1,0 +1,23 @@
+#1854 - Negev
+
+owner = GBR
+controller = GBR
+add_core = GBR
+add_core = X31
+culture = al_suryah_arabic
+religion = sunni
+capital = "Jerusalem"
+trade_goods = sugar
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 3
+is_city = yes
+
+discovered_by = global
+
+1948.5.14 = {
+	remove_core = GBR
+	owner = X31
+	controller = X31
+} #The State of Israel is declared.

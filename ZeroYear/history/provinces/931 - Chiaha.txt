@@ -1,0 +1,16 @@
+#931 - Chiaha
+
+owner = USA
+controller = USA
+add_core = USA
+culture = creek
+religion = totemism
+capital = "Chiaha"
+trade_goods = fur
+hre = no
+base_tax = 2
+base_production = 2
+base_manpower = 1
+is_city = yes
+
+discovered_by = global

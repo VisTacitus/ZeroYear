@@ -1,0 +1,24 @@
+#4236 - Trencin
+
+owner = BOH
+controller = BOH
+add_core = BOH
+add_core = SLO
+culture = slovak
+religion = catholic
+capital = "Trencin"
+trade_goods = iron
+hre = no
+base_tax = 2
+base_production = 3
+base_manpower = 1
+is_city = yes
+fort_15th = yes #Trencin Castle
+
+discovered_by = global
+
+1993.1.1 = {
+	remove_core = BOH
+	owner = SLO
+	controller = SLO
+} #Breakup of Czechoslovakia.

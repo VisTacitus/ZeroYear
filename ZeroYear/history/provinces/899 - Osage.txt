@@ -1,0 +1,16 @@
+#899 - Osage
+
+owner = USA
+controller = USA
+add_core = USA
+is_city = yes
+culture = osage
+religion = totemism
+capital = "Pahatsi"
+trade_goods = grain
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+
+discovered_by = global

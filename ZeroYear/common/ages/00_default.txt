@@ -1,0 +1,38 @@
+# Ages:
+#  - Containment (1945-1955)
+#  - Crisis (1955-1965)
+#  - Detente (1965-1985)
+#  - Collapse (1985-1990)
+#  - New World Order (1990-2000)
+#  - Globalization (2000-2020)
+#  - Unrest (2020-2040)
+#  - Future (2040-2100)
+
+era_of_containment = {
+	start = 1945
+	
+	can_start = {
+		exists = USA
+		exists = SOV
+	}
+	
+	objectives = {
+		obj_found_nato = {
+			allow = {
+				tag = USA
+			}
+			USA = {
+				alliance_with = GBR
+				alliance_with = FRA
+				alliance_with = ITA
+				alliance_with = POR
+				alliance_with = LUX
+				alliance_with = X03
+				alliance_with = NED
+				alliance_with = DAN
+				alliance_with = ICE
+				alliance_with = NOR
+			}
+		}
+	}
+}

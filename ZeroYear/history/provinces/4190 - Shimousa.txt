@@ -1,0 +1,23 @@
+#4190 - Shimousa
+
+owner = USA
+controller = USA
+add_core = USA
+add_core = JAP
+culture = togoku
+religion = shinto
+capital = "Sakura"
+trade_goods = fish
+hre = no
+base_tax = 2
+base_manpower = 2
+base_production = 1
+is_city = yes
+
+discovered_by = global
+
+1952.4.28 = {
+	remove_core = USA
+	owner = JAP
+	controller = JAP
+} #The San Francisco Peace Treaty is signed.

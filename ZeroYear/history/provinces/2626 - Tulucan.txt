@@ -1,0 +1,16 @@
+# No previous file for Tulucan
+
+owner = MEX
+controller = MEX
+add_core = MEX
+culture = aztek
+is_city = yes
+religion = nahuatl
+capital = "Tolluca"
+trade_goods = gold
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 1
+
+discovered_by = global

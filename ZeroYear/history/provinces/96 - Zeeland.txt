@@ -1,0 +1,16 @@
+# 96 Zeeland - Principal cities: Middelburg, Vlissingen & Zierikzee
+
+owner = NED
+controller = NED
+add_core = NED
+is_city = yes
+capital = "Middelburg"
+culture = dutch
+religion = catholic
+hre = yes
+base_tax = 5
+base_production = 5
+trade_goods = salt
+base_manpower = 1
+
+discovered_by = global

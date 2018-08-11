@@ -1,0 +1,16 @@
+#73 - Tirol
+
+owner = FRA
+controller = FRA
+add_core = AUS
+culture = austrian
+religion = catholic
+base_tax = 4
+base_production = 4
+trade_goods = gold
+base_manpower = 2
+capital = "Innsbruck" 
+is_city = yes
+hre = no
+fort_15th = yes
+discovered_by = global

@@ -1,0 +1,23 @@
+#404 - Liwa
+
+owner = GBR
+controller = GBR
+add_core = GBR
+add_core = X80
+culture = gulf_arabic
+religion = sunni
+capital = "Liwa"
+trade_goods = spices #Dates
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+is_city = yes
+
+discovered_by = global
+
+1971.12.2 = {
+	remove_core = GBR
+	owner = X80
+	controller = X80
+} #Independence is granted to the UAE by the United Kingdom.

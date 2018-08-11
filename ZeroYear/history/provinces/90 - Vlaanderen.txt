@@ -1,0 +1,16 @@
+# 90 Vlaanderen - Principal cities: Brugge
+
+owner = X03
+controller = X03
+add_core = X03
+is_city = yes
+capital = "Brugge"
+culture = flemish
+religion = catholic
+hre = no
+base_tax = 6 
+base_production = 6
+trade_goods = cloth
+base_manpower = 3
+
+discovered_by = global

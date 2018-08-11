@@ -1,0 +1,16 @@
+#4120 - Kildare
+
+owner = IRE
+controller = IRE
+add_core = IRE
+culture = irish
+religion = catholic
+hre = no
+base_tax = 3
+base_production = 3
+trade_goods = grain
+base_manpower = 3
+capital = "Naas"
+is_city = yes
+add_core = KID
+discovered_by = global

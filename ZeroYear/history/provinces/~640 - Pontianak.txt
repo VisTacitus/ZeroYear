@@ -1,0 +1,15 @@
+#640 - Pontianak
+
+owner = NED
+controller = NED
+add_core = X78
+culture = bornean
+religion = sunni
+capital = "Pontianak"
+trade_goods = unknown
+hre = no
+base_tax = 5
+base_production = 5
+base_manpower = 3
+
+discovered_by = global

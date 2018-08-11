@@ -1,0 +1,17 @@
+#387 - Mocha
+
+owner = GBR
+controller = GBR
+add_core = X35
+add_core = YEM
+culture = yemeni_culture
+religion = sunni
+capital = "Al Mukha"
+trade_goods = coffee
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 2
+is_city = yes
+
+discovered_by = global

@@ -1,0 +1,17 @@
+#695 - Hebei
+
+owner = X74
+controller = X74
+add_core = X74
+add_core = X75
+culture = chihan
+religion = confucianism
+capital = "Hejian"
+trade_goods = salt
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 2
+is_city = yes
+
+discovered_by = global

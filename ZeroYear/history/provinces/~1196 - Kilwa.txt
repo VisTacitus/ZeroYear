@@ -1,0 +1,17 @@
+#1196 - Kilwa
+
+owner = GBR
+controller = GBR
+add_core = GBR
+add_core = Y17
+culture = swahili
+religion = sunni
+capital = "Kilwa Kisiwani"
+is_city = yes
+base_manpower = 2
+trade_goods = gold
+hre = no
+base_tax = 4
+base_production = 4
+
+discovered_by = global

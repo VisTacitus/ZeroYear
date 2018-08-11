@@ -1,0 +1,15 @@
+#Lappland
+
+add_core = SWE
+owner = SWE
+controller = SWE
+capital = "Jokkmokk"
+culture = sapmi
+religion = catholic
+hre = no
+base_tax = 1 
+base_production = 1
+trade_goods = unknown
+base_manpower = 1
+
+discovered_by = global

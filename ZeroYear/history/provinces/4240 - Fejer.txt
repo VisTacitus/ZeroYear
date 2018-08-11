@@ -1,0 +1,16 @@
+#4240 - Fejér (Fejér + Veszprém + Györ + parts of Komárom)
+
+owner = HUN
+controller = HUN
+add_core = HUN
+culture = hungarian
+religion = catholic
+capital = "Budapest"
+trade_goods = livestock
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 2
+is_city = yes
+
+discovered_by = global

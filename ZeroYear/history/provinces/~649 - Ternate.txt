@@ -1,0 +1,16 @@
+#649 - Ternate
+
+owner = NED
+controller = NED
+add_core = X78
+culture = moluccan
+religion = animism
+capital = "Ternate"
+trade_goods = spices
+hre = no
+base_tax = 5
+base_production = 5
+base_manpower = 3
+is_city = yes
+
+discovered_by = global

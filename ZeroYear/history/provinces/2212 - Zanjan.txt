@@ -1,0 +1,16 @@
+#2212 - Zanjan
+
+owner = PER
+controller = PER
+add_core = PER
+culture = azerbaijani
+religion = shiite
+capital = "Zanjan"
+trade_goods = spices
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 1
+is_city = yes
+
+discovered_by = global

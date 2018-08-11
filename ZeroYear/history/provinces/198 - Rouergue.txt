@@ -1,0 +1,16 @@
+# 198 Rouergue - Principal cities: Rodez
+
+owner = FRA
+controller = FRA
+add_core = FRA
+capital = "Rodez"
+is_city = yes
+culture = occitain
+religion = catholic
+hre = no
+base_tax = 3
+base_production = 3
+trade_goods = livestock
+base_manpower = 2
+
+discovered_by = global

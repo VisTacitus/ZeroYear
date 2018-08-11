@@ -1,0 +1,23 @@
+#2340 - Grane
+
+owner = GBR
+controller = GBR
+add_core = GBR
+add_core = X79
+culture = gulf_arabic
+religion = sunni
+capital = "Grane" #old name for Kuwait
+trade_goods = fish
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+is_city = yes
+
+discovered_by = global
+
+1961.6.19 = {
+	remove_core = GBR
+	owner = X79
+	controller = X79
+} #End of Kuwaiti treaties with the United Kingdom.
