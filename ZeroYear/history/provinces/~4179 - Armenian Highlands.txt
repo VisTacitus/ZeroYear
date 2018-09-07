@@ -1,0 +1,7 @@
+#4179 - Armenian Highland (incl Mount Ararat)
+
+owner = TUR
+controller = TUR
+add_core = TUR
+
+discovered_by = global

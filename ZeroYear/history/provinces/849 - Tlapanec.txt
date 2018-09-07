@@ -3,7 +3,7 @@
 owner = MEX
 controller = MEX
 add_core = MEX
-culture = tlapanec
+culture = native_latin_american_minor
 religion = nahuatl
 capital = "Acapulco"
 trade_goods = gold

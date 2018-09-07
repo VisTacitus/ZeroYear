@@ -1,0 +1,23 @@
+#339 - Bejaia
+
+owner = FRA
+controller = FRA
+add_core = FRA
+add_core = ALG 
+culture = berber
+religion = sunni
+capital = "Bejaia"
+trade_goods = iron
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 2
+is_city = yes
+
+discovered_by = global
+
+1962.7.3 = {
+	remove_core = FRA
+	owner = ALG
+	controller = ALG
+} #Algeria gains independence from France after a colonial war.

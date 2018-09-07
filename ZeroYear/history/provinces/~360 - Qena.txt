@@ -1,0 +1,16 @@
+#360 - Qus & Qena
+
+owner = EGY
+controller = EGY
+add_core = EGY
+culture = al_misr_arabic
+religion = sunni
+capital = "Qus"
+trade_goods = livestock
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+is_city = yes
+
+discovered_by = global

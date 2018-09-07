@@ -3,6 +3,6 @@
 owner = CHL
 controller = CHL
 add_core = CHL
-culture = mapuche
+culture = white_spanish
 
 discovered_by = global

@@ -1,0 +1,16 @@
+#1979 - Färöarna
+
+owner = DAN
+controller = DAN
+add_core = DAN
+culture = norwegian
+religion = catholic
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+trade_goods = fish
+capital = "Torshavn"
+is_city = yes
+
+discovered_by = global

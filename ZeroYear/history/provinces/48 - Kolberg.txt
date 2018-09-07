@@ -3,7 +3,7 @@
 owner = POL
 controller = POL
 add_core = POL
-culture = pommeranian
+culture = german
 religion = catholic
 hre = no
 base_tax = 3 

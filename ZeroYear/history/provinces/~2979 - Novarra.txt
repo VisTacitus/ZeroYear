@@ -1,0 +1,18 @@
+# - Novara
+
+owner = ITA
+controller = ITA
+add_core = ITA
+culture = lombard
+religion = catholic
+hre = no
+base_tax = 7
+base_production = 7
+trade_goods = grain
+base_manpower = 5
+capital = "Novara"
+is_city = yes	# Estimated
+
+
+
+discovered_by = global

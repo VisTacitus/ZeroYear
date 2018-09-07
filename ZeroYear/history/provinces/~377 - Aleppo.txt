@@ -1,0 +1,24 @@
+#377 - Aleppo
+
+owner = FRA
+controller = FRA
+add_core = FRA
+add_core = SYR
+culture = al_suryah_arabic
+religion = sunni
+capital = "Halab"
+trade_goods = silk
+hre = no
+base_tax = 9
+base_production = 9
+base_manpower = 4
+is_city = yes
+fort_15th = yes
+
+discovered_by = global
+
+1946.4.17 = {
+	remove_core = FRA
+	owner = SYR
+	controller = SYR
+} #Syria is granted independence by France.

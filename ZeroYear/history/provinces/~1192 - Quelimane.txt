@@ -1,0 +1,23 @@
+#1192 - Quelimane
+
+owner = POR
+controller = POR
+add_core = POR
+add_core = Y19
+culture = nyasa
+religion = sunni
+capital = "Quelimane"
+is_city = yes
+base_manpower = 1
+trade_goods = ivory
+hre = no
+base_tax = 3
+base_production = 3
+
+discovered_by = global
+
+1975.6.25 = {
+	remove_core = POR
+	owner = Y19
+	controller = Y19
+} #Mozambique is granted independence.

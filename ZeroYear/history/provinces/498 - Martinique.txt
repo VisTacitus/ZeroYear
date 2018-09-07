@@ -2,8 +2,9 @@
 
 owner = FRA
 controller = FRA
+add_core = FRA
 add_core = X69
-culture = carib
+culture = black_french
 religion = animism
 capital = "Martinique"
 trade_goods = unknown

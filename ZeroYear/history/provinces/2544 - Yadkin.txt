@@ -3,7 +3,7 @@
 owner = USA
 controller = USA
 add_core = USA
-culture = catawba
+culture = african_american
 religion = totemism
 capital = "Yadkin"
 trade_goods = unknown

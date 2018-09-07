@@ -3,7 +3,7 @@
 owner = POL
 controller = POL
 add_core = POL
-culture = byelorussian
+culture = polish
 religion = catholic
 hre = no
 trade_goods = livestock

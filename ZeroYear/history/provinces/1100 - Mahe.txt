@@ -5,6 +5,7 @@ controller = GBR
 add_core = GBR
 add_core = Y27
 capital = "Mahe"
+culture = black_french
 trade_goods = unknown
 hre = no
 base_tax = 2 

@@ -4,5 +4,6 @@ owner = ITA
 controller = ITA
 capital = "Susa"
 is_city = yes
+culture = french
 
 discovered_by = global

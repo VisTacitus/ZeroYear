@@ -3,5 +3,6 @@
 owner = NAJ
 controller = NAJ
 add_core = NAJ
+culture = shia_arab
 
 discovered_by = global

@@ -894,8 +894,20 @@ on_dismantle_revolution = {
 	}
 }
 
-# province
+# province - Additional Information. THIS = province
 on_adm_development = {
+	limit = {
+		ai = no
+	}
+	THIS = { add_base_tax = -1 }
+	THIS = {
+		owner = { add_adm_power = 5 }
+	}
+	events = {
+		THIS = {
+			province_event = { id = province_ui.1 }
+		}
+	}
 }
 
 # province

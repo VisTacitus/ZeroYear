@@ -2,7 +2,7 @@
 
 owner = USA
 controller = USA
-culture = austrian
+culture = german
 religion = catholic
 capital = "Salzburg"
 trade_goods = salt

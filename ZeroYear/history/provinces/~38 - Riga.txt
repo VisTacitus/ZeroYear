@@ -1,0 +1,23 @@
+#Riga Bight, incl. the city of Riga, and Dünamünde.
+
+owner = SOV
+controller = SOV
+add_core = X10
+culture = prussian
+religion = catholic
+hre = no
+base_tax = 5 
+base_production = 5
+trade_goods = naval_supplies
+base_manpower = 1
+capital = "Riga"
+is_city = yes
+fort_15th = yes
+
+discovered_by = global
+
+1991.8.21 = {
+	remove_core = SOV
+	owner = X10
+	controller = X10
+} #Latvia gains de-facto independence from the Soviet Union.

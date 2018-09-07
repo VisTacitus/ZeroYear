@@ -1,0 +1,162 @@
+namespace = province_ui
+
+########################################
+# Province Interface - To Be Used as a Great Example
+########################################
+
+# Test GUI
+province_event = {
+	id = province_ui.1
+	title = "province_ui.1.title"
+	desc = "province_ui.1.desc"
+	picture = BANKRUPTCY_eventPicture
+	
+	is_triggered_only = yes
+	
+	fire_only_once = no
+	
+	trigger = {
+	}
+	
+	immediate = {
+	}
+	
+	option = {	#Develop Province
+		name = "province_ui.1.o1"
+		ai_chance = { factor = 50 }
+		PREV = {
+			province_event = { id = province_ui.4 }
+		}
+	}
+	option = {	#Recruit Units
+		name = "province_ui.1.o2"
+		ai_chance = { factor = 50 }
+		PREV = {
+			province_event = { id = province_ui.2 }
+		}
+	}
+	option = {	#Back
+		name = "province_ui.1.o9"
+		ai_chance = { factor = 0 }
+	}
+	
+}
+province_event = {
+	id = province_ui.2
+	title = "province_ui.2.title"
+	desc = "province_ui.2.desc"
+	picture = BANKRUPTCY_eventPicture
+	
+	is_triggered_only = yes
+	
+	fire_only_once = no
+	
+	trigger = {
+	}
+	
+	immediate = {
+	}
+
+	option = {	#Gain Units
+		name = "province_ui.2.o1"
+		ai_chance = { factor = 100 }
+		PREV = {
+			ROOT = {
+				british_redcoat = PREV
+			}
+		}
+	}
+}
+
+#Need adm in order to activate the GUI.
+country_event = {
+	id = province_ui.3
+	title = "province_ui.3.title"
+	desc = "province_ui.3.desc"
+	picture = BANKRUPTCY_eventPicture
+	
+	is_triggered_only = no
+	
+	fire_only_once = no
+	hidden = yes
+	
+	trigger = {
+		ai = no
+		AND = {
+			adm_power = 0
+			NOT = {
+				adm_power = 5
+			}
+		}
+	}
+	
+	immediate = {
+		ROOT = { add_adm_power = 5 }
+	}
+}
+
+#Failsafe end.
+
+province_event = {
+	id = province_ui.4
+	title = "province_ui.4.title"
+	desc = {
+		trigger = {
+			PREV = { ROOT = { adm_power = 20 } }
+		}
+		desc = "province_ui.4.desc.1"
+	}
+	desc = {
+		trigger = {
+			PREV = { ROOT = { NOT = { adm_power = 20 } } }
+		}
+		desc = "province_ui.4.desc.2"
+	}
+	picture = BANKRUPTCY_eventPicture
+	
+	is_triggered_only = yes
+	
+	fire_only_once = no
+	
+	trigger = {
+	}
+	
+	immediate = {
+	}
+	
+	option = {	#Construct Finance
+		name = "province_ui.4.o3"
+		ai_chance = { factor = 34 }
+		trigger = { 
+			PREV = { owner = { adm_power = 20  } }
+		}
+		PREV = { add_base_tax = 1 }
+		PREV = { owner = { add_adm_power = -20 } }
+	}
+	
+	option = {	#Construct Industry
+		name = "province_ui.4.o3"
+		ai_chance = { factor = 34 }
+		trigger = { 
+			PREV = { owner = { adm_power = 20  } }
+		}
+		PREV = { add_base_production = 1 }
+		PREV = { owner = { add_dip_power = -20 } }
+	}
+	
+	option = {	#Construct Housing
+		name = "province_ui.4.o3"
+		ai_chance = { factor = 34 }
+		trigger = { 
+			PREV = { owner = { adm_power = 20  } }
+		}
+		PREV = { add_base_manpower = 1 }
+		PREV = { owner = { add_mil_power = -20 } }
+	}
+	
+	option = {	#Back to Province Menu
+		name = "province_ui.4.o4"
+		ai_chance = { factor = 0 }
+		province_event = { id = province_ui.1 }
+	}
+}

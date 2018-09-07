@@ -3,7 +3,7 @@
 owner = SWI
 controller = SWI
 add_core = SWI
-culture = swiss
+culture = italian
 religion = catholic
 capital = "Schwyz"
 trade_goods = iron

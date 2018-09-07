@@ -1,0 +1,16 @@
+#2320 - Ras Gharib
+
+owner = EGY
+controller = EGY
+add_core = EGY
+culture = al_misr_arabic
+religion = sunni
+capital = "Ras Gharib"
+trade_goods = fish
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+is_city = yes
+
+discovered_by = global

@@ -3,7 +3,7 @@
 owner = USA
 controller = USA
 add_core = USA
-culture = cherokee
+culture = anglo_american
 religion = totemism
 capital = "Cheraw"
 trade_goods = tobacco

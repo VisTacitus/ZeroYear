@@ -3,7 +3,7 @@
 owner = PEU
 controller = PEU
 add_core = PEU
-culture = chachapoyan
+culture = native_latin_american_minor
 religion = inti
 capital = "Kuelap"
 trade_goods = grain

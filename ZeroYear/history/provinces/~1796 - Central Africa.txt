@@ -1,0 +1,22 @@
+# - Waddai
+
+owner = FRA
+controller = FRA
+add_core = FRA
+add_core = Y09
+culture = nubian 
+religion = shamanism #Fetishism
+capital = "Bangui"
+trade_goods = unknown
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+
+discovered_by = global
+
+1960.8.13 = {
+	remove_core = FRA
+	owner = Y09
+	controller = Y09
+} #The Central African Republic gains its' independence.

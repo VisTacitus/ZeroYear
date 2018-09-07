@@ -1,0 +1,16 @@
+#1746 - Burgos
+
+owner = SPA
+controller = SPA
+add_core = SPA
+culture = castillian
+religion = catholic
+hre = no
+base_tax = 5 
+base_production = 5
+trade_goods = wool 
+base_manpower = 2
+capital = "Burgos"
+is_city = yes
+
+discovered_by = global

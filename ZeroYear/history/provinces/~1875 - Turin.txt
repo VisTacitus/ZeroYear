@@ -1,0 +1,19 @@
+#1875 - Cuneo (can't change filename)
+
+owner = ITA
+controller = ITA
+add_core = ITA
+culture = piedmontese
+religion = catholic
+hre = no
+base_tax = 5 
+base_production = 5
+trade_goods = grain
+base_manpower = 5
+fort_15th = yes #Cittadellla of Alessandria
+capital = "Cuneo"
+is_city = yes
+
+
+
+discovered_by = global

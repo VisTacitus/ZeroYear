@@ -3,7 +3,7 @@
 owner = X49
 controller = X49
 add_core = X49
-culture = cara
+culture = mestizo
 religion = inti
 capital = "Guayaquil"
 is_city = yes
@@ -12,7 +12,5 @@ hre = no
 base_tax = 3 
 base_production = 2
 base_manpower = 1
-add_core = QTO
-extra_cost = 10
 
 discovered_by = global

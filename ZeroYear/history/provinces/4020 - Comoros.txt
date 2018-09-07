@@ -3,7 +3,7 @@
 owner = FRA
 controller = FRA
 add_core = FRA
-culture = madagasque #Malagasy
+culture = comore
 religion = sunni
 capital = "Ndzuwani"
 trade_goods = unknown

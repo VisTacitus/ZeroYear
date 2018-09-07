@@ -1,0 +1,23 @@
+#Basoga
+
+owner = GBR
+controller = GBR
+add_core = GBR
+add_core = Y13
+culture = masaba
+religion = shamanism #Fetishism
+capital = "Bukaleeba"
+trade_goods = fish
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 3
+is_city = yes
+
+discovered_by = global
+
+1962.10.9 = {
+	remove_core = GBR
+	owner = Y13
+	controller = Y13
+} #Uganda gains its' independence from the United Kingdom.

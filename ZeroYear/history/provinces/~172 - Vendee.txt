@@ -1,0 +1,16 @@
+# 172 Vendée - Principal cities: Nantes
+
+owner = FRA
+controller = FRA
+add_core = FRA
+capital = "Nantes"
+is_city = yes
+culture = breton
+religion = catholic
+hre = no
+base_tax = 4
+base_production = 4
+trade_goods = salt
+base_manpower = 4
+
+discovered_by = global

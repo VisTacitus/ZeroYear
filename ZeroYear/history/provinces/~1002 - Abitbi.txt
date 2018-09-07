@@ -1,0 +1,15 @@
+#1002 - Abitbi
+
+owner = CAN
+controller = CAN
+add_core = CAN
+culture = anglo_canadian
+religion = totemism
+capital = "Abitbi"
+trade_goods = fur
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+
+discovered_by = global

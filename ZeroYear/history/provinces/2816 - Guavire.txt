@@ -3,11 +3,7 @@
 owner = COL
 controller = COL
 add_core = COL
-culture = guajiro
-
-discovered_by = global
-discovered_by = MCA
-
+culture = native_latin_american_minor
 religion = animism
 capital = "Guaviare"
 trade_goods = unknown

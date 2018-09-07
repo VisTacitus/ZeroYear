@@ -3,7 +3,7 @@
 owner = MEX
 controller = MEX
 add_core = MEX
-culture = chichimecan
+culture = mestizo
 religion = nahuatl
 capital = "Cotoname"
 trade_goods = unknown

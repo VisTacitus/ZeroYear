@@ -1,0 +1,21 @@
+# 1743 Cambray
+
+latent_trade_goods = {
+	coal
+}
+
+owner = FRA
+controller = FRA
+add_core = FRA
+capital = "Cambray"
+is_city = yes
+estate = estate_church
+culture = wallonian
+religion = catholic
+hre = no
+base_tax = 5 
+base_production = 5
+trade_goods = grain
+base_manpower = 2
+
+discovered_by = global

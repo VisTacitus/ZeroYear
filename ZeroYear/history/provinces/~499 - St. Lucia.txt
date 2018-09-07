@@ -1,0 +1,15 @@
+#499 - St. Lucia
+
+owner = GBR
+controller = GBR
+add_core = X65
+culture = black_anglo
+religion = animism
+capital = "St. Lucia"
+trade_goods = unknown
+hre = no
+base_tax = 4 
+base_production = 5
+base_manpower = 1
+
+discovered_by = global

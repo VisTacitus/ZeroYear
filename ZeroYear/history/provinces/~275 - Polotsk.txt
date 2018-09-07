@@ -1,0 +1,24 @@
+#275 - Polotsk
+
+owner = SOV
+controller = SOV
+add_core = SOV
+add_core = X09
+culture = byelorussian
+religion = orthodox 
+hre = no
+base_tax = 4
+base_production = 4
+trade_goods = iron
+base_manpower = 1
+capital = "Polotsk"
+is_city = yes 
+fort_15th = yes
+
+discovered_by = global
+
+1991.12.26 = {
+	remove_core = SOV
+	owner = X09
+	controller = X09
+} #Belarus granted independence from the Soviet Union.

@@ -3,7 +3,7 @@
 owner = USA
 controller = USA
 add_core = USA
-culture = cheyenne
+culture = anglo_american
 religion = totemism
 capital = "Makoua"
 trade_goods = fur

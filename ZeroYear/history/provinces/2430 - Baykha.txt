@@ -3,7 +3,7 @@
 owner = SOV
 controller = SOV
 add_core = SOV
-culture = samoyed
+culture = russian
 religion = tengri_pagan_reformed #Sami Shamanism
 capital = "Troitskiy"
 trade_goods = unknown

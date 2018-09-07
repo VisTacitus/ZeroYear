@@ -1,0 +1,24 @@
+#343 - Fez
+
+owner = FRA
+controller = FRA
+add_core = FRA
+add_core = MOR
+culture = moroccan
+religion = sunni
+capital = "Fez"
+trade_goods = cloth
+hre = no
+base_tax = 5
+base_production = 5
+base_manpower = 3
+is_city = yes
+fort_15th = yes
+
+discovered_by = global
+
+1956.4.7 = {
+	remove_core = FRA
+	owner = MOR
+	controller = MOR
+} #France relinquishes control of Morocco.

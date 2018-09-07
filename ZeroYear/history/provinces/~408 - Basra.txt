@@ -1,0 +1,16 @@
+#408 - Basra
+
+owner = IRQ
+controller = IRQ
+add_core = IRQ
+culture = al_iraqiya_arabic
+religion = shiite
+capital = "Basra"
+trade_goods = salt
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 5
+is_city = yes
+
+discovered_by = global

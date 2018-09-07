@@ -3,7 +3,7 @@
 owner = PER
 controller = PER
 add_core = PER
-culture = luri
+culture = persian
 religion = sunni
 capital = "Kazerun"
 trade_goods = wine #and cotton and Dates

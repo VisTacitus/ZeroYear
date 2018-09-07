@@ -3,7 +3,7 @@
 owner = CHL
 controller = CHL
 add_core = CHL
-culture = patagonian
+culture = white_spanish
 religion = animism
 capital = "Alacaluf"
 trade_goods = unknown

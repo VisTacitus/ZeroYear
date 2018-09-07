@@ -1,0 +1,16 @@
+#1247 - Corsica
+
+owner = FRA
+controller = FRA
+add_core = FRA
+culture = sardinian
+religion = catholic
+capital = "Bastia"
+hre = no
+base_tax = 3 
+base_production = 3
+trade_goods = naval_supplies
+base_manpower = 2
+is_city = yes
+
+discovered_by = global

@@ -1,0 +1,29 @@
+# - Greifswald
+
+owner = SOV
+controller = SOV
+add_core = GER
+add_core = X26
+culture = pommeranian
+religion = catholic
+hre = no
+base_tax = 2
+base_production = 2
+trade_goods = salt
+base_manpower = 2
+capital = "Greifswald"
+is_city = yes
+
+discovered_by = global
+
+1945.9.1 = { add_core = SOV } #Paritioning of Germany. Germany is too worn out.
+1949.5.23 = {
+	remove_core = SOV
+	owner = X26
+	controller = X26
+} #Formation of Eest Germany.
+1990.10.3 = {
+	remove_core = X26
+	owner = GER
+	controller = GER
+} #Formation of the Federal Republic of Germany.

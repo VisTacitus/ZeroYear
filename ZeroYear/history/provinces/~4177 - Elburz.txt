@@ -1,0 +1,7 @@
+#4177 - Elburz Mountains
+
+owner = PER
+controller = PER
+add_core = PER
+
+discovered_by = global

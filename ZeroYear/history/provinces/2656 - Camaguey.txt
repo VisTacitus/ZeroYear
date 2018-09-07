@@ -3,7 +3,7 @@
 owner = X60
 controller = X60
 add_core = X60
-culture = arawak
+culture = white_spanish
 religion = animism
 capital = "Camaguey"
 trade_goods = unknown

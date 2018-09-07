@@ -1,0 +1,16 @@
+#2217 - Yasuj
+
+owner = PER
+controller = PER
+add_core = PER
+culture = luri
+religion = shiite
+capital = "Yasuj"
+trade_goods = cloth
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+is_city = yes
+
+discovered_by = global

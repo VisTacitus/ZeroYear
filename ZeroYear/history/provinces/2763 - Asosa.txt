@@ -3,7 +3,7 @@
 owner = ETH
 controller = ETH
 add_core = ETH
-culture = amhara 
+culture = african_minor 
 religion = coptic
 capital = "Assosa"
 is_city = yes

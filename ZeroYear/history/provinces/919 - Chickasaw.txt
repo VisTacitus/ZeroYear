@@ -3,7 +3,7 @@
 owner = USA
 controller = USA
 add_core = USA
-culture = chickasaw
+culture = african_american
 religion = totemism
 capital = "Chickasaw"
 trade_goods = grain

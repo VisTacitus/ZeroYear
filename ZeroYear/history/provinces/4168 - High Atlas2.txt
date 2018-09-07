@@ -4,6 +4,7 @@ owner = FRA
 controller = FRA
 add_core = FRA
 add_core = MOR
+culture = berber
 
 discovered_by = global
 

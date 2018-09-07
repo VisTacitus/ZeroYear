@@ -3,7 +3,7 @@
 owner = USA
 controller = USA
 add_core = USA
-culture = pawnee
+culture = anglo_american
 religion = totemism
 capital = "Arikara"
 trade_goods = unknown

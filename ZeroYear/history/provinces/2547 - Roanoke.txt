@@ -3,7 +3,7 @@
 owner = USA
 controller = USA
 add_core = USA
-culture = powhatan
+culture = anglo_american
 religion = totemism
 capital = "Nanticoke"
 trade_goods = unknown

@@ -1,0 +1,23 @@
+#273 - Latgalia / Inflanty Duchy
+
+owner = SOV
+controller = SOV
+add_core = X10
+culture = latvian
+religion = catholic
+capital = "Daugavplis"
+fort_15th = yes #Dünaburg
+trade_goods = livestock
+hre = no
+base_tax = 2 
+base_production = 2
+base_manpower = 1
+is_city = yes
+
+discovered_by = global
+
+1991.8.21 = {
+	remove_core = SOV
+	owner = X10
+	controller = X10
+} #Latvia gains de-facto independence from the Soviet Union.

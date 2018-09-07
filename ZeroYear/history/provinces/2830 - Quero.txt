@@ -3,7 +3,7 @@
 owner = PEU
 controller = PEU
 add_core = PEU
-culture = inca
+culture = aimara
 religion = inti
 capital = "Quero"
 trade_goods = wool

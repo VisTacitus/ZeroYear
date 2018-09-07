@@ -3,7 +3,7 @@
 owner = USA
 controller = USA
 add_core = USA
-culture = caddo
+culture = african_american
 religion = totemism
 capital = "Natchitoches"
 trade_goods = unknown

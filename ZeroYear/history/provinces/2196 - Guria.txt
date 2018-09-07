@@ -3,7 +3,7 @@
 owner = TUR
 controller = TUR
 add_core = TUR
-culture = georgian
+culture = turkish
 religion = orthodox
 capital = "Batumi"
 trade_goods = fish

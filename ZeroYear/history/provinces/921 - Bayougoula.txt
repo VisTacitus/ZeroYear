@@ -3,7 +3,7 @@
 owner = USA
 controller = USA
 add_core = USA
-culture = choctaw
+culture = anglo_american
 religion = totemism
 capital = "Bayougoula"
 trade_goods = unknown

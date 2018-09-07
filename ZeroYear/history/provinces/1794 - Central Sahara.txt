@@ -4,6 +4,7 @@ owner = FRA
 controller = FRA
 add_core = FRA
 add_core = ALG 
+culture = tuareg
 
 discovered_by = global
 

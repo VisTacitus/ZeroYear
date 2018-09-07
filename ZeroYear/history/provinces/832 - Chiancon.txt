@@ -3,7 +3,7 @@
 owner = COL
 controller = COL
 add_core = COL
-culture = muisca
+culture = mestizo
 religion = inti
 capital = "Tunja"
 is_city = yes

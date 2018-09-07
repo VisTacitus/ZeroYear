@@ -3,7 +3,7 @@
 owner = SWI
 controller = SWI
 add_core = SWI
-culture = swiss
+culture = french
 religion = catholic
 capital = "Geneve"
 trade_goods = livestock

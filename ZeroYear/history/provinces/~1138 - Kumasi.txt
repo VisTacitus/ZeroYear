@@ -1,0 +1,22 @@
+#1138 - Kumasi
+
+owner = GBR
+controller = GBR
+add_core = GBR
+add_core = X98
+culture = aka
+base_manpower = 1
+religion = shamanism #Fetishism
+capital = "Akyem Kotoko"
+trade_goods = gold
+hre = no
+base_tax = 4 
+base_production = 4
+
+discovered_by = global
+
+1957.3.6 = {
+	remove_core = GBR
+	owner = X98
+	controller = X98
+} #Ghana declares independence from the UK.

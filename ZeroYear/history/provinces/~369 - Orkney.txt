@@ -1,0 +1,17 @@
+#369 - Orkney
+
+owner = GBR
+controller = GBR
+add_core = GBR
+add_core = SCO
+culture = norwegian
+religion = catholic
+hre = no
+base_tax = 1 
+base_production = 1
+trade_goods = fish
+base_manpower = 1
+capital = "Kirkwall"
+is_city = yes
+
+discovered_by = global

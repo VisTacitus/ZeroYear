@@ -3,7 +3,7 @@
 owner = CAN
 controller = CAN
 add_core = CAN
-culture = cree
+culture = anglo_canadian
 religion = totemism
 capital = "Kesyehotinne"
 trade_goods = unknown

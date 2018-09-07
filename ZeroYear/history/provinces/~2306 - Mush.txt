@@ -1,0 +1,16 @@
+#2306 - Mush
+
+owner = TUR
+controller = TUR
+add_core = TUR
+culture = armenian
+religion = coptic
+capital = "Mus"
+trade_goods = wool
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 3
+is_city = yes
+
+discovered_by = global

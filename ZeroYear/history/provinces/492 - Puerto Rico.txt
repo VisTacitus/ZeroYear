@@ -3,7 +3,7 @@
 owner = USA
 controller = USA
 add_core = USA
-culture = arawak
+culture = white_spanish
 religion = animism
 capital = "Puerto Rico"
 trade_goods = unknown 

@@ -3,7 +3,7 @@
 owner = USA
 controller = USA
 add_core = USA
-culture = susquehannock
+culture = anglo_american
 religion = totemism
 capital = "Monongahela"
 trade_goods = unknown

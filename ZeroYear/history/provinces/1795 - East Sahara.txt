@@ -4,6 +4,7 @@ owner = GBR
 controller = GBR
 add_core = GBR
 add_core = TRP
+culture = sunni_arab
 
 discovered_by = global
 

@@ -3,8 +3,8 @@
 owner = EGY
 controller = EGY
 add_core = EGY
-culture = nubian
-religion = sunni #To represent tenous hold over the province.
+culture = sunni_arab
+religion = sunni
 capital = "Qasr Ibrim"
 is_city = yes
 base_manpower = 2

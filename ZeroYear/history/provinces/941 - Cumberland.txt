@@ -3,7 +3,7 @@
 owner = USA
 controller = USA
 add_core = USA
-culture = shawnee
+culture = anglo_american
 religion = totemism
 capital = "Cumberland"
 trade_goods = fur

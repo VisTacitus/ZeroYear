@@ -1,0 +1,23 @@
+#1771 - Erz
+
+owner = BOH
+controller = BOH
+add_core = BOH
+capital = "Litomerice"
+culture = czech
+religion = catholic
+trade_goods = glass 
+hre = no
+base_tax = 5 
+base_production = 5
+base_manpower = 3
+is_city = yes
+
+discovered_by = global
+
+1993.1.1 = {
+	remove_core = BOH
+	add_core = X28
+	owner = X28
+	controller = X28
+} #Breakup of Czechoslovakia.

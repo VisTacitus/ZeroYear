@@ -1,0 +1,16 @@
+#2305 - Erzincan
+
+owner = TUR
+controller = TUR
+add_core = TUR
+culture = armenian
+religion = coptic
+capital = "Erzindjan"
+trade_goods = copper
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 2
+is_city = yes
+
+discovered_by = global

@@ -3,6 +3,6 @@
 owner = PRG
 controller = PRG
 add_core = PRG
-culture = chacoan
+culture = mennonites
 
 discovered_by = global

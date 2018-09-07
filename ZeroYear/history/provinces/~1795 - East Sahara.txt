@@ -1,0 +1,14 @@
+#1795 - East Sahara
+
+owner = GBR
+controller = GBR
+add_core = GBR
+add_core = TRP
+
+discovered_by = global
+
+1951.12.24 = {
+	remove_core = GBR
+	owner = TRP
+	controller = TRP
+} #Libya is released from the British and the French.

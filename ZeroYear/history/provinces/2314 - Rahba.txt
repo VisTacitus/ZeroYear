@@ -3,7 +3,7 @@
 owner = IRQ
 controller = IRQ
 add_core = IRQ
-culture = al_iraqiya_arabic
+culture = sunni_arab
 religion = sunni
 capital = "Deir ez-Zor"
 trade_goods = grain

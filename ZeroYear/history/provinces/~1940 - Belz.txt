@@ -1,0 +1,23 @@
+#Belz
+
+owner = SOV
+controller = SOV
+add_core = SOV
+add_core = UKR
+capital= "Belz"
+culture = ruthenian
+religion = orthodox
+trade_goods = livestock
+hre = no
+base_tax = 4 
+base_production = 3
+base_manpower = 2
+is_city = yes
+
+discovered_by = global
+
+1991.8.24 = {
+	remove_core = SOV
+	owner = UKR
+	controller = UKR
+} #Ukrainian Independence is restored.

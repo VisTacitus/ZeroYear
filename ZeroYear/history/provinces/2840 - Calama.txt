@@ -3,7 +3,7 @@
 owner = CHL
 controller = CHL
 add_core = CHL
-culture = diaguita
+culture = mestizo
 religion = animism
 capital = "Calama"
 trade_goods = unknown

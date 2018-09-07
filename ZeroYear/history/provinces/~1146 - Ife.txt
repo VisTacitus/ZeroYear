@@ -1,0 +1,23 @@
+#1146 - Ife
+
+owner = GBR
+controller = GBR
+add_core = GBR
+add_core = Y01
+culture = yorumba
+religion = shamanism #Fetishism
+capital = "Ife Ile"
+is_city = yes
+base_manpower = 1
+trade_goods = glass #Ife Glass Beads
+hre = no
+base_tax = 1 
+base_production = 1
+
+discovered_by = global
+
+1960.10.1 = {
+	remove_core = GBR
+	owner = Y01
+	controller = Y01
+} #Nigeria gains its' independence and is recognized.

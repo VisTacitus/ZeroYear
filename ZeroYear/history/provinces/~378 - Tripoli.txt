@@ -1,0 +1,23 @@
+#378 - Tripoli
+
+owner = FRA
+controller = FRA
+add_core = FRA
+add_core = SYR
+culture = al_suryah_arabic
+religion = shiite
+capital = "Trablos" #Tripoli in the East.
+trade_goods = grain
+hre = no
+base_tax = 6 
+base_production = 6
+base_manpower = 4
+is_city = yes
+
+discovered_by = global
+
+1946.4.17 = {
+	remove_core = FRA
+	owner = SYR
+	controller = SYR
+} #Syria is granted independence by France.

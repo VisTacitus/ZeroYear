@@ -3,7 +3,7 @@
 owner = PER
 controller = PER
 add_core = PER
-culture = mazandarani
+culture = turkmen
 religion = shiite
 capital = "Asatarabad"
 trade_goods = tea

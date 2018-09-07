@@ -3,7 +3,7 @@
 owner = MEX
 controller = MEX
 add_core = MEX
-culture = zapotek
+culture = mestizo
 is_city = yes
 religion = nahuatl
 capital = "Zaachila"
@@ -12,9 +12,5 @@ hre = no
 base_tax = 2 
 base_production = 2
 base_manpower = 1
-native_size = 5
-add_local_autonomy = 50
-native_ferocity = 1
-native_hostileness = 2
 
 discovered_by = global

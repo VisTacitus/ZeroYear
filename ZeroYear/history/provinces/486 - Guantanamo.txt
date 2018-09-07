@@ -3,7 +3,7 @@
 owner = X60
 controller = X60
 add_core = X60
-culture = arawak
+culture = white_spanish
 religion = animism
 capital = "Guantanamo"
 trade_goods = unknown 

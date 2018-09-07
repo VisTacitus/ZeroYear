@@ -3,7 +3,7 @@
 owner = FRA
 controller = FRA
 add_core = TRP
-culture = tuareg
+culture = sunni_arab
 religion = sunni
 capital = "Tajhari"
 trade_goods = unknown

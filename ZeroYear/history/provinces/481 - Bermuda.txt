@@ -4,6 +4,7 @@ owner = GBR
 controller = GBR
 add_core = GBR
 capital = "Bermuda"
+culture = black_anglo
 trade_goods = unknown
 hre = no
 base_tax = 1

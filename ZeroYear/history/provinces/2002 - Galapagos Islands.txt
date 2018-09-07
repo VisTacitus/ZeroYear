@@ -3,7 +3,7 @@
 owner = X49
 controller = X49
 add_core = X49
-culture = guajiro
+culture = mestizo
 religion = animism
 capital = "Puerto Baquerizo Moreno"
 trade_goods = unknown

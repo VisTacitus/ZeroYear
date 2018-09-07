@@ -3,7 +3,7 @@
 owner = PEU
 controller = PEU
 add_core = PEU
-culture = inca
+culture = quechua
 religion = inti
 capital = "Pisqupampa"
 trade_goods = grain

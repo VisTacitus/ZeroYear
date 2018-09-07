@@ -3,7 +3,7 @@
 owner = ITA
 controller = ITA
 add_core = ITA
-culture = venetian 
+culture = italian
 religion = catholic 
 hre = no 
 base_tax = 10 
@@ -13,6 +13,5 @@ base_manpower = 5
 capital = "Venezia" 
 is_city = yes	# Estimated 
 shipyard = yes
-discovered_by = global
 
-extra_cost = 15
+discovered_by = global

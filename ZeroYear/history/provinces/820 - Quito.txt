@@ -3,7 +3,7 @@
 owner = X49
 controller = X49
 add_core = X49
-culture = cara
+culture = mestizo
 religion = inti
 capital = "Quito"
 is_city = yes

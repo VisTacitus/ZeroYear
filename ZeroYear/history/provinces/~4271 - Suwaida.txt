@@ -1,0 +1,23 @@
+#4271 - Suwaida
+
+owner = FRA
+controller = FRA
+add_core = FRA
+add_core = SYR
+culture = bedouin_arabic
+religion = shiite
+capital = "As-Suwayda"
+trade_goods = livestock
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+is_city = yes
+
+discovered_by = global
+
+1946.4.17 = {
+	remove_core = FRA
+	owner = SYR
+	controller = SYR
+} #Syria is granted independence by France.

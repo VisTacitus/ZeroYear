@@ -3,7 +3,7 @@
 owner = CAN
 controller = CAN
 add_core = CAN
-culture = huron
+culture = quebecois
 religion = totemism
 capital = "Stadacona"
 trade_goods = unknown
@@ -11,9 +11,5 @@ hre = no
 base_tax = 4
 base_production = 4
 base_manpower = 2
-native_size = 5
-native_ferocity = 1
-native_hostileness = 6
 
 discovered_by = global
-extra_cost = 10

@@ -2,8 +2,9 @@
 
 owner = GBR
 controller = GBR
-add_core = X67
-culture = arawak
+add_core = GBR
+add_core = X67 #Territory split between Grenada and St. Vincent and the Grenadines.
+culture = black_anglo
 religion = animism
 capital = "St. Vincent"
 trade_goods = unknown
@@ -11,8 +12,11 @@ hre = no
 base_tax = 4 
 base_production = 5
 base_manpower = 1
-native_size = 10
-native_ferocity = 6
-native_hostileness = 6
 
 discovered_by = global
+
+1974.2.7 = {
+	remove_core = GBR
+	owner = X67
+	controller = X67
+}

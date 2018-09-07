@@ -3,7 +3,7 @@
 owner = ETH
 controller = ETH
 add_core = ETH
-culture = sidamo 
+culture = nuer
 religion = shamanism #Fetishism
 capital = "Gambela"
 is_city = yes

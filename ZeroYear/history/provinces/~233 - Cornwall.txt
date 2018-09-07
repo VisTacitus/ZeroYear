@@ -1,0 +1,16 @@
+#233 - Cornwall
+
+owner = GBR
+controller = GBR
+add_core = GBR
+culture = welsh
+religion = catholic
+hre = no
+base_tax = 1
+base_production = 1
+trade_goods = copper
+base_manpower = 1
+capital = "Penryn"
+is_city = yes
+
+discovered_by = global

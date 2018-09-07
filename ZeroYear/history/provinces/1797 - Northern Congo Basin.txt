@@ -3,6 +3,7 @@ owner = X03
 controller = X03
 add_core = X03
 add_core = Y12
+culture = lingala
 
 discovered_by = global
 

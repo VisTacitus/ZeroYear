@@ -31,17 +31,22 @@ france_region = {
 		languedoc
 		auvergne
 		midi_pyrenees
+		andorra
+		corsica
 	}
 }
 
 scandinavia_region = {
 	areas = {
+		syddanmark
+		midtjylland
+		nordjylland
+		sjaelland
+		hovedstaden
 		svealand_area
 		norrland_area
 		gotaland_area
 		skaneland_area
-		jutland_area
-		denmark_area
 		finland_area
 		northern_norway
 		eastern_norway
@@ -55,47 +60,55 @@ scandinavia_region = {
 	}
 }
 
-
 low_countries_region = {
 	areas = {
-		wallonia_area
-		flanders_area
-		holland_area
+		brabant
+		holland
+		overjissel
+		frisia
+		wallonia
+		flanders
+		luxemburg
 		brabant_area
-		netherlands_area
-		frisia_area
 	}
 
 }
 
 italy_region = {
 	areas = {
-		venetia_area
-		lombardy_area
-		piedmont_area
-		tuscany_area
-		liguria_area
-		corsica_sardinia_area
-		sicily_area
-		naples_area
-		calabria_area
-		apulia_area
-		emilia_romagna_area
-		central_italy_area
+		trentino_alto_adige
+		aosta_valley
+		piedmont
+		liguria
+		lombardy
+		veneto
+		fruili_venezia_giulia
+		emilia_romagna
+		tuscany
+		sardinia
+		sicily
+		umbria
+		marche
+		abruzzo
+		molise
+		lazio
+		campania
+		basilicata
+		calabria
+		apulia
+		malta
 	}
 }
 
 north_german_region = {
 	areas = { 
-		erzgebirge_area
+		bohemia
+		moravia
 		sachsen
 		sachsen_anhalt
 		thuringia
-		neumark_area
 		brandenburg
 		berlin
-		bohemia_area
-		hinter_pommern_area
 		schleswig_holstein
 		mecklenburg_vorpommern
 		hessen
@@ -109,16 +122,22 @@ north_german_region = {
 
 south_german_region = {
 	areas = { 
-		tirol_area
-		austria_proper_area
-		inner_austria_area
-		carinthia_area
-		switzerland_area
-		upper_bavaria_area
+		vorarlberg
+		tyrol
+		salzburg
+		styria
+		carinthia
+		upper_austria
+		lower_austria
+		vienna
+		burgenland
 		romandie_area
 		baden_wurttemburg
 		bavaria
 		rheinland_pfalz
+		schweiz
+		svizerra
+		suisse
 	}
 }
 
@@ -140,6 +159,7 @@ russia_region = {
 		oka_area
 		arkhangelsk_area
 		vologda_area
+		kaliningrad
 	}
 }
 
@@ -160,19 +180,29 @@ ural_region = {
 
 iberia_region = {
 	areas = {
-		aragon_area
-		catalonia_area
-		valencia_area
-		lower_andalucia_area
-		upper_andalucia_area
-		castille_area
-		toledo_area
-		asturias_area
-		leon_area
-		alentejo_area
-		beieras_area
+		la_rioja_spain
+		navarre
+		cantabria
+		asturias
+		galicia
+		castille_leon
+		madrid
+		aragon
+		catalonia
+		andalusia
+		murcia
+		valencia
+		gibraltar
+		extremadura
+		castille_la_mancha
+		balearic_islands
 		macaronesia_area
 		basque_country
+		norte_portugal
+		centro_portugal
+		lisboa_e_vale_de_tejo
+		alentejo
+		algarve
 	}
 }
 
@@ -204,21 +234,29 @@ baltic_region = {
 		livonia_area
 		estonia_ingria_area
 		curonia_area
-		west_prussia_area
-		east_prussia_area
-		pomerelia_area
 		samogitia_area
 	}
 }
 
 poland_region = {
 	areas = {
-		wielkopolska_area
-		malopolska_area
+		west_pomerania
+		pomerania
+		greater_poland
+		lubusz
+		kuyavian_pomeranian
+		lower_silesia
+		opole
+		silesia
+		lodz
+		lesser_poland
+		subcarpathian
+		lublin
+		swietokrzyskie
+		mazovia
+		podlaskie
 		red_ruthenia_area
-		mazovia_area
-		silesia_area
-		
+		warmian_masurian
 	}
 }
 
@@ -248,24 +286,26 @@ crimea_region = {
 
 balkan_region = {
 	areas = {
-		croatia_area
-		east_adriatic_coast_area
-		bosnia_area
-		serbia_area
-		rascia_area
+		slovenia
+		croatia
+		bosnia
+		serbia
+		montenegro
+		kosovo
 		bulgaria_area
 		macedonia_area
 		northern_greece_area
 		morea_area
 		thrace_area
-		albania_area
+		albania
 	}
 }
 
 carpathia_region = {
 	areas = {
-		transdanubia_area
-		alfold_area
+		transdanubia
+		central_hungary
+		great_plain_and_north
 		slovakia_area
 		transylvania_area
 		southern_transylvania_area
@@ -1034,7 +1074,7 @@ canada_region = {
 		newfoundland_and_labrador
 		quebec
 		ontario
-		greenland_area
+		greenland
 	}
 }
 

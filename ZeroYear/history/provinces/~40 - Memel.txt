@@ -1,0 +1,27 @@
+#40 - Memel
+
+owner = SOV
+controller = SOV
+add_core = SOV
+add_core = RUS
+culture = lithuanian
+religion = catholic
+capital = "Memel"
+trade_goods = livestock
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 3
+is_city = yes
+
+discovered_by = global
+
+add_claim = GER #Rejection of the Oder-Neisse line
+1991.12.25 = {
+	remove_core = SOV
+} #The Soviet Union is dissolved and becomes the Russian Federation.
+1991.12.25 = {
+	remove_core = SOV
+	owner = RUS
+	controller = RUS
+} #The Soviet Union collapses with only the Russian Federation left in it.

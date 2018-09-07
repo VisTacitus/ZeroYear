@@ -1,0 +1,16 @@
+#494 - St. Kitts
+
+owner = GBR
+controller = GBR
+add_core = GBR
+add_core = X62
+culture = pardo_portugese
+religion = animism
+capital = "St. Kitts"
+trade_goods = unknown 
+hre = no
+base_tax = 4
+base_production = 4
+base_manpower = 1
+
+discovered_by = global

@@ -1,0 +1,22 @@
+
+owner = FRA
+controller = FRA
+add_core = FRA
+add_core = Y10
+culture = kongolese
+religion = shamanism #Fetishism
+capital = "Mayumba"
+trade_goods = ivory
+hre = no
+base_tax = 2
+base_production = 1
+base_manpower = 2
+is_city = yes
+
+discovered_by = global
+
+1960.8.17 = {
+	remove_core = FRA
+	owner = Y10
+	controller = Y10
+} #Gabon becomes independent.

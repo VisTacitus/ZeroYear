@@ -3,7 +3,7 @@
 owner = RMN
 controller = RMN
 add_core = RMN
-culture = transylvanian
+culture = hungarian
 religion = orthodox
 capital = "Oradea"
 trade_goods = naval_supplies

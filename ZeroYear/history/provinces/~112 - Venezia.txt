@@ -1,0 +1,18 @@
+#112 - Venezia
+
+owner = ITA
+controller = ITA
+add_core = ITA
+culture = venetian 
+religion = catholic 
+hre = no 
+base_tax = 10 
+base_production = 12 
+trade_goods = glass
+base_manpower = 5 
+capital = "Venezia" 
+is_city = yes	# Estimated 
+shipyard = yes
+discovered_by = global
+
+extra_cost = 15

@@ -3,7 +3,7 @@
 owner = TUR
 controller = TUR
 add_core = TUR
-culture = armenian
+culture = turkish
 religion = coptic
 capital = "Erzurum"
 trade_goods = livestock

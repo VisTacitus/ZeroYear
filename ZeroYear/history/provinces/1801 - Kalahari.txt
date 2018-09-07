@@ -3,6 +3,7 @@ owner = GBR
 controller = GBR
 add_core = GBR
 add_core = Y21
+culture = tswana
 
 discovered_by = global
 

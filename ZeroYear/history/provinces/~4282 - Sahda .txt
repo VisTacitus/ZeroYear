@@ -1,0 +1,23 @@
+#4282 - Sahda
+
+owner = X35
+controller = X35
+add_core = X35
+add_core = YEM
+culture = yemeni_culture
+religion = shiite
+capital = "Sahda"
+trade_goods = coffee
+hre = no
+base_tax = 2
+base_production = 2
+base_manpower = 2
+is_city = yes
+
+discovered_by = global
+
+1990.5.22 = {
+	remove_core = X35
+	owner = YEM
+	controller = YEM
+} #Yemen unifies into a single country.

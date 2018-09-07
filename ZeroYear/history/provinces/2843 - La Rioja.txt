@@ -3,7 +3,7 @@
 owner = LAP
 controller = LAP
 add_core = LAP
-culture = huarpe
+culture = white_spanish
 religion = animism
 capital = "La Rioja"
 trade_goods = unknown

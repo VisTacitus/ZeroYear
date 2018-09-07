@@ -1,5 +1,7 @@
+
 owner = CAN
 controller = CAN
 add_core = CAN
+culture = anglo_canadian
 
 discovered_by = global

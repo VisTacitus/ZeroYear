@@ -1,0 +1,23 @@
+#283 - Zaporozhia
+
+owner = SOV
+controller = SOV
+add_core = SOV
+add_core = UKR
+culture = crimean
+religion = sunni
+hre = no
+base_tax = 1
+base_production = 1
+trade_goods = livestock
+base_manpower = 2
+capital = "Sich"
+is_city = yes
+
+discovered_by = global
+
+1991.8.24 = {
+	remove_core = SOV
+	owner = UKR
+	controller = UKR
+} #Ukrainian Independence is restored.

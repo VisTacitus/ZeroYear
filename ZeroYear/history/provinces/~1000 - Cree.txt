@@ -1,0 +1,15 @@
+#1000 - Cree
+
+owner = CAN
+controller = CAN
+add_core = CAN
+culture = anglo_canadian
+religion = totemism
+capital = "Cree"
+trade_goods = unknown
+hre = no
+base_tax = 1 
+base_production = 2
+base_manpower = 1
+
+discovered_by = global

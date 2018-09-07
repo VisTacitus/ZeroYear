@@ -3,7 +3,7 @@
 owner = USA
 controller = USA
 add_core = USA
-culture = pawnee #Old plains people
+culture = anglo_american
 religion = totemism
 capital = "Omaha"
 trade_goods = unknown

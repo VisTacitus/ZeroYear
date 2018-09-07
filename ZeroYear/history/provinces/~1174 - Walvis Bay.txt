@@ -1,0 +1,22 @@
+#1174 - Angra Pequena
+
+owner = SAF
+controller = SAF
+add_core = SAF
+add_core = Y25
+culture = khoisan
+religion = shamanism #Fetishism
+capital = "Walvis Bay"
+trade_goods = unknown
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+
+discovered_by = global
+
+1990.3.21 = {
+	remove_core = SAF
+	owner = Y25
+	controller = Y25
+} #Namibia gains independence from South Africa.

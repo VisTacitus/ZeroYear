@@ -1,0 +1,15 @@
+#482 - Bahamas
+
+owner = GBR
+controller = GBR
+add_core = X71
+culture = black_anglo
+religion = animism
+capital = "Bahamas"
+trade_goods = unknown
+hre = no
+base_tax = 2 
+base_production = 2 
+base_manpower = 1
+
+discovered_by = global

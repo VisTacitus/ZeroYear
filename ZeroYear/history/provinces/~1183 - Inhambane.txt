@@ -1,0 +1,22 @@
+#1183 - Inhambane
+
+owner = POR
+controller = POR
+add_core = POR
+add_core = Y19
+culture = nguni
+religion = shamanism #Fetishism
+capital = "Inhambane"
+trade_goods = unknown
+hre = no
+base_tax = 4 
+base_production = 4
+base_manpower = 1
+
+discovered_by = global
+
+1975.6.25 = {
+	remove_core = POR
+	owner = Y19
+	controller = Y19
+} #Mozambique is granted independence.

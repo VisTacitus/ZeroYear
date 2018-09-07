@@ -3,7 +3,7 @@
 owner = ETH
 controller = ETH
 add_core = ETH
-culture = harari
+culture = oromo
 religion = sunni
 capital = "Harer"
 is_city = yes

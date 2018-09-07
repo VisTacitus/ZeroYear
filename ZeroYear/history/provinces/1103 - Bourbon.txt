@@ -4,6 +4,7 @@ owner = FRA
 controller = FRA
 add_core = FRA
 capital = "Bourbon"
+culture = black_french
 trade_goods = unknown
 hre = no
 base_tax = 5 

@@ -3,7 +3,7 @@
 owner = GBR
 controller = GBR
 add_core = X55
-culture = yucatec
+culture = mestizo
 religion = mesoamerican_religion
 capital = "Belize" 
 trade_goods = sugar 

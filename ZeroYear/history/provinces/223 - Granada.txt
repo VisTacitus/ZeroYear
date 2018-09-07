@@ -3,7 +3,7 @@
 owner = SPA
 controller = SPA
 add_core = SPA
-culture = andalucian
+culture = spanish
 religion = sunni
 hre = no
 base_tax = 6 

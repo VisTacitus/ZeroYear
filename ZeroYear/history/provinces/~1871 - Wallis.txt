@@ -1,0 +1,16 @@
+#1871 - Wallis
+
+owner = SWI
+controller = SWI
+add_core = SWI
+culture = swiss
+religion = catholic
+capital = "Sion"
+trade_goods = livestock
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 1
+is_city = yes
+
+discovered_by = global

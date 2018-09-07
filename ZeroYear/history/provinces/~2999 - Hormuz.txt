@@ -1,0 +1,16 @@
+#2999 - Hormuz
+
+owner = PER
+controller = PER
+add_core = PER
+capital = "Hormuz"
+culture = gulf_arabic
+religion = sunni
+trade_goods = gems #Pearls
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 1
+is_city = yes
+
+discovered_by = global

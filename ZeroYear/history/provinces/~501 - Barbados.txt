@@ -1,0 +1,15 @@
+#501 - Barbados
+
+owner = GBR
+controller = GBR
+add_core = X66
+culture = black_anglo
+religion = animism
+capital = "Barbados"
+trade_goods = unknown
+hre = no
+base_tax = 4 
+base_production = 5
+base_manpower = 1
+
+discovered_by = global

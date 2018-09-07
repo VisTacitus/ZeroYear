@@ -1,0 +1,23 @@
+#1137 - Wagadugi
+
+owner = FRA
+controller = FRA
+add_core = FRA
+add_core = Y05
+is_city = yes
+culture = mossi #mossi
+religion = shamanism #Fetishism
+capital = "Wagadugu"
+trade_goods = grain
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 3
+
+discovered_by = global
+
+1960.8.5 = {
+	remove_core = FRA
+	owner = Y05
+	controller = Y05
+} #Burkina Faso gains its' independence from France.

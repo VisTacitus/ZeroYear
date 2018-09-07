@@ -4,7 +4,7 @@ owner = USA
 controller = USA
 add_core = USA
 is_city = yes
-culture = navajo 
+culture = anglo_american
 religion = totemism
 capital = "St. George" 
 trade_goods = salt 
@@ -12,10 +12,5 @@ hre = no
 base_tax = 1 
 base_production = 1 
 base_manpower = 1 
-native_size = 5 
-native_ferocity = 2 
-native_hostileness = 1 
 
-
- # Francisco Vásquez de Coronado
 discovered_by = global

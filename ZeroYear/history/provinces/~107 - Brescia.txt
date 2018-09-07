@@ -1,0 +1,18 @@
+#107 - Brescia
+
+owner = ITA
+controller = ITA
+add_core = ITA
+culture = lombard 
+religion = catholic 
+hre = no 
+base_tax = 8 
+base_production = 8    
+trade_goods = cloth
+base_manpower = 4    
+capital = "Brescia" 
+is_city = yes
+
+
+
+discovered_by = global

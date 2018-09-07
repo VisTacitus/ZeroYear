@@ -4,6 +4,7 @@ owner = SOV
 controller = SOV
 add_core = SOV
 add_core = RUS
+culture = russian
 
 discovered_by = global
 

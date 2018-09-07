@@ -1,0 +1,16 @@
+#1855 - Sidon
+
+owner = LEB
+controller = LEB
+add_core = LEB
+culture = al_suryah_arabic
+religion = shiite
+capital = "Sayda"
+trade_goods = naval_supplies
+hre = no
+base_tax = 5 
+base_production = 5
+base_manpower = 3
+is_city = yes
+
+discovered_by = global

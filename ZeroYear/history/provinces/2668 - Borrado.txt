@@ -3,7 +3,7 @@
 owner = MEX
 controller = MEX
 add_core = MEX
-culture = chichimecan
+culture = mestizo
 religion = totemism
 capital = "Borrado"
 trade_goods = unknown

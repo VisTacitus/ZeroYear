@@ -1,0 +1,24 @@
+#131 - Zagorje
+
+owner = X02
+controller = X02
+add_core = X02
+add_core = CRO
+culture = croatian
+religion = catholic
+capital = "Zagreb"
+trade_goods = cloth
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 1
+is_city = yes
+fort_15th = yes
+
+discovered_by = global
+
+1991.6.25 = {
+	remove_core = X02
+	owner = CRO
+	controller = CRO
+} #Secession of Croatia

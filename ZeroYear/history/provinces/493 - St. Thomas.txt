@@ -1,9 +1,9 @@
 #493 - St. Thomas
 
-owner = GBR
-controller = GBR
-add_core = GBR
-culture = arawak
+owner = USA
+controller = USA
+add_core = USA
+culture = black_anglo
 religion = animism
 capital = "St. Thomas"
 trade_goods = unknown
@@ -11,8 +11,5 @@ hre = no
 base_tax = 4
 base_production = 4
 base_manpower = 1
-native_size = 5
-native_ferocity = 1
-native_hostileness = 4 
 
 discovered_by = global

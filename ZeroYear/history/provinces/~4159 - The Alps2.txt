@@ -1,0 +1,18 @@
+
+owner = USA
+controller = USA
+add_core = HAB
+capital = "Vienna"
+hre = no
+is_city = yes
+
+discovered_by = global
+
+1945.9.1 = {
+	add_core = USA
+} #Vienna has been partitioned.
+1955.5.15 = {
+	remove_core = USA
+	owner = HAB
+	controller = HAB
+} #Austrian State Treaty is signed. Austria is a sovereign state again.

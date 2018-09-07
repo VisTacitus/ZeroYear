@@ -3,5 +3,14 @@
 owner = IRQ
 controller = IRQ
 add_core = IRQ
+culture = shia_arab
 
 discovered_by = global
+
+1991.2.26 = {
+	controller = USA
+} #Allied forces in the Left Hook.
+1991.2.28 = {
+	owner = IRQ
+	controller = IRQ
+} #Kuwait is liberated. Ceasefire signed.

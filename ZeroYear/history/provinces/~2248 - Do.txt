@@ -1,0 +1,22 @@
+
+owner = FRA
+controller = FRA
+add_core = FRA
+add_core = MAL
+is_city = yes
+culture = mali 
+religion = shamanism #Fetishism
+capital = "Walata"
+trade_goods = livestock
+hre = no
+base_tax = 4 
+base_production = 4
+base_manpower = 1
+
+discovered_by = global
+
+1960.6.20 = {
+	remove_core = FRA
+	owner = MAL
+	controller = MAL
+} #Mali gains independence from France.

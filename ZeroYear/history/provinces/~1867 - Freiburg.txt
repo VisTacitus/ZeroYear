@@ -1,0 +1,16 @@
+#1867 - Freiburg
+
+owner = SWI
+controller = SWI
+add_core = SWI
+culture = swiss
+religion = catholic
+capital = "Geneve"
+trade_goods = livestock
+hre = no
+base_tax = 4 
+base_production = 4
+base_manpower = 3
+is_city = yes
+
+discovered_by = global

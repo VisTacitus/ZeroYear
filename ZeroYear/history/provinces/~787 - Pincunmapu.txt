@@ -1,0 +1,8 @@
+#787 - Picunmapu
+
+owner = CHL
+controller = CHL
+add_core = CHL
+culture = mapuche
+
+discovered_by = global

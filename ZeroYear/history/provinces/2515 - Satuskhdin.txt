@@ -3,7 +3,7 @@
 owner = USA
 controller = USA
 add_core = USA
-culture = osage
+culture = anglo_american
 religion = totemism
 capital = "Satsukhdin"
 trade_goods = unknown

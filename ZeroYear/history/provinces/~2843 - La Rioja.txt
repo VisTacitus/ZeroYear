@@ -1,0 +1,15 @@
+# - La Rioja
+
+owner = LAP
+controller = LAP
+add_core = LAP
+culture = huarpe
+religion = animism
+capital = "La Rioja"
+trade_goods = unknown
+hre = no
+base_tax = 2 
+base_production = 3
+base_manpower = 1
+
+discovered_by = global

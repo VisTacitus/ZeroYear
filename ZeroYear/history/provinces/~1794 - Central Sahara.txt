@@ -1,0 +1,14 @@
+#1794 - Central Sahara
+
+owner = FRA
+controller = FRA
+add_core = FRA
+add_core = ALG 
+
+discovered_by = global
+
+1962.7.3 = {
+	remove_core = FRA
+	owner = ALG
+	controller = ALG
+} #Algeria gains independence from France after a colonial war.

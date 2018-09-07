@@ -3,14 +3,14 @@
 owner = ITA
 controller = ITA
 add_core = ITA
-culture = sicilian 
+culture = italian
 religion = catholic 
 hre = no 
 base_tax = 6 
 base_production = 6
 trade_goods = fish
 base_manpower = 5
-fort_15th = yes #Numerous forts, Castello Maniace and Castello di Milazzo being the prominent.
+fort_15th = yes
 capital = "Messina"
 is_city = yes 
 add_core = SIC

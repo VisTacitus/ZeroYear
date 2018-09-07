@@ -3,6 +3,7 @@
 owner = CHL
 controller = CHL
 add_core = CHL
+culture = white_spanish
 religion = animism
 capital = "Huillimapu"
 is_city = yes

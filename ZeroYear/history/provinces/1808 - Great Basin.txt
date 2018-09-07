@@ -3,5 +3,6 @@ owner = USA
 controller = USA
 add_core = USA
 capital = "Denver"
+culture = anglo_american
 
 discovered_by = global

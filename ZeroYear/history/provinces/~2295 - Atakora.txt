@@ -1,0 +1,23 @@
+# No previous file for Atakora
+
+owner = FRA
+controller = FRA
+add_core = FRA
+add_core = X99
+is_city = yes
+culture = dagomba
+religion = shamanism #Fetishism
+capital = "Sansanné Mango"
+trade_goods = tropical_wood
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+
+discovered_by = global
+
+1960.4.26 = {
+	remove_core = FRA
+	owner = X99
+	controller = X99
+} #Togo gains its' independence from France.

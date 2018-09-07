@@ -3,7 +3,7 @@
 owner = X51
 controller = X51
 add_core = X51
-culture = aimara
+culture = quechua
 
 discovered_by = global
 

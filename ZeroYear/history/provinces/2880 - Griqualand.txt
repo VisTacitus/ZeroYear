@@ -3,7 +3,7 @@
 owner = SAF
 controller = SAF
 add_core = SAF
-culture = khoisan
+culture = tswana
 religion = shamanism #Fetishism
 capital = "Griqualand"
 trade_goods = unknown

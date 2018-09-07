@@ -3,7 +3,7 @@
 owner = RMN
 controller = RMN
 add_core = RMN
-culture = transylvanian
+culture = romanian
 religion = catholic
 capital = "Temesvár"
 trade_goods = wool

@@ -3,7 +3,7 @@
 owner = PEU
 controller = PEU
 add_core = PEU
-culture = chimuan
+culture = mestizo
 religion = inti
 capital = "Tucume"
 trade_goods = cloth

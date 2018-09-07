@@ -1,0 +1,17 @@
+#149 - Edirne
+
+owner = TUR
+controller = TUR
+add_core = TUR
+culture = greek
+religion = orthodox
+capital = "Edirne"
+trade_goods = grain
+hre = no
+base_tax = 7
+base_production = 7
+base_manpower = 2
+is_city = yes
+fort_15th = yes
+
+discovered_by = global

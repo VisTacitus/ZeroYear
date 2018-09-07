@@ -1,0 +1,23 @@
+#1143 - Borgu
+
+owner = FRA
+controller = FRA
+add_core = FRA
+add_core = BEN
+is_city = yes
+culture = dagomba 
+religion = shamanism #Fetishism
+capital = "Bussa"
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+trade_goods = grain
+
+discovered_by = global
+
+1960.8.1 = {
+	remove_core = FRA
+	owner = BEN
+	controller = BEN
+} #Benin gets its' independence from France.

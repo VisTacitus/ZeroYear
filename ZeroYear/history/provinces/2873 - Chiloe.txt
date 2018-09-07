@@ -3,7 +3,7 @@
 owner = CHL
 controller = CHL
 add_core = CHL
-culture = mapuche
+culture = native_latin_american_minor
 discovered_by = global
 religion = animism
 capital = "Chiloe"

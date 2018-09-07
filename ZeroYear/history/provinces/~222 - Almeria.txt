@@ -1,0 +1,16 @@
+#222 - Almería
+
+owner = SPA
+controller = SPA
+add_core = SPA
+culture = andalucian
+religion = sunni
+hre = no
+base_tax = 2 
+base_production = 2
+trade_goods = grain
+base_manpower = 2
+capital = "Almería"
+is_city = yes
+
+discovered_by = global

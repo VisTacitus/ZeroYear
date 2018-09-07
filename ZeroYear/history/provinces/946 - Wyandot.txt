@@ -3,7 +3,7 @@
 owner = USA
 controller = USA
 add_core = USA
-culture = huron
+culture = anglo_american
 religion = totemism
 capital = "Toledo"
 trade_goods = unknown

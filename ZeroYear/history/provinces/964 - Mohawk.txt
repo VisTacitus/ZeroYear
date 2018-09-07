@@ -3,7 +3,7 @@
 owner = USA
 controller = USA
 add_core = USA
-culture = iroquois
+culture = anglo_american
 religion = totemism
 capital = "Mohawk"
 trade_goods = fur

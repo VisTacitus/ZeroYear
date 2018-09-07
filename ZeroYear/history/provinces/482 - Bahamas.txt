@@ -2,8 +2,9 @@
 
 owner = GBR
 controller = GBR
+add_core = GBR
 add_core = X71
-culture = arawak
+culture = black_anglo
 religion = animism
 capital = "Bahamas"
 trade_goods = unknown
@@ -13,3 +14,9 @@ base_production = 2
 base_manpower = 1
 
 discovered_by = global
+
+1973.7.10 = {
+	remove_core = GBR
+	owner = X71
+	controller = X71
+} #The Bahamas gains its' independence from the United Kingdom.

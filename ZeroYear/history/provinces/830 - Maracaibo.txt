@@ -3,6 +3,7 @@
 owner = VNZ
 controller = VNZ
 add_core = VNZ
+culture = white_spanish
 religion = animism
 capital = "Maracaibo"
 trade_goods = unknown
@@ -10,6 +11,5 @@ hre = no
 base_tax = 1
 base_production = 2
 base_manpower = 1
-culture = guajiro
 
 discovered_by = global

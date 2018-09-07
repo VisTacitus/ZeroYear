@@ -3,7 +3,7 @@
 owner = X49
 controller = X49
 add_core = X49
-culture = cara
+culture = native_latin_american_minor
 religion = inti
 capital = "Surampalli"
 is_city = yes

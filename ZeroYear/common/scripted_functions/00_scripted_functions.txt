@@ -75,12 +75,36 @@ can_abandon_state = {
 }
 
 can_improve_tax = {
+	condition = {
+		potential = {
+			always = yes
+		}
+		allow = {
+			always = yes
+		}
+	}
 }
 
 can_improve_production = {
+	condition = {
+		potential = {
+			always = yes
+		}
+		allow = {
+			owner = { ai = no }
+		}
+	}
 }
 
 can_improve_manpower = {
+	condition = {
+		potential = {
+			always = yes
+		}
+		allow = {
+			owner = { ai = no }
+		}
+	}
 }
 
 can_exploit_tax = {

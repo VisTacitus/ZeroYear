@@ -1,0 +1,40 @@
+#2201 - Alania
+
+owner = SOV
+controller = SOV
+add_core = SOV
+add_core = GEO
+add_core = X06
+culture = circassian
+religion = orthodox
+capital = "Dzaudzhikau"
+trade_goods = wool
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+is_city = yes
+
+discovered_by = global
+
+1991.4.9 = {
+	remove_core = SOV
+	owner = GEO
+	controller = GEO
+} #Declaration of Independence from the Soviet Union for Georgia.
+1991.12.21 = {
+	owner = GEO
+	controller = X06
+} #South Ossetia breaks away.
+1992.6.24 = {
+	owner = X06
+	controller = X06
+} #The Sochi Ceasefire Agreement is signed.
+2008.8.7 = {
+	owner = X06
+	controller = GEO
+} #Georgia takes over South Ossetia.
+2008.8.10 = {
+	owner = X06
+	controller = X06
+} #Russia invades Georgia on behalf of S. Ossetia and seizes Tsinkhvali.

@@ -25,6 +25,7 @@ tags = {
 
 replace_path = "common/bookmarks"
 replace_path = "common/province_names"
+replace_path = "decisions"
 replace_path = "history/wars"
 replace_path = "music"
 replace_path = "localisation"

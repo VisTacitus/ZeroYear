@@ -3,7 +3,7 @@
 owner = SPA
 controller = SPA
 add_core = MOR
-culture = berber
+culture = spanish
 religion = sunni
 capital = "Melilla"
 trade_goods = fish

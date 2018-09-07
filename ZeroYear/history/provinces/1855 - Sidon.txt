@@ -3,7 +3,7 @@
 owner = LEB
 controller = LEB
 add_core = LEB
-culture = al_suryah_arabic
+culture = christian_arab
 religion = shiite
 capital = "Sayda"
 trade_goods = naval_supplies

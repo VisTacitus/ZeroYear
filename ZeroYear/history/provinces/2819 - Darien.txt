@@ -3,7 +3,7 @@
 owner = COL
 controller = COL
 add_core = COL
-culture = muisca
+culture = mestizo
 religion = animism
 capital = "Darien"
 trade_goods = unknown

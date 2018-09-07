@@ -3,7 +3,7 @@
 owner = NAJ
 controller = NAJ
 add_core = NAJ
-culture = yemeni_culture
+culture = shia_arab
 religion = shiite
 capital = "Najran"
 trade_goods = cloth

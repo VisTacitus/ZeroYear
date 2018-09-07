@@ -1,0 +1,22 @@
+
+owner = POR
+controller = POR
+add_core = POR
+add_core = Y18
+culture = mbangala
+religion = shamanism #Fetishism
+capital = "Malem"
+trade_goods = slaves
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+is_city = yes
+
+discovered_by = global
+
+1975.11.11 = {
+	remove_core = POR
+	owner = Y18
+	controller = Y18
+} #Angola became independent underneath Communist rule.

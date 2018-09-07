@@ -1,0 +1,14 @@
+# - San Luis
+
+owner = LAP
+controller = LAP
+add_core = LAP
+culture = huarpe
+discovered_by = global
+religion = animism
+capital = "San Luis"
+trade_goods = unknown
+hre = no
+base_tax = 2 
+base_production = 1
+base_manpower = 1

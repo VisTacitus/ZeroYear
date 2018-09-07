@@ -3,7 +3,7 @@
 owner = USA
 controller = USA
 add_core = USA
-culture = mesquakie
+culture = anglo_american
 religion = totemism
 capital = "Mascouten"
 trade_goods = unknown

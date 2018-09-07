@@ -4,7 +4,7 @@ owner = USA
 controller = USA
 add_core = USA
 is_city = yes
-culture = pueblo
+culture = anglo_american
 religion = totemism
 capital = "Acoma"
 trade_goods = grain
@@ -12,8 +12,5 @@ hre = no
 base_tax = 2
 base_production = 2
 base_manpower = 1
-native_size = 5
-native_ferocity = 1
-native_hostileness = 2
 
 discovered_by = global

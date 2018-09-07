@@ -1,0 +1,23 @@
+#1774 - Treviso
+owner = X00
+controller = X00
+add_core = ITA
+add_core = X00
+culture = venetian 
+religion = catholic 
+hre = no
+base_tax = 7 
+base_production = 7 
+trade_goods = paper
+base_manpower = 4  
+capital = "Treviso" 
+is_city = yes	# Estimated 
+fort_15th = yes
+
+discovered_by = global
+
+1954.10.5 = {
+	remove_core = X00
+	owner = ITA
+	controller = ITA
+} #The London Memorandum is signed. Dissolution of the Free City of Trieste.

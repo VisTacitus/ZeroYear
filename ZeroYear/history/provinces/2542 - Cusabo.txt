@@ -3,7 +3,7 @@
 owner = USA
 controller = USA
 add_core = USA
-culture = catawba
+culture = anglo_american
 religion = totemism
 capital = "Cusabo"
 trade_goods = unknown

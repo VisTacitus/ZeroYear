@@ -1,0 +1,23 @@
+# - Susa
+
+owner = FRA
+controller = FRA
+add_core = FRA
+add_core = TUN
+culture = tunisian
+religion = sunni
+capital = "Susa"
+trade_goods = sugar
+hre = no
+base_tax = 5 
+base_production = 5
+base_manpower = 2
+is_city = yes
+
+discovered_by = global
+
+1956.3.20 = {
+	remove_core = FRA
+	owner = TUN
+	controller = TUN
+} #Tunisia gains independence from France.

@@ -3,7 +3,7 @@
 owner = MEX
 controller = MEX
 add_core = MEX
-culture = zapotek
+culture = zapotec
 religion = nahuatl
 capital = "Zaachila"
 trade_goods = sugar

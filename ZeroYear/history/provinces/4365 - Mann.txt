@@ -3,7 +3,7 @@
 owner = GBR
 controller = GBR
 add_core = GBR
-culture = highland_scottish
+culture = english
 religion = catholic
 hre = no
 base_tax = 1 

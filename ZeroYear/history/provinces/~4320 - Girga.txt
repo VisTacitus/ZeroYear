@@ -1,0 +1,16 @@
+#4320 - Girga
+
+owner = EGY
+controller = EGY
+add_core = EGY
+culture = al_misr_arabic
+religion = sunni
+capital = "Girga"
+trade_goods = grain
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 3
+is_city = yes
+
+discovered_by = global

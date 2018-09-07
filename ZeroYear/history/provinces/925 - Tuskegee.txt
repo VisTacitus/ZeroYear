@@ -3,7 +3,7 @@
 owner = USA
 controller = USA
 add_core = USA
-culture = creek
+culture = african_american
 religion = totemism
 capital = "Tuskegee"
 trade_goods = cotton

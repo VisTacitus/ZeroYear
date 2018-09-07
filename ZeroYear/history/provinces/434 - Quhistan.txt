@@ -3,7 +3,7 @@
 owner = PER
 controller = PER
 add_core = PER
-culture = baluchi
+culture = persian
 religion = sunni
 capital = "Bampur"
 trade_goods = livestock

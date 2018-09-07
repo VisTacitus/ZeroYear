@@ -3,7 +3,7 @@
 owner = USA
 controller = USA
 add_core = USA
-culture = abenaki
+culture = anglo_american
 religion = totemism
 capital = "Passamaquoddy"
 trade_goods = unknown

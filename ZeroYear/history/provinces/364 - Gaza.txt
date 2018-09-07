@@ -3,7 +3,7 @@
 owner = EGY
 controller = EGY
 add_core = EGY
-culture = al_suryah_arabic
+culture = sunni_arab
 religion = sunni
 capital = "Gazzah"
 trade_goods = salt

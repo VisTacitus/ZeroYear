@@ -3,7 +3,7 @@
 owner = PER
 controller = PER
 add_core = PER
-culture = khorasani
+culture = persian
 religion = sunni
 capital = "Ghuriyan"
 trade_goods = livestock

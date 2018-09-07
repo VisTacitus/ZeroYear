@@ -3,7 +3,7 @@
 owner = FIN
 controller = FIN
 add_core = FIN
-culture = karelian
+culture = finnish
 religion = orthodox
 hre = no
 base_tax = 1

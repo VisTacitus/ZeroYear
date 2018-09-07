@@ -3,5 +3,6 @@
 owner = TUR
 controller = TUR
 add_core = TUR
+culture = kurdish
 
 discovered_by = global

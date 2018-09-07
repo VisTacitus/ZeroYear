@@ -3,7 +3,7 @@
 owner = USA
 controller = USA
 add_core = USA
-culture = polynesian
+culture = japanese
 religion = animism
 capital = "Honolulu"
 trade_goods = unknown

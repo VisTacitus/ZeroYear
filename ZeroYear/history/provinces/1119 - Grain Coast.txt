@@ -3,7 +3,7 @@
 owner = X96
 controller = X96
 add_core = X96
-culture = dyola
+culture = african_minor
 religion = shamanism #Fetishism
 capital = "Mesurado"
 trade_goods = unknown #Malaguetta Pepper dominant in early eras
@@ -11,8 +11,5 @@ hre = no
 base_tax = 1 
 base_production = 1
 base_manpower = 1
-native_size = 50
-native_ferocity = 4
-native_hostileness = 9
 
 discovered_by = global

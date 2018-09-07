@@ -1,0 +1,22 @@
+#1141 - Whydah
+
+owner = FRA
+controller = FRA
+add_core = FRA
+add_core = X99
+culture = fon
+religion = shamanism #Fetishism
+capital = "Whydah"
+trade_goods = unknown
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+
+discovered_by = global
+
+1960.4.26 = {
+	remove_core = FRA
+	owner = X99
+	controller = X99
+} #Togo gains its' independence from France.

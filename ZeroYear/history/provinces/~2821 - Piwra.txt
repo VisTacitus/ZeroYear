@@ -1,0 +1,16 @@
+# - Piwra
+
+owner = PEU
+controller = PEU
+add_core = PEU
+culture = chimuan
+religion = inti
+capital = "Piwra"
+trade_goods = fish
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+is_city = yes
+
+discovered_by = global

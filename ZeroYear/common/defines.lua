@@ -5,7 +5,7 @@ NGame = {
 	END_DATE = "9999.12.31",
 	MAX_RANDOM_NEW_WORLD = "1492.1.1",
 	
-	GREAT_POWER_FRENZY_START = "1700.1.1",	-- Latest date for the start of the Great Power Frenzy (struggle).
+	GREAT_POWER_FRENZY_START = "9999.12.31",	-- Latest date for the start of the Great Power Frenzy (struggle).
 	GREAT_POWER_FRENZY_WARMUP_MONTHS = 600,	-- How many months does it take for the Great Power Frenzy to reach full potency after starting.
 	GREAT_POWER_FRENZY_QUICKSTART = 0,		-- Can the Great Power Frenzy start early due to one alliance block becoming too powerful?
 
@@ -607,7 +607,7 @@ NCountry = {
 	PS_RAISE_WAR_TAXES = 50,
 	PS_WAR_TAXES_LIMIT_MIN = 0,	-- Minimum value for the cost of war taxes
 	PS_CREATE_TRADE_POST = 50,
-	PS_IMPROVE_PROVINCE_BASE = 50,
+	PS_IMPROVE_PROVINCE_BASE = 0, -- Province Interactions Hassle Free!
 	PS_IMPROVE_PROVINCE_MUL = 0,
 	PS_IMPROVE_PROVINCE_CAPITAL_DISCOUNT = 0.05,
 	PS_SET_PRIMARY_CULTURE = 100,

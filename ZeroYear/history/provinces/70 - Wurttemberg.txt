@@ -1,4 +1,4 @@
-culture = swabian
+culture = german
 owner = FRA
 controller = FRA
 add_core = GER

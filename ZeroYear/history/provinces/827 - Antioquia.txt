@@ -3,7 +3,7 @@
 owner = COL
 controller = COL
 add_core = COL
-culture = muisca
+culture = white_spanish
 religion = animism
 capital = "Antioquía"
 trade_goods = unknown

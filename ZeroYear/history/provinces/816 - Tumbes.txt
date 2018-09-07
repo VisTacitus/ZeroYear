@@ -3,7 +3,7 @@
 owner = X49
 controller = X49
 add_core = X49
-culture = chimuan
+culture = mestizo
 religion = inti
 capital = "Tumbes"
 trade_goods = grain

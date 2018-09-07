@@ -3,7 +3,7 @@
 owner = SOV
 controller = SOV
 add_core = X10
-culture = latvian
+culture = byelorussian
 religion = catholic
 capital = "Daugavplis"
 fort_15th = yes #Dünaburg

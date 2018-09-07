@@ -3,7 +3,7 @@
 owner = PEU
 controller = PEU
 add_core = PEU
-culture = jivaro
+culture = mestizo
 religion = animism
 capital = "Iquitos"
 trade_goods = unknown

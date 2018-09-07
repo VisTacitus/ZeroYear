@@ -3,7 +3,7 @@
 owner = X43
 controller = X43
 add_core = X43
-culture = putun
+culture = mestizo
 religion = mesoamerican_religion
 capital = "Petén"
 trade_goods = cocoa

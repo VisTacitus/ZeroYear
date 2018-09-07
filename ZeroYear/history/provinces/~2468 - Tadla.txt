@@ -1,0 +1,23 @@
+# - Tadla
+
+owner = FRA
+controller = FRA
+add_core = FRA
+add_core = MOR
+culture = moroccan
+religion = sunni
+capital = "Tadla"
+trade_goods = copper
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 1
+is_city = yes
+
+discovered_by = global
+
+1956.4.7 = {
+	remove_core = FRA
+	owner = MOR
+	controller = MOR
+} #France relinquishes control of Morocco.

@@ -2,8 +2,9 @@
 
 owner = GBR
 controller = GBR
+add_core = GBR
 add_core = X65
-culture = carib
+culture = black_anglo
 religion = animism
 capital = "St. Lucia"
 trade_goods = unknown
@@ -11,8 +12,11 @@ hre = no
 base_tax = 4 
 base_production = 5
 base_manpower = 1
-native_size = 15 
-native_ferocity = 1
-native_hostileness = 4
 
 discovered_by = global
+
+1979.2.22 = {
+	remove_core = GBR
+	owner = X65
+	controller = X65
+} #St. Lucia gains its' independence from the UK.

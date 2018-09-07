@@ -3,8 +3,7 @@ owner = POR
 controller = POR
 add_core = POR
 add_core = Y18
-
-culture = chokwe
+culture = ganguela
 religion = shamanism #Fetishism
 capital = "Chokwe"
 trade_goods = ivory

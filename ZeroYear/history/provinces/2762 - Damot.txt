@@ -3,7 +3,7 @@
 owner = ETH
 controller = ETH
 add_core = ETH
-culture = amhara 
+culture = oromo 
 religion = coptic
 capital = "Nekemte"
 is_city = yes

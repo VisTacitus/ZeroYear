@@ -1,0 +1,17 @@
+# - Quillacas
+
+owner = X51
+controller = X51
+add_core = X51
+culture = aimara
+religion = inti
+capital = "Quillacas"
+
+discovered_by = global
+
+trade_goods = gold
+is_city = yes
+hre = no
+base_tax = 2 
+base_production = 2
+base_manpower = 1

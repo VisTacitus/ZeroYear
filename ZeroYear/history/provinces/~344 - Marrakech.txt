@@ -1,0 +1,24 @@
+#344 - Marrakech
+
+owner = SPA
+controller = SPA
+add_core = SPA
+add_core = MOR 
+culture = moroccan
+religion = sunni
+capital = "Marrakech"
+trade_goods = sugar
+hre = no
+base_tax = 5 
+base_production = 5
+base_manpower = 2
+is_city = yes
+fort_15th = yes
+
+discovered_by = global
+
+1969.5.30 = {
+	remove_core = SPA
+	owner = MOR
+	controller = MOR
+} #Sidi Ifni is formally handed back to the Moroccans after a UN Resolution.

@@ -3,7 +3,7 @@
 owner = MEX
 controller = MEX
 add_core = MEX
-culture = navajo
+culture = mestizo
 religion = animism 
 capital = "Tepehuan" 
 trade_goods = unknown

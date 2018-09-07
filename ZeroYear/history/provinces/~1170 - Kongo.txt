@@ -1,0 +1,23 @@
+#1170 - Kongo
+
+owner = POR
+controller = POR
+add_core = POR
+add_core = Y18
+culture = kongolese
+religion = shamanism #Fetishism
+capital = "M'banza Kongo"
+trade_goods = iron
+hre = no
+base_tax = 4 
+base_production = 4
+base_manpower = 2
+is_city = yes
+
+discovered_by = global
+
+1975.11.11 = {
+	remove_core = POR
+	owner = Y18
+	controller = Y18
+} #Angola became independent underneath Communist rule.

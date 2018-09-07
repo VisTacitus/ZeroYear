@@ -3,7 +3,7 @@
 owner = USA
 controller = USA
 add_core = USA
-culture = piman 
+culture = anglo_american
 religion = totemism
 capital = "Tucson" 
 trade_goods = salt 
@@ -12,8 +12,5 @@ base_tax = 1
 base_production = 1 
 base_manpower = 1 
 is_city = yes
-native_size = 5 
-native_ferocity = 2 
-native_hostileness = 1 
 
 discovered_by = global

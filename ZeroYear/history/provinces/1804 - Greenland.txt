@@ -3,5 +3,6 @@
 owner = DAN
 controller = DAN
 add_core = DAN
+culture = inuit
 
 discovered_by = global

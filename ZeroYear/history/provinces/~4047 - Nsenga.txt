@@ -1,0 +1,23 @@
+#Nsenga
+
+owner = GBR
+controller = GBR
+add_core = GBR
+add_core = Y20
+culture = nyasa
+religion = shamanism #Fetishism
+capital = "Nsenga"
+is_city = yes
+base_manpower = 1
+trade_goods = livestock
+hre = no
+base_tax = 1
+base_production = 2
+
+discovered_by = global
+
+1964.10.24 = {
+	owner = Y20
+	controller = Y20
+	add_core = Y20
+} #Zambia becomes independent of the Rhodesian Federation.

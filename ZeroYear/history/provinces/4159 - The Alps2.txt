@@ -3,6 +3,7 @@ owner = USA
 controller = USA
 add_core = HAB
 capital = "Vienna"
+culture = german
 hre = no
 is_city = yes
 

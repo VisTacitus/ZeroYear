@@ -386,148 +386,304 @@ rhone_alpes = {
 
 #Languedoc
 languedoc = { #4
-	196 200 2753
+	196 197 200 2753
 }
 
 #Auvergne
 auvergne = { #3
-	color = { 26 26 217 }
 	190 198 199
+}
+
+#Corsica
+corsica = {
+	1247
+}
+
+###########
+# ANDORRA #
+###########
+
+#Andorra
+andorra = {
+	4154
 }
 
 ########################################
 # Low Countries				 		   #
 ########################################
 
-wallonia_area = { #5
-	91 92 93 94 1866
+###############
+# NETHERLANDS #
+###############
+
+#Brabant
+brabant = {
+	95 96 1742
 }
 
-holland_area = { #3
-	96 97 4383
+#Holland
+holland = {
+	97 98 4383
 }
 
-flanders_area = { #3
-	90 1744 1865
+#Overjissel
+overjissel = {
+	99 4381
 }
 
-netherlands_area = { #5
-	95 98 99 1742 2974
+#Frisia
+frisia = { #4
+	100 4382
 }
 
-frisia_area = { #4
-	100 4381 4382
+#Wallonia
+wallonia = { #5
+	91 93 94 1866
+}
+
+#Flanders
+flanders = { #3
+	90 92 1744 1865 2974
+}
+
+#Luxemburg
+luxemburg = {
+	94
 }
 
 ########################################
 # Iberia					 		   #
 ########################################
 
-aragon_area = { #3
+#########
+# SPAIN #
+#########
+
+#La Rioja
+la_rioja_spain = {
+	2989
+}
+
+#Navarre
+navarre = {
+	210
+}
+
+#Cantabria
+cantabria = {
+	1745
+}
+
+#Asturias
+asturias = {
+	207
+}
+
+#Galicia
+galicia = {
+	206
+}
+
+#Castille-Leon
+castille_leon = {
+	208 215 216 1746 2755
+}
+
+#Madrid
+madrid = { #3
+	217
+}
+
+#Aragon
+aragon = { #3
 	211 214 2990
 }
 
-catalonia_area = { #4
-	197 212 213 2987
+#Catalonia
+catalonia = { #4
+	212 213 2987 2988
 }
 
-valencia_area = { #4
-	220 333 1750 2988 
+#Extremadura
+extremadura = {
+	218 1747
 }
 
-lower_andalucia_area = { #4
-	224 225 1748 1749
+#Andalusia
+andalusia = {
+	222 223 224 225 1748 1749
 }
 
-upper_andalucia_area = { #3
-	222 223 226
+#Valencia
+valencia = { #4
+	220 1750
 }
 
-castille_area = { #3
-	color = { 58 58 207 }
-	215 217 1746 2755 2989
+#Gibraltar
+gibraltar = { #3
+	226
 }
 
-toledo_area = { #4
-	219 221 2751 2754
+#Murcia
+murcia = {
+	221
 }
 
-asturias_area = { #3
-	206 207 1745
+#Castille la Mancha
+castille_la_mancha = { #4
+	219 2751 2754
 }
 
+#Basque Country
 basque_country = { #3
-	209 210
+	209
 }
 
-leon_area = { #4
-	color = { 243 235 28 }
-	208 216 218 1747
+#Balearic Islands
+balearic_islands = {	
+	333
 }
 
-beieras_area = { #4
-	231 232 228 1851
+############
+# PORTUGAL #
+############
+
+#Norte
+norte_portugal = {
+	231 232
 }
 
-alentejo_area = { #4
-	227 229 230 4150
+#Centro
+centro_portugal = { #4
+	228 1851
+}
+
+#Lisboa e Vale de Tejo
+lisboa_e_vale_de_tejo = {
+	227
+}
+
+#Alentejo
+alentejo = { #4
+	229 4150
+}
+
+#Algarve
+algarve = {
+	230
 }
 
 macaronesia_area = { #3
 	366 367 368
 }
 
-########################################
-# Italy					 			   #
-########################################
+#########
+# ITALY #
+#########
 
-venetia_area = { #4
-	108 111 112 1774
+#Trentino-Alto-Adige
+trentino_alto_adige = {
+	110 4160
 }
 
-lombardy_area = { #4
-	104 107 109 1862
+#Aosta Valley
+aosta_valley = {
+	4157
 }
 
-piedmont_area = { #4
+#Piedmont
+piedmont = { #4
 	103 1875 2979 2981
 }
 
-tuscany_area = { #5
-	115 116 117 2978 2980
+#Lombardy
+lombardy = { #4
+	104 107 109 1862
 }
 
-liguria_area = { #3
+#Veneto
+veneto = { #4
+	108 112 113
+}
+
+#Fruili-Venezia-Giulia
+fruili_venezia_giulia = {
+	111 1774
+}
+
+#Tuscany
+tuscany = { #5
+	115 117 2978 2980
+}
+
+#Liguria
+liguria = { #3
 	101 2992
 }
 
-corsica_sardinia_area = { #3
-	127 1247 2986
+#Emilia Romagna
+emilia_romagna = { #4
+	105 106 114
 }
 
-sicily_area = { #4
-	124 125 126 2982
+#Sardinia
+sardinia = { #3
+	127 2986
 }
 
-naples_area = { #3  #Lazio-Campania
-	118 121 2983
+#Sicily
+sicily = { #4
+	124 125 2982
 }
 
-calabria_area = { #3 (+Lucania)
-	123 1934 2984
+#Umbria
+umbria = {
+	2976
 }
 
-apulia_area = { #3
+#Marche
+marche = {
+	119 2977
+}
+
+#Abruzzo
+abruzzo = {
+	120
+}
+
+#Molise
+molise = {
+	116
+}
+
+#Lazio
+lazio = {
+	118
+}
+
+#Campania
+campania = { #3  #Lazio-Campania
+	121 2983
+}
+
+#Basilicata
+basilicata = { #3 (+Lucania)
+	1934
+}
+
+#Calabria
+calabria = {
+	123 2984
+}
+
+#Apulia
+apulia = { #3
 	122 1933 2985
 }
 
-emilia_romagna_area = { #4
-	color = { 24 222 66 }
-	105 106 113 114
-}
-
-central_italy_area = { #4
-	119 120 2976 2977
+#Malta
+malta = {
+	126
 }
 
 ########################################
@@ -617,12 +773,33 @@ east_of_england = { #3
 # Scandinavia			 			   #
 ########################################
 
-jutland_area = { #4
-	15 1984 4142 4149
+###########
+# DENMARK #
+###########
+
+#Syddanmark
+syddanmark = {
+	14 4149
 }
 
-denmark_area = { #4 +Bornholm
-	12 14 1981 1983
+#Midtjylland
+midtjylland = {
+	15 4142
+}
+
+#Nordjylland
+nordjylland = { #4
+	1984
+}
+
+#Sjaelland
+sjaelland = {
+	1983
+}
+
+#Hovedstaden
+hovedstaden = { #4 +Bornholm
+	12 1981
 }
 
 skaneland_area = { #4
@@ -689,8 +866,8 @@ iceland_area = { #2
 	370 371
 }
 
-greenland_area = { #2
-	1104 1105
+greenland = { #2
+	1104 1105 1804
 }
 
 ########################################
@@ -709,24 +886,93 @@ curonia_area = { #3
 	35 39 1935
 }
 
-east_prussia_area = { #4
-	40 41 767 2958
+##########
+# POLAND #
+##########
+
+#West Pomerania
+west_pomerania = {
+	48 49 1858
 }
 
-pomerelia_area = { #3 (North West Prussia)
-	42 43 1841
+#Pomerania
+pomerania = {
+	43 1841 2995 2997
 }
 
-west_prussia_area = { #3 (South West Prussia)
-	1859 2963 2997
+#Greater Poland
+greater_poland = {
+	254 255 256 258
 }
 
-wielkopolska_area = { #4
-   254 255 258 1939
+#Kuyavian-Pomeranian
+kuyavian_pomeranian = {
+	1859 1939
 }
 
-malopolska_area = { #5
-	259 260 262 2959 2960
+#Lubusz
+lubusz = {
+	2966 2969
+}
+
+#Lower Silesian
+lower_silesia = {
+	4238
+}
+
+#Opole
+opole = {
+	264
+}
+
+#Silesia
+silesia = { #4
+	263 2963
+}
+
+#Swietokrzyskie
+swietokrzyskie = {
+	2959
+}
+
+#Lodz
+lodz = {
+	259
+}
+
+#Lesser Poland
+lesser_poland = {
+	262
+}
+
+#Subcarpathian
+subcarpathian = {
+	2960
+}
+
+#Lublin
+lublin = { #5
+	260
+}
+
+#Mazovia
+mazovia = { #4
+	257 1938
+}
+
+#Podlaskie
+podlaskie = {
+	269
+}
+
+#Warmian-Masurian
+warmian_masurian = {
+	42 767 2958
+}
+
+#Kaliningrad
+kaliningrad = { #4
+	40 41
 }
 
 red_ruthenia_area = { #4
@@ -739,10 +985,6 @@ podolia_volhynia_area = { #4
 
 pripyat_area = { #3
 	277 278 1941
-}
-
-mazovia_area = { #4
-	256 257 269 1938
 }
 
 samogitia_area = { #3
@@ -903,48 +1145,86 @@ saratov_area = { #3
 # Germany			 				   #
 ########################################
 
-silesia_area = { #4
-	263 264 2966 4238
+##################
+# CZECH REPUBLIC #
+##################
+
+#Bohemia
+bohemia = {
+	266 267 1771 2967 2968 2970
 }
 
-bohemia_area = { #5
-	265 266 2968 2970 4237
+#Moravia
+moravia = { #5
+	265 1770 4237
 }
 
-erzgebirge_area = { #3
-	267 1771 2967
+###########
+# AUSTRIA #
+###########
+
+#Carinthia
+carinthia = {
+	128
 }
 
-
-neumark_area = { #3
-	color = { 234 232 44 }
-	49 2969
+#Vorarlberg
+vorarlberg = {
+	1769
 }
 
-hinter_pommern_area = { #3
-	48 1858 2995
+#Tyrol
+tyrol = {
+	73 1768
 }
 
-tirol_area = { #3
-	73 110 1768
+#Salzburg
+salzburg = { #3
+	76
 }
 
-austria_proper_area = { #3
-	color = { 213 40 40 }
-	133 134 1770
+#Styria
+styria = {
+	132
 }
 
-inner_austria_area = { #3
-	128 132 1863
+#Upper Austria
+upper_austria = {
+	133
 }
 
-carinthia_area = { #3
-	color = { 46 217 110 }
-	129 130 1769
+#Lower Austria
+lower_austria = { #3
+	134
 }
 
-switzerland_area = { #4
-	166 1869 1870 1873
+#Vienna
+vienna = {
+	4159
+}
+
+#Burgenland
+burgenland = { #3
+	1863
+}
+
+###############
+# SWITZERLAND #
+###############
+
+#Schweiz
+schweiz = { #4
+	1869 1870 1873 4161 4162
+}
+
+#Svizzera
+svizerra = {
+	166
+}
+
+#Suisse
+suisse = {
+	165 1867 1871
 }
 
 romandie_area = { #3
@@ -1035,15 +1315,6 @@ schleswig_holstein = { #3
 	13 45 1775 1857 4141 
 }
 
-###########
-# AUSTRIA #
-###########
-
-#Salzburg
-upper_bavaria_area = { #3
-	76
-}
-
 ########################################
 # South Eastern Europe 				   #
 ########################################
@@ -1065,7 +1336,7 @@ thrace_area = { #3
 }
 
 bulgaria_area = { #5
-	150 159 1765 2746 2750
+	150 159 1765 2750
 }
 
 wallachia_area = { #3
@@ -1088,38 +1359,66 @@ slovakia_area = { #5
 	154 162 1318 1772 4236
 }
 
-serbia_area = { #4
-	141 3000 4176 4239
+##############
+# YUGOSLAVIA #
+##############
+
+#Slovenia
+slovenia = {
+	129 2230
 }
 
-rascia_area = { #3
-	138 1766 1827
+#Croatia
+croatia = {
+	130 131 136 137 152 1767 1826 1828
 }
 
-albania_area = {
+#Bosnia
+bosnia = { #4
+	139 140 1828 1831 3002
+}
+
+#Serbia
+serbia = { #4
+	141 1827 1954 2746 3000 4126 4173 4176 4239
+}
+
+#Montenegro
+montenegro = {
+	138
+}
+
+#Kosovo
+kosovo = { #3
+	1766
+}
+
+###########
+# ALBANIA #
+###########
+
+#Albania
+albania = {
 	143 4174 4175
 }
 
-bosnia_area = { #4
-	139 140 1831 3002
+###########
+# HUNGARY #
+###########
+
+#Great Plain and North
+great_plain_and_north = { #4
+	155 1953 4125
 }
 
-croatia_area = { #5
-	color = { 18 126 16 }
-	131 152 1767 1828 4173
+#Central Hungary
+central_hungary = {
+	153
 }
 
-east_adriatic_coast_area = { #3
-	136 137 1826
-}
-
-alfold_area = { #4
-	155 1953 1954 4125
-}
-
-transdanubia_area = { #5
-	color = { 171 92 22 }
-	135 153 1864 4126 4240
+#Transdanubia
+transdanubia = {
+	135 1864 4240
 }
 
 ########################################
@@ -1881,7 +2180,7 @@ makran_area = { #5
 }
 
 sistan_area = { #4
-	435 2224 2229 2230
+	435 2224 2229
 }
 
 kalat_area = { #3
@@ -3229,7 +3528,7 @@ antofagasta = {
 
 #Atacama
 atacama = {
-	792
+	792 2839
 }
 
 #Valparaiso
@@ -3754,12 +4053,12 @@ new_brunswick = { #4
 
 #Newfoundland And Labrador
 newfoundland_and_labrador = { #3
-    997 980 981 2573 2574 2575
+    996 997 980 981 2573 2574 2575
 }
 
 #Quebec
 quebec = { #5
-    986 990 992 993 994 995 996 998 999 1000 1002 1805 2012 2576 2577 2578 2579 2580 2581 2582 2583 2584
+    986 990 992 993 994 995 998 999 1000 1002 1805 2012 2576 2577 2578 2579 2580 2581 2582 2583 2584
 }
 
 #Ontario

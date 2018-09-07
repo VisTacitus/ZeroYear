@@ -2,8 +2,9 @@
 
 owner = NED
 controller = NED
+add_core = NED
 add_core = X57
-culture = carib
+culture = black_dutch
 religion = animism
 capital = "Suriname"
 trade_goods = unknown
@@ -13,3 +14,9 @@ base_production = 1
 base_manpower = 1
 
 discovered_by = global
+
+1975.11.25 = {
+	remove_core = NED
+	owner = X57
+	controller = X57
+} #Suriname becomes independent.

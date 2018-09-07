@@ -100,7 +100,7 @@ guiTypes = {
 		
 		guiButtonType = {
 			name = "open_build_interface_button"
-			position = { x = 6 y = 109 }
+			position = { x = -1000 y = 109 }
 			quadTextureSprite ="GFX_open_build_interface"
 			tooltip = ""
 			tooltipText =""

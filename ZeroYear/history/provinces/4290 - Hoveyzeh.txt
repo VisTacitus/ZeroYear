@@ -3,7 +3,7 @@
 owner = PER
 controller = PER
 add_core = PER
-culture = al_iraqiya_arabic
+culture = persian
 religion = shiite
 capital = "Hoveyzeh"
 trade_goods = grain

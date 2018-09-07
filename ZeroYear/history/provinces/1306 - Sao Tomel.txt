@@ -3,7 +3,7 @@
 owner = POR
 controller = POR
 add_core = POR
-culture = portugese
+culture = black_portugese
 religion = catholic
 capital = "São Tomé"
 trade_goods = unknown

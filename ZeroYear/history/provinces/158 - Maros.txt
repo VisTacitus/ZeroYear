@@ -3,7 +3,7 @@
 owner = RMN
 controller = RMN
 add_core = RMN
-culture = transylvanian #Szeklers
+culture = romanian
 religion = catholic
 capital = "Targu Mures"
 estate = estate_nobles #Szekelyföld

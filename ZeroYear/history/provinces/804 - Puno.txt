@@ -3,7 +3,7 @@
 owner = PEU
 controller = PEU
 add_core = PEU
-culture = aimara
+culture = mestizo
 religion = inti
 capital = "Hatuncolla"
 trade_goods = gold

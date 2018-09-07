@@ -3,7 +3,7 @@
 owner = USA
 controller = USA
 add_core = USA
-culture = iroquois
+culture = african_american
 religion = totemism
 capital = "Tuscarora"
 trade_goods = unknown

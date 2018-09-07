@@ -1,0 +1,23 @@
+# No previous file for Kantor
+
+owner = FRA
+controller = FRA
+add_core = FRA
+add_core = X94
+is_city = yes
+culture = senegambian 
+religion = shamanism #Fetishism
+capital = "Sutuco"
+trade_goods = ivory
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+
+discovered_by = global
+
+1958.10.2 = {
+	remove_core = FRA
+	owner = X94
+	controller = X94
+} #Guinea proclaims independence from France.

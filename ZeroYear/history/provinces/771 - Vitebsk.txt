@@ -1,11 +1,10 @@
 #771 - Vitebsk
 
-owner = LIT
 owner = SOV
 controller = SOV
 add_core = SOV
 add_core = X09
-culture = byelorussian
+culture = russian
 religion = orthodox
 hre = no
 base_tax = 2

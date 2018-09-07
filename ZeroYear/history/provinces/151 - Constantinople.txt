@@ -3,7 +3,7 @@
 owner = TUR
 controller = TUR
 add_core = TUR
-culture = greek
+culture = turkish
 religion = orthodox
 capital = "Constantinople"
 trade_goods = glass

@@ -1,0 +1,21 @@
+#2966 - Glogau 
+
+owner = POL
+controller = POL
+add_core = POL
+culture = schlesian
+religion = catholic
+capital = "Glogau"
+trade_goods = iron
+hre = no
+base_tax = 3
+base_production = 3
+is_city = yes
+base_manpower = 1
+
+discovered_by = global
+
+add_claim = GER #Rejection of the Oder-Neisse line
+1992.1.16 = {
+	remove_claim = GER
+} #The German-Polish Border Treaty is signed, finalizing the Oder-Neisse line.

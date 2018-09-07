@@ -3,7 +3,7 @@
 owner = CHL
 controller = CHL
 add_core = CHL
-culture = aimara
+culture = mestizo
 religion = inti
 capital = "Arica"
 trade_goods = unknown

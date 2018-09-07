@@ -3,7 +3,7 @@
 owner = SPA
 controller = SPA
 add_core = SPA 
-culture = moroccan
+culture = sunni_arab
 religion = sunni
 capital = "Cebta"
 trade_goods = fish

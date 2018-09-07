@@ -94,25 +94,19 @@ guiTypes = {
 		name = "provinceview"
 		backGround=""
 		#position = { x=0 y=-583 }	
-		position = { x=-1000 y=-593 }	
-		show_position = { x=-8 y =-603 }
+		position = { x=-1000 y=-693 }	
+		show_position = { x=-8 y =-593 }
 		hide_position = { x=-1000 y =-593 }	
 		animation_type = "decelerated"
 		animation_time = 300	
-		size = { x=900 y=900 }
+		size = { x=900 y=1200 }
 		moveable = 1
 		dontRender = ""
 		horizontalBorder= ""
 		verticalBorder= ""
 		fullScreen = no	
 		Orientation = "LOWER_LEFT"
-	
-		iconType =
-		{
-			name ="province_terrain"
-			spriteType = "GFX_combat_terrain_hills"
-			position = { x = 58 y = 50 }
-		}
+		
 		iconType =
 		{
 			name ="provinceview_bg"
@@ -141,12 +135,6 @@ guiTypes = {
 			position = { x= -2 y = -81}
 		}
 		
-	
-		
-
-		
-		
-		
 		iconType =
 		{
 			name ="trade_icon"
@@ -169,6 +157,13 @@ guiTypes = {
 			Orientation = "UPPER_LEFT"
 			format = right
 			spacing = 1
+		}
+		
+		iconType =
+		{
+			name ="province_terrain"
+			spriteType = "GFX_combat_terrain_hills"
+			position = { x = 58 y = 50 }
 		}
 		
 		guiButtonType =
@@ -1097,7 +1092,7 @@ guiTypes = {
 
 			guiButtonType = {
 				name = "build_landunit_button"
-				position = { x=317 y = 245}
+				position = { x= -1000 y = 245}
 				quadTextureSprite ="GFX_build_army"	
 				tooltip = ""
 				tooltipText =""
@@ -1109,7 +1104,7 @@ guiTypes = {
 
 			guiButtonType = {
 				name = "build_merc_button"
-				position = { x= 427 y = 245}
+				position = { x= -1000 y = 245}
 				quadTextureSprite ="GFX_build_merc"	
 				tooltip = ""
 				tooltipText =""
@@ -1121,7 +1116,7 @@ guiTypes = {
 			
 			guiButtonType = {
 				name = "build_navy_button"
-				position = { x = 372 y = 245}
+				position = { x = -1000 y = 245}
 				quadTextureSprite ="GFX_build_navy"	
 				tooltip = ""
 				tooltipText =""

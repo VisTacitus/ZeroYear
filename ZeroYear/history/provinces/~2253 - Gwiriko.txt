@@ -1,0 +1,23 @@
+# No previous file for Gwiriko
+
+owner = FRA
+controller = FRA
+add_core = FRA
+add_core = Y05
+is_city = yes
+culture = dyola 
+religion = shamanism #Fetishism
+capital = "Say"
+trade_goods = grain
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+
+discovered_by = global
+
+1960.8.5 = {
+	remove_core = FRA
+	owner = Y05
+	controller = Y05
+} #Burkina Faso gains its' independence from France.

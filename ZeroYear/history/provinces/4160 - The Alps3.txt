@@ -1,6 +1,8 @@
 #Mountains blocking movement in central europe
+
 owner = ITA
 controller = ITA
 add_core = ITA
+culture = german
 
 discovered_by = global

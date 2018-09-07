@@ -3,7 +3,7 @@
 owner = USA
 controller = USA
 add_core = USA
-culture = powhatan
+culture = african_american
 religion = totemism
 capital = "Powhatan"
 trade_goods = tobacco

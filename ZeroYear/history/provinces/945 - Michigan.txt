@@ -3,7 +3,7 @@
 owner = USA
 controller = USA
 add_core = USA
-culture = chiwere
+culture = anglo_american
 religion = totemism
 capital = "Michigan"
 trade_goods = fur

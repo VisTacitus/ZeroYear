@@ -3,7 +3,7 @@
 owner = FRA
 controller = FRA
 add_core = ALG
-culture = tunisian
+culture = sunni_arab
 religion = ibadi
 capital = "Djerba"
 trade_goods = grain

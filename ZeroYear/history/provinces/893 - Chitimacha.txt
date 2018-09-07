@@ -3,7 +3,7 @@
 owner = USA
 controller = USA
 add_core = USA
-culture = choctaw
+culture = anglo_american
 religion = totemism
 capital = "Chitimacha"
 trade_goods = unknown

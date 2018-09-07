@@ -1,0 +1,24 @@
+#1185 - Uteve
+
+owner = GBR
+controller = GBR
+add_core = GBR
+add_core = Y22
+culture = shona
+religion = shamanism
+capital = "Khami"
+is_city = yes
+base_manpower = 1
+trade_goods = gold
+hre = no
+base_tax = 3 
+base_production = 3
+
+discovered_by = global
+
+1965.11.11 = {
+	remove_core = GBR
+	add_core = Y22
+	owner = Y22
+	controller = Y22
+} #Zimbawe or Southern Rhodesia declares independence. It has de facto control.

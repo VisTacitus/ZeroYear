@@ -3,7 +3,7 @@
 owner = ITA
 controller = ITA
 add_core = ITA
-culture = neapolitan 
+culture = italian 
 religion = catholic 
 hre = no 
 base_tax = 3 

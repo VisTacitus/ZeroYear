@@ -1,0 +1,22 @@
+#1216 - Tegali
+
+owner = GBR
+controller = GBR
+add_core = GBR
+add_core = X83
+culture = nubian #Shilluk
+religion = shamanism #Fetishism
+capital = "Takala"
+trade_goods = unknown
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+
+discovered_by = global
+
+1956.1.1 = {
+	remove_core = GBR
+	owner = X83
+	controller = X83
+} #Sudan gains independence from the United Kingdom.

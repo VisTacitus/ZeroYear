@@ -1,0 +1,18 @@
+#103 - Piedmont
+
+owner = ITA
+controller = ITA
+add_core = ITA
+culture = piedmontese
+religion = catholic
+hre = no
+base_tax = 7 
+base_production = 7
+trade_goods = wine
+base_manpower = 3
+capital = "Torino"
+is_city = yes
+
+
+
+discovered_by = global

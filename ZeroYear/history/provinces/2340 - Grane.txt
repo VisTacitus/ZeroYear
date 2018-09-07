@@ -4,7 +4,7 @@ owner = GBR
 controller = GBR
 add_core = GBR
 add_core = X79
-culture = gulf_arabic
+culture = shia_arab
 religion = sunni
 capital = "Grane" #old name for Kuwait
 trade_goods = fish
@@ -21,3 +21,13 @@ discovered_by = global
 	owner = X79
 	controller = X79
 } #End of Kuwaiti treaties with the United Kingdom.
+1990.8.4 = {
+	controller = IRQ
+} #Iraq occupies Kuwait. Oh no!
+1990.8.8 = {
+	owner = IRQ
+} #Kuwait is formally annexed by Iraq.
+1991.2.28 = {
+	owner = X79
+	controller = X79
+} #Kuwait is liberated.

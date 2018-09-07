@@ -1,0 +1,13 @@
+#1103 - Bourbon
+
+owner = FRA
+controller = FRA
+add_core = FRA
+capital = "Bourbon"
+trade_goods = unknown
+hre = no
+base_tax = 5 
+base_production = 5
+base_manpower = 1
+
+discovered_by = global

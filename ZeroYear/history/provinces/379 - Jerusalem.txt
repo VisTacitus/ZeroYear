@@ -3,7 +3,7 @@
 owner = GBR
 controller = GBR
 add_core = X33
-culture = al_suryah_arabic
+culture = sunni_arab
 religion = sunni
 capital = "Al Quds"
 trade_goods = grain

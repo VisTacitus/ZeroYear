@@ -1,0 +1,16 @@
+#820 - Quito
+
+owner = X49
+controller = X49
+add_core = X49
+culture = cara
+religion = inti
+capital = "Quito"
+is_city = yes
+trade_goods = cloth
+hre = no
+base_tax = 6 
+base_production = 6
+base_manpower = 2
+
+discovered_by = global

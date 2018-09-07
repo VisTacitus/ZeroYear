@@ -3,7 +3,7 @@
 owner = SOV
 controller = SOV
 add_core = EST
-culture = latvian
+culture = estonian
 religion = catholic
 capital = "Pärnu"
 trade_goods = livestock

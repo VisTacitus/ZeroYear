@@ -3,7 +3,7 @@
 owner = GBR
 controller = GBR
 add_core = HAB
-culture = austrian
+culture = german
 religion = catholic
 base_tax = 5
 base_production = 5

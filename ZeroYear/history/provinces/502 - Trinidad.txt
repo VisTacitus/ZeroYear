@@ -2,8 +2,9 @@
 
 owner = GBR
 controller = GBR
+add_core = GBR
 add_core = X68
-culture = carib
+culture = black_anglo
 religion = animism
 capital = "Trinidad"
 trade_goods = unknown
@@ -11,8 +12,11 @@ hre = no
 base_tax = 4 
 base_production = 5
 base_manpower = 1
-native_size = 25
-native_ferocity = 2
-native_hostileness = 9
 
 discovered_by = global
+
+1962.8.31 = {
+	remove_core = GBR
+	owner = X68
+	controller = X68
+} #Trinidad and Tobago becomes independent.

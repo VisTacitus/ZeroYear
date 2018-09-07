@@ -3,7 +3,7 @@
 owner = MEX
 controller = MEX
 add_core = MEX
-culture = tecos
+culture = mestizo
 is_city = yes 
 religion = nahuatl
 capital = "Sayultecas" 

@@ -3,7 +3,7 @@
 owner = CAN
 controller = CAN
 add_core = CAN
-culture = athabascan
+culture = anglo_canadian
 religion = totemism
 capital = "Athabasca"
 trade_goods = unknown

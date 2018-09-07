@@ -1,0 +1,13 @@
+
+owner = GBR
+controller = GBR
+add_core = GBR
+add_core = Y21
+
+discovered_by = global
+
+1966.9.30 = {
+	remove_core = GBR
+	owner = Y21
+	controller = Y21
+} #Botswana is established.

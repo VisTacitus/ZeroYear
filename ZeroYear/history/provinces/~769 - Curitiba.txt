@@ -1,0 +1,17 @@
+#769 - Curitiba
+
+owner = BRZ
+controller = BRZ
+add_core = BRZ
+culture = guarani
+discovered_by = global
+religion = animism
+capital = "Curitiba"
+trade_goods = unknown
+hre = no
+base_tax = 2 
+base_production = 3
+base_manpower = 1
+native_size = 5
+native_ferocity = 1
+native_hostileness = 2

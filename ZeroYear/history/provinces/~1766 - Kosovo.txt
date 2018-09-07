@@ -1,0 +1,34 @@
+#1766 - Kosovo
+
+latent_trade_goods = {
+	coal
+}
+
+owner = X02
+controller = X02
+add_core = X02
+add_core = SER
+add_core = X04
+culture = serbian
+religion = orthodox
+capital = "Pristina"
+trade_goods = gold #Novo Brdo and other Silver mines in this area
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 2
+is_city = yes
+
+discovered_by = global
+
+1998.6.25 = {
+	controller = X04
+} #Albanian terrorists in Kosovo seize major cities.
+1998.10.6 = {
+	controller = X02
+} #Kosovan War comes to an end with UN Security Council Resolution 1244.
+2006.6.5 = {
+	remove_core = X02
+	owner = SER
+	controller = SER
+} #Yugoslavia finally breaks up after Montenegro leaves.

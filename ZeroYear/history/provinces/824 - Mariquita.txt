@@ -3,7 +3,7 @@
 owner = COL
 controller = COL
 add_core = COL
-culture = guajiro
+culture = mestizo
 religion = animism
 capital = "Mariquita"
 trade_goods = unknown

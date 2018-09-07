@@ -3,7 +3,7 @@
 owner = RMN
 controller = RMN
 add_core = RMN
-culture = transylvanian #Transylvanian Saxons
+culture = hungarian
 religion = catholic
 capital = "Sibiu"
 trade_goods = cloth

@@ -3,7 +3,7 @@
 owner = TUR
 controller = TUR
 add_core = TUR
-culture = al_suryah_arabic
+culture = sunni_arab
 religion = sunni
 capital = "Antakya"
 trade_goods = cloth

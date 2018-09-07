@@ -3,7 +3,7 @@
 owner = MEX
 controller = MEX
 add_core = MEX
-culture = highland_mayan
+culture = mestizo
 is_city = yes
 religion = mesoamerican_religion
 capital = "Xoconochco"
@@ -12,10 +12,5 @@ hre = no
 base_tax = 3 
 base_production = 3
 base_manpower = 1
- #Precolumbian international trade hub
-add_local_autonomy = 50
-native_size = 5
-native_ferocity = 1
-native_hostileness = 2
 
 discovered_by = global

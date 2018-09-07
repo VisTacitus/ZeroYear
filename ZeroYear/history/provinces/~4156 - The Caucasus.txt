@@ -1,0 +1,14 @@
+#4156 - The Caucasus
+
+owner = SOV
+controller = SOV
+add_core = SOV
+add_core = ARM
+
+discovered_by = global
+
+1991.9.21 = {
+	remove_core = SOV
+	owner = ARM
+	controller = ARM
+} #Armenia declares independence.

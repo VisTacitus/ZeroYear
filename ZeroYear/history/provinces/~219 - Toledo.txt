@@ -1,0 +1,17 @@
+#219 - Toledo
+
+owner = SPA
+controller = SPA
+add_core = SPA
+culture = castillian
+religion = catholic
+hre = no
+base_tax = 6 
+base_production = 6
+trade_goods = iron 
+base_manpower = 4
+capital = "Toledo" 
+is_city = yes
+fort_15th = yes
+
+discovered_by = global

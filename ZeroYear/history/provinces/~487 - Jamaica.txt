@@ -1,0 +1,15 @@
+#487 - Jamaica
+
+owner = GBR
+controller = GBR
+add_core = X59
+culture = black_anglo
+religion = animism
+capital = "Jamaica"
+trade_goods = unknown
+hre = no
+base_tax = 4
+base_production = 5 
+base_manpower = 1
+
+discovered_by = global

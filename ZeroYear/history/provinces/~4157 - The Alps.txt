@@ -1,0 +1,8 @@
+#Mountains blocking movement in central europe
+
+owner = ITA
+controller = ITA
+capital = "Susa"
+is_city = yes
+
+discovered_by = global

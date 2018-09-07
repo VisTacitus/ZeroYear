@@ -3,7 +3,7 @@
 owner = MEX
 controller = MEX
 add_core = MEX
-culture = aztek 
+culture = mestizo 
 religion = nahuatl
 capital = "Huastec"
 trade_goods = cotton 

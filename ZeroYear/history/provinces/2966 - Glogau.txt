@@ -3,7 +3,7 @@
 owner = POL
 controller = POL
 add_core = POL
-culture = schlesian
+culture = german
 religion = catholic
 capital = "Glogau"
 trade_goods = iron

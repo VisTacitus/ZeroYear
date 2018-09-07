@@ -3,7 +3,7 @@
 owner = SAF
 controller = SAF
 add_core = SAF
-culture = khoisan
+culture = colored_south_african
 religion = shamanism #Fetishism
 capital = "Senqu"
 trade_goods = unknown
@@ -11,8 +11,5 @@ hre = no
 base_tax = 1 
 base_production = 1
 base_manpower = 1
-native_size = 40
-native_ferocity = 2
-native_hostileness = 6
 
 discovered_by = global

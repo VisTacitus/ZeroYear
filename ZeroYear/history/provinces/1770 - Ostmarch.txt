@@ -3,7 +3,7 @@
 owner = BOH
 controller = BOH
 add_core = BOH
-culture = austrian
+culture = czech
 religion = catholic
 base_tax = 5 
 base_production = 5

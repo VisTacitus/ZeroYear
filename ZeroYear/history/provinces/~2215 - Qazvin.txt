@@ -1,0 +1,17 @@
+#2215 - Qazvin
+
+owner = PER
+controller = PER
+add_core = PER
+culture = azerbaijani
+religion = shiite
+capital = "Qazvin"
+trade_goods = silk
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 2
+is_city = yes
+fort_15th = yes
+
+discovered_by = global

@@ -282,7 +282,7 @@ guiTypes = {
 		{
 			name ="recruit_general"
 			spriteType = "GFX_recruit_general"
-			position = { x= 396 y = 87 }
+			position = { x= -1000 y = 87 }
 			Orientation = "UPPER_LEFT"
 		}		
 
@@ -290,7 +290,7 @@ guiTypes = {
 		{
 			name ="recruit_conquistador"
 			spriteType = "GFX_recruit_conquistador"
-			position = { x= 396 y = 137 }
+			position = { x= -1000 y = 137 }
 			Orientation = "UPPER_LEFT"
 		}	
 		
@@ -298,7 +298,7 @@ guiTypes = {
 		{		
 			name ="recruit_admiral"
 			spriteType = "GFX_recruit_admiral"
-			position = { x= 396 y = 87 }
+			position = { x= -1000 y = 87 }
 			Orientation = "UPPER_LEFT"
 		}		
 
@@ -306,7 +306,7 @@ guiTypes = {
 		{
 			name ="recruit_explorer"
 			spriteType = "GFX_recruit_explorer"
-			position = { x= 396 y = 137 }
+			position = { x= -1000 y = 137 }
 			Orientation = "UPPER_LEFT"
 		}		
 	
@@ -315,7 +315,7 @@ guiTypes = {
 		{
 			name ="convert_ruler_to_general"
 			spriteType = "GFX_convert_ruler_to_general"
-			position = { x= 396 y = 187 }
+			position = { x= -1000 y = 187 }
 			Orientation = "UPPER_LEFT"
 		}		
 
@@ -323,7 +323,7 @@ guiTypes = {
 		{
 			name ="convert_heir_to_general"
 			spriteType = "GFX_convert_heir_to_general"
-			position = { x= 396 y = 237 }
+			position = { x= -1000 y = 237 }
 			Orientation = "UPPER_LEFT"
 		}				
 

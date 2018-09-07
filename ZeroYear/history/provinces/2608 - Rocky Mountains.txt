@@ -3,5 +3,6 @@ owner = USA
 controller = USA
 add_core = USA
 capital = "Coeur d'Alene"
+culture = anglo_american
 
 discovered_by = global

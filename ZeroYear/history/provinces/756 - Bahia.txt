@@ -3,7 +3,7 @@
 owner = BRZ
 controller = BRZ
 add_core = BRZ
-culture = tupinamba
+culture = pardo_portugese
 discovered_by = global
 religion = animism
 capital = "Bahia"
@@ -12,6 +12,3 @@ hre = no
 base_tax = 3
 base_production = 5
 base_manpower = 2
-native_size = 10
-native_ferocity = 1
-native_hostileness = 3

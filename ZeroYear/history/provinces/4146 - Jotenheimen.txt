@@ -2,6 +2,7 @@
 owner = NOR
 controller = NOR
 add_core = NOR
+culture = norwegian
 
 is_city = yes
 discovered_by = global

@@ -2,5 +2,6 @@
 owner = SWI
 controller = SWI
 add_core = SWI
+culture = german
 
 discovered_by = global

@@ -1,0 +1,14 @@
+# Bagoe - Wasteland province
+
+owner = FRA
+controller = FRA
+add_core = FRA
+add_core = X97
+
+discovered_by = global
+
+1960.8.7 = {
+	remove_core = FRA
+	owner = X97
+	controller = X97
+} #The Ivory Coast gains its' independence from France.

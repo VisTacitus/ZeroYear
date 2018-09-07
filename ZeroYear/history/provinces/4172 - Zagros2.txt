@@ -3,5 +3,6 @@
 owner = PER
 controller = PER
 add_core = PER
+culture = persian
 
 discovered_by = global

@@ -1,0 +1,31 @@
+#139 - Hum
+
+owner = X02
+controller = X02
+add_core = X02
+add_core = BOS
+culture = serbian
+religion = catholic
+capital = "Mostar"
+trade_goods = wool
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 2
+is_city = yes
+
+discovered_by = global
+
+1992.3.1 = {
+	owner = BOS
+	controller = BOS
+	remove_core = X02
+} #Secession of Bosnia
+1992.3.4 = {
+	owner = BOS
+	controller = CRO
+} #Croatian Army marches into Bosnia, nearing Sarajevo
+1995.12.14 = {
+	owner = BOS
+	controller = BOS
+} #The Dayton Agreement is signed, and Bosnia and Herzegovina is formed.

@@ -3,7 +3,7 @@
 owner = ITA
 controller = ITA
 add_core = ITA
-culture = lombard
+culture = italian
 religion = catholic
 hre = no
 base_tax = 11 
@@ -13,5 +13,5 @@ base_manpower = 8
 fort_15th = yes #Sforza Castle
 capital = "Milano"
 is_city = yes	# Estimated
+
 discovered_by = global
-extra_cost = 10

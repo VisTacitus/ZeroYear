@@ -1,0 +1,22 @@
+# No previous file for Tagant
+
+owner = FRA
+controller = FRA
+add_core = FRA
+add_core = Y06
+culture = fulani 
+religion = shamanism #Fetishism
+capital = "Kiffa"
+trade_goods = unknown
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+
+discovered_by = global
+
+1960.11.28 = {
+	remove_core = FRA
+	owner = Y06
+	controller = Y06
+} #Mauritania gains independence from France.

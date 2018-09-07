@@ -1,0 +1,15 @@
+#497 - Dominica
+
+owner = GBR
+controller = GBR
+add_core = X64
+culture = black_anglo
+religion = animism
+capital = "Dominica"
+trade_goods = unknown 
+hre = no
+base_tax = 4
+base_production = 5
+base_manpower = 1
+
+discovered_by = global

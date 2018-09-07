@@ -3,7 +3,7 @@
 owner = USA
 controller = USA
 add_core = USA
-culture = caddo
+culture = anglo_american
 religion = totemism
 capital = "Caddo"
 trade_goods = cotton
@@ -12,9 +12,6 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 is_city = yes
-native_size = 20
-native_ferocity = 3
-native_hostileness = 9
 
 discovered_by = global
 

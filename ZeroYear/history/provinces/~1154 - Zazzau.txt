@@ -1,0 +1,23 @@
+#1154 - Zazzau
+
+owner = GBR
+controller = GBR
+add_core = GBR
+add_core = Y01
+culture = hausa
+is_city = yes
+base_manpower = 3
+religion = shamanism #Fetishism
+capital = "Turunku"
+trade_goods = slaves
+hre = no
+base_tax = 3 
+base_production = 3
+
+discovered_by = global
+
+1960.10.1 = {
+	remove_core = GBR
+	owner = Y01
+	controller = Y01
+} #Nigeria gains its' independence and is recognized.

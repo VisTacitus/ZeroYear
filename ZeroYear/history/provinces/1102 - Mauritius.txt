@@ -5,6 +5,7 @@ controller = GBR
 add_core = GBR
 add_core = Y28
 capital = "Mauritius"
+culture = indian
 trade_goods = unknown
 hre = no
 base_tax = 5 

@@ -1,0 +1,23 @@
+#4246 - Mstislav
+
+owner = SOV
+controller = SOV
+add_core = SOV
+add_core = X09
+culture = byelorussian
+religion = orthodox 
+hre = no
+base_tax = 1
+base_production = 1
+trade_goods = wool 
+base_manpower = 1
+capital = "Mstislav"
+is_city = yes
+
+discovered_by = global
+
+1991.12.26 = {
+	remove_core = SOV
+	owner = X09
+	controller = X09
+} #Belarus granted independence from the Soviet Union.

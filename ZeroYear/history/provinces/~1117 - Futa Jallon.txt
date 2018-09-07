@@ -1,0 +1,23 @@
+#1117 - Futa Jallon
+
+owner = FRA
+controller = FRA
+add_core = FRA
+add_core = X94
+culture = fulani
+is_city = yes
+base_manpower = 3
+religion = shamanism #Fetishism
+capital = "Timbo"
+trade_goods = ivory
+hre = no
+base_tax = 3 
+base_production = 3
+
+discovered_by = global
+
+1958.10.2 = {
+	remove_core = FRA
+	owner = X94
+	controller = X94
+} #Guinea proclaims independence from France.

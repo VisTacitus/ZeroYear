@@ -1,0 +1,15 @@
+#483 - Turks Islands
+
+owner = GBR
+controller = GBR
+add_core = X71
+culture = black_anglo
+religion = animism
+capital = "Grand Turk"
+trade_goods = unknown
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 1
+
+discovered_by = global

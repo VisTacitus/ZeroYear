@@ -2,5 +2,6 @@
 owner = AND
 controller = AND
 add_core = AND
+culture = french
 
 discovered_by = global

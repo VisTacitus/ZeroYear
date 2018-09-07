@@ -1,0 +1,16 @@
+# - Pisqupampa
+
+owner = PEU
+controller = PEU
+add_core = PEU
+culture = inca
+religion = inti
+capital = "Pisqupampa"
+trade_goods = grain
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+is_city = yes
+
+discovered_by = global

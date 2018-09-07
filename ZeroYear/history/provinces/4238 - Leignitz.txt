@@ -4,7 +4,7 @@
 owner = POL
 controller = POL
 add_core = POL
-culture = schlesian
+culture = german
 religion = catholic
 capital = "Liegnitz"
 trade_goods = glass

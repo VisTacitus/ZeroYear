@@ -3,7 +3,7 @@
 owner = USA
 controller = USA
 add_core = USA
-culture = shawnee #yuchi
+culture = anglo_american
 religion = totemism
 capital = "Shawnee"
 trade_goods = grain

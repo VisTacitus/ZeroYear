@@ -1,0 +1,23 @@
+#1123 - Segu
+
+owner = FRA
+controller = FRA
+add_core = FRA
+add_core = MAL
+culture = bambara
+is_city = yes
+base_manpower = 2
+religion = shamanism #Fetishism
+capital = "Kirina"
+trade_goods = grain
+hre = no
+base_tax = 5 
+base_production = 5
+
+discovered_by = global
+
+1960.6.20 = {
+	remove_core = FRA
+	owner = MAL
+	controller = MAL
+} #Mali gains independence from France.

@@ -3,7 +3,7 @@
 owner = USA
 controller = USA
 add_core = USA
-culture = illini
+culture = anglo_american
 religion = totemism
 capital = "Kaskaskia"
 trade_goods = unknown

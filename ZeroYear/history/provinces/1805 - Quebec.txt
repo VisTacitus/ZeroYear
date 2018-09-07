@@ -1,5 +1,7 @@
+
 owner = CAN
 controller = CAN
 add_core = CAN
+culture = native_american_minor
 
 discovered_by = global

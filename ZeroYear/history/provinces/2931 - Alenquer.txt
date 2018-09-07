@@ -2,8 +2,9 @@
 
 owner = GBR
 controller = GBR
+add_core = GBR
 add_core = X56
-culture = carib
+culture = black_anglo
 religion = animism
 capital = "Pirara"
 trade_goods = unknown
@@ -13,3 +14,9 @@ base_production = 1
 base_manpower = 1
 
 discovered_by = global
+
+1960.2.23 = {
+	remove_core = GBR
+	owner = X56
+	controller = X56
+} #Guyana becomes independent of Great Britain.

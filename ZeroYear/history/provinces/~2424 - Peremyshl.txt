@@ -1,0 +1,23 @@
+#2424 - Przemysl
+
+owner = SOV
+controller = SOV
+add_core = SOV
+add_core = UKR
+culture = ruthenian
+religion = orthodox
+hre = no
+base_tax = 3
+base_production = 3
+trade_goods = livestock
+base_manpower = 1
+capital = "Przemysl"
+is_city = yes
+
+discovered_by = global
+
+1991.8.24 = {
+	remove_core = SOV
+	owner = UKR
+	controller = UKR
+} #Ukrainian Independence is restored.

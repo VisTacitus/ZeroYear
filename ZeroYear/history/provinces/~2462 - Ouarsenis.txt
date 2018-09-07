@@ -1,0 +1,23 @@
+# - Ouarsenis
+
+owner = FRA
+controller = FRA
+add_core = FRA
+add_core = ALG 
+culture = berber
+religion = sunni
+capital = "Ouarsenis"
+trade_goods = livestock
+hre = no
+base_tax = 2 
+base_production = 2
+base_manpower = 1
+is_city = yes
+
+discovered_by = global
+
+1962.7.3 = {
+	remove_core = FRA
+	owner = ALG
+	controller = ALG
+} #Algeria gains independence from France after a colonial war.

@@ -3,7 +3,7 @@
 owner = USA
 controller = USA
 add_core = USA
-culture = creek
+culture = anglo_american
 religion = totemism
 capital = "Pensacola"
 trade_goods = cotton

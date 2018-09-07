@@ -1,0 +1,23 @@
+
+owner = POR
+controller = POR
+add_core = POR
+add_core = Y18
+
+culture = chokwe
+religion = shamanism #Fetishism
+capital = "Chokwe"
+trade_goods = ivory
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 2
+is_city = yes
+
+discovered_by = global
+
+1975.11.11 = {
+	remove_core = POR
+	owner = Y18
+	controller = Y18
+} #Angola became independent underneath Communist rule.

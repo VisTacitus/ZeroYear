@@ -1,0 +1,23 @@
+#Pubungo
+
+owner = GBR
+controller = GBR
+add_core = GBR
+add_core = Y13
+culture = acholi
+religion = shamanism #Fetishism
+capital = "Pubungo"
+trade_goods = livestock
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 2
+is_city = yes
+
+discovered_by = global
+
+1962.10.9 = {
+	remove_core = GBR
+	owner = Y13
+	controller = Y13
+} #Uganda gains its' independence from the United Kingdom.

@@ -3,5 +3,6 @@
 owner = SWE
 controller = SWE
 add_core = SWE
+culture = swedish
 
 discovered_by = global

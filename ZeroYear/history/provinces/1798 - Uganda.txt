@@ -4,6 +4,7 @@ owner = GBR
 controller = GBR
 add_core = GBR
 add_core = X83
+culture = bari
 
 discovered_by = global
 

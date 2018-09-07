@@ -3,7 +3,7 @@
 owner = TUR
 controller = TUR
 add_core = TUR
-culture = kurdish
+culture = turkish
 religion = sunni
 capital = "Urfa"
 trade_goods = wool

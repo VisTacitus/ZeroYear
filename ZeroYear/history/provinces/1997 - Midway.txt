@@ -3,7 +3,7 @@
 owner = USA
 controller = USA
 add_core = USA
-culture = polynesian
+culture = anglo_american
 religion = animism
 capital = "Midway"
 trade_goods = unknown

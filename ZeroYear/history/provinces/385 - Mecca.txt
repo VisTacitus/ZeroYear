@@ -3,7 +3,7 @@
 owner = NAJ
 controller = NAJ
 add_core = NAJ
-culture = hejazi_culture
+culture = sunni_arab
 religion = sunni
 capital = "Makkah"
 trade_goods = incense
@@ -12,6 +12,5 @@ base_tax = 4
 base_production = 4
 base_manpower = 4
 is_city = yes
-extra_cost = 10
 
 discovered_by = global

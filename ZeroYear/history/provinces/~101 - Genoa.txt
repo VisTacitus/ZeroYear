@@ -1,0 +1,18 @@
+#101 - Liguria
+
+owner = ITA
+controller = ITA
+add_core = ITA
+culture = ligurian
+religion = catholic
+hre = no
+base_tax = 10 
+base_production = 10
+trade_goods = paper
+base_manpower = 5
+fort_15th = yes
+capital = "Genova"
+is_city = yes
+discovered_by = global
+
+extra_cost = 10

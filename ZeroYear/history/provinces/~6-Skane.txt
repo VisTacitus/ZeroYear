@@ -1,0 +1,18 @@
+#Skåne
+
+add_core = SWE
+owner = SWE
+controller = SWE
+culture = danish
+religion = catholic
+hre = no
+base_tax = 7
+base_production = 7
+#trade_goods = grain
+trade_goods = fish #The Great Herring Market of Skåne
+base_manpower = 6
+capital = "Lund"
+is_city = yes
+fort_15th = yes
+
+discovered_by = global

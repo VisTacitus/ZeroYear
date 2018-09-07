@@ -3,7 +3,7 @@
 owner = ETH
 controller = ETH
 add_core = ETH
-culture = sidamo 
+culture = african_minor
 religion = shamanism
 capital = "Irgalem"
 is_city = yes

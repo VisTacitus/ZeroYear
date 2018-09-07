@@ -3,7 +3,7 @@
 owner = USA
 controller = USA
 add_core = USA
-culture = choctaw
+culture = african_american
 religion = totemism
 capital = "Choctaw"
 trade_goods = cotton

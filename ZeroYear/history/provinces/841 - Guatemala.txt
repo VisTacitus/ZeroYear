@@ -3,7 +3,7 @@
 owner = X43
 controller = X43
 add_core = X43
-culture = highland_mayan 
+culture = mayan
 religion = mesoamerican_religion
 capital = "Guatemala" 
 trade_goods = cocoa 

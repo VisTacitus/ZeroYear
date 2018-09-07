@@ -2,8 +2,9 @@
 
 owner = GBR
 controller = GBR
+add_core = GBR
 add_core = X59
-culture = arawak
+culture = black_anglo
 religion = animism
 capital = "Jamaica"
 trade_goods = unknown
@@ -13,3 +14,9 @@ base_production = 5
 base_manpower = 1
 
 discovered_by = global
+
+1962.8.6 = {
+	remove_core = GBR
+	owner = X59
+	controller = X59
+} #Jamaica gains its' independence from the United Kingdom.

@@ -1,0 +1,23 @@
+#476 - Kypshak
+
+owner = SOV
+controller = SOV
+add_core = SOV
+add_core = KZH
+culture = khazak
+religion = sunni
+capital = "Orda-Bazar"
+trade_goods = grain
+hre = no
+base_tax = 6 
+base_production = 6
+base_manpower = 6
+is_city = yes
+
+discovered_by = global
+
+1991.12.16 = {
+	remove_core = SOV
+	owner = KZH
+	controller = KZH
+} #Kazakhstan declares independence from the Soviet Union.

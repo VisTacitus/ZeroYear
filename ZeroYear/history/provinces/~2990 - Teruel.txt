@@ -1,0 +1,16 @@
+#214 - Teruel
+
+owner = SPA
+controller = SPA
+add_core = SPA
+culture = aragonese
+religion = catholic
+hre = no
+base_tax = 3
+base_production = 3
+trade_goods = cloth
+base_manpower = 3
+capital = "Teruel"
+is_city = yes
+
+discovered_by = global

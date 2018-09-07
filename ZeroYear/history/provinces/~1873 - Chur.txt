@@ -1,0 +1,17 @@
+#1873 - Chur
+
+owner = SWI
+controller = SWI
+add_core = SWI
+culture = swiss
+religion = catholic
+capital = "Chur"
+trade_goods = livestock
+hre = yes
+base_tax = 3 
+base_production = 3
+base_manpower = 1
+is_city = yes
+fort_15th = yes
+
+discovered_by = global

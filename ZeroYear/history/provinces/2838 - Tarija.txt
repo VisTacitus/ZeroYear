@@ -4,10 +4,7 @@ owner = X51
 controller = X51
 add_core = X51
 is_city = yes
-culture = aimara
-
-discovered_by = global
-
+culture = white_spanish
 religion = inti
 capital = "Tarija"
 trade_goods = wool
@@ -15,3 +12,5 @@ hre = no
 base_tax = 3 
 base_production = 3
 base_manpower = 1
+
+discovered_by = global

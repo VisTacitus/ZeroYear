@@ -1,0 +1,8 @@
+#1799 - Urgoma
+
+owner = ETH
+controller = ETH
+add_core = ETH
+
+discovered_by = global
+

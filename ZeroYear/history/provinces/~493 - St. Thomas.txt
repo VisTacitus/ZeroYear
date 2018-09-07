@@ -1,0 +1,15 @@
+#493 - St. Thomas
+
+owner = GBR
+controller = GBR
+add_core = GBR
+culture = black_anglo
+religion = animism
+capital = "St. Thomas"
+trade_goods = unknown
+hre = no
+base_tax = 4
+base_production = 4
+base_manpower = 1
+
+discovered_by = global

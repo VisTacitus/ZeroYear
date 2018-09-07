@@ -3,7 +3,7 @@
 owner = CAN
 controller = CAN
 add_core = CAN
-culture = anishinabe
+culture = anglo_canadian
 religion = totemism 
 capital = "Nipigon" 
 trade_goods = fur
@@ -12,8 +12,5 @@ base_tax = 1
 base_production = 1 
 base_manpower = 1 
 is_city = yes
-native_size = 5
-native_ferocity = 6
-native_hostileness = 1
 
 discovered_by = global

@@ -1,0 +1,8 @@
+#799 - Chaco Boreal
+
+owner = PRG
+controller = PRG
+add_core = PRG
+culture = chacoan
+
+discovered_by = global

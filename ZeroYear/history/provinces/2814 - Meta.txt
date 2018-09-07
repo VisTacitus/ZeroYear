@@ -3,7 +3,7 @@
 owner = COL
 controller = COL
 add_core = COL
-culture = carib
+culture = mestizo
 religion = animism
 capital = "Meta"
 trade_goods = unknown

@@ -1,0 +1,16 @@
+#745 - Paramaribo
+
+owner = NED
+controller = NED
+add_core = NED
+add_core = X57
+culture = black_dutch
+religion = animism
+capital = "Paramaribo"
+trade_goods = unknown
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+
+discovered_by = global

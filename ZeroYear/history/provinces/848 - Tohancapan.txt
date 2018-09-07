@@ -3,7 +3,7 @@
 owner = MEX
 controller = MEX
 add_core = MEX
-culture = totonac
+culture = mestizo
 religion = nahuatl
 capital = "Tohancapan"
 trade_goods = spices

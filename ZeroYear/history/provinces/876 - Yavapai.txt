@@ -3,7 +3,7 @@
 owner = USA
 controller = USA
 add_core = USA
-culture = piman
+culture = native_american_minor
 religion = totemism
 capital = "Holbrook" 
 trade_goods = unknown 

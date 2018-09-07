@@ -3,7 +3,7 @@
 owner = MEX
 controller = MEX
 add_core = MEX
-culture = yucatec
+culture = mestizo
 religion = mesoamerican_religion
 capital = "Sotuta" 
 trade_goods = fish 

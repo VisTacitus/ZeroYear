@@ -3,7 +3,7 @@
 owner = ITA
 controller = ITA
 add_core = ITA
-culture = piedmontese
+culture = italian
 religion = catholic
 hre = no
 base_tax = 5 
@@ -13,7 +13,5 @@ base_manpower = 5
 fort_15th = yes #Cittadellla of Alessandria
 capital = "Cuneo"
 is_city = yes
-
-
 
 discovered_by = global

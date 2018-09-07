@@ -1,0 +1,17 @@
+#755 - Pernambuco
+
+owner = BRZ
+controller = BRZ
+add_core = BRZ
+culture = tupinamba
+discovered_by = global
+religion = animism
+capital = "Olinda"
+trade_goods = unknown
+hre = no
+base_tax = 3
+base_production = 5
+base_manpower = 2
+native_size = 15
+native_ferocity = 1
+native_hostileness = 2

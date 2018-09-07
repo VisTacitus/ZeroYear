@@ -3,7 +3,7 @@
 owner = HAT
 controller = HAT
 add_core = HAT
-culture = arawak
+culture = black_french
 religion = animism
 capital = "Tortuga"
 trade_goods = unknown 

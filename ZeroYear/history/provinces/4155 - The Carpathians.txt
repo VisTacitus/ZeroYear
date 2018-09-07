@@ -2,5 +2,6 @@
 owner = RMN
 controller = RMN
 add_core = RMN
+culture = romanian
 
 discovered_by = global

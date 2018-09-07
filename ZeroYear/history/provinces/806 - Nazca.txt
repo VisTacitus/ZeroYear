@@ -3,7 +3,7 @@
 owner = PEU
 controller = PEU
 add_core = PEU
-culture = inca
+culture = mestizo
 religion = inti
 capital = "Nazca"
 trade_goods = fish

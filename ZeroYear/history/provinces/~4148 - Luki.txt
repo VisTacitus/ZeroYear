@@ -1,0 +1,24 @@
+#4148 - Luki
+
+owner = SOV
+controller = SOV
+add_core = SOV
+add_core = RUS
+culture = novgorodian
+religion = orthodox
+hre = no
+base_tax = 2
+base_production = 1
+trade_goods = naval_supplies 
+base_manpower = 1
+capital = "Velikiye Luki"
+is_city = yes
+fort_15th = yes
+
+discovered_by = global
+
+1991.12.25 = {
+	remove_core = SOV
+	owner = RUS
+	controller = RUS
+} #The Soviet Union collapses with only the Russian Federation left in it.
